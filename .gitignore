@@ -35,6 +35,10 @@ pnpm-debug.log*
 **/input/raw_assets/audio/*
 !**/input/raw_assets/audio/.gitkeep
 
+# --- Sample assets (VDS / reference clips) ---
+**/source/samples/*
+!**/source/samples/.gitkeep
+
 # --- OS / IDE ---
 .DS_Store
 ._*
