@@ -1,0 +1,28 @@
+[render]
+status = "success"
+output_path = "output/final_video.mp4"
+duration_seconds = 30.766667
+duration_frames = 923
+width = 1080
+height = 1920
+fps = 30
+has_audio = true
+renderer = "remotion"
+remotion_project_path = "remotion"
+composition_id = "MainVideo"
+creative_plan_path = "source/creative_plan.toml"
+render_plan_path = "source/render_plan.toml"
+source_clip_path = "input/raw_assets/videos/downloaded/7631412397097504008_hanh-trinh-shopping-nha-ngoai-phan-222222222.mp4"
+voice_path = "source/voice.wav"
+style_source = "source/vds.md"
+notes = "Đồng bộ sau patch creative_plan: intro 13.7s + source; headline Bebas Neue + fallback Be Vietnam, không nền panel headline; intro overlay trên source (ít blur hơn bản cũ)."
+
+[[warnings]]
+code = "SEMANTIC_MAPPING_SKIPPED"
+message = "Job nhánh intro + source clip, không dùng semantic mapping."
+file_path = "source/render_plan.toml"
+
+[[warnings]]
+code = "SUBTITLE_DISABLED"
+message = "Không render phụ đề cho AI_INTRO_VOICE."
+file_path = "source/render_plan.toml"

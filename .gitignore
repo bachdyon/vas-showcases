@@ -16,8 +16,7 @@ pnpm-debug.log*
 **/remotion/build/
 **/.remotion/
 
-# --- Pipeline outputs & logs ---
-**/output/
+# --- Pipeline logs ---
 **/logs/
 *.log
 
