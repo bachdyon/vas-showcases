@@ -1,0 +1,87 @@
+[job]
+id = "2026-04-28_004_test-template-theanh28-multitv-pageantmanila"
+title = "Test template Theanh28 multiTV pageantmanila"
+status = "created"
+created_at = "2026-04-28T21:09:23+07:00"
+updated_at = "2026-04-28T21:09:23+07:00"
+
+[request]
+brief = "Test skill theanh28-template với video TikTok pageantmanila, logo multiTV, intro đỏ chữ trắng."
+platform = "tiktok"
+language = "vi"
+target_duration_seconds = 35.0
+
+[paths]
+job_dir = "jobs/2026-04-28_004_test-template-theanh28-multitv-pageantmanila"
+input_dir = "input"
+reference_dir = "input/reference"
+raw_assets_dir = "input/raw_assets"
+audio_dir = "input/audio"
+brand_dir = "input/brand"
+source_dir = "source"
+remotion_dir = "remotion"
+output_dir = "output"
+logs_dir = "logs"
+
+[[stages]]
+name = "request"
+status = "done"
+output = "job.toml"
+updated_at = "2026-04-28T21:09:23+07:00"
+reason = ""
+
+[[stages]]
+name = "reference_style"
+status = "pending"
+output = "source/vds.md"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "creative_plan"
+status = "pending"
+output = "source/creative_plan.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "voice"
+status = "pending"
+output = "source/voice.wav"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "transcript"
+status = "pending"
+output = "source/transcript_word_level.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "asset_semantics"
+status = "pending"
+output = "source/asset_semantics.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "semantic_mapping"
+status = "pending"
+output = "source/semantic_mapping.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "render_plan"
+status = "pending"
+output = "source/render_plan.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "render"
+status = "pending"
+output = "output/final_video.mp4"
+updated_at = ""
+reason = ""

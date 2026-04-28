@@ -1,0 +1,28 @@
+[template]
+id = "theanh28"
+version = "1.0.0"
+contract_path = "templates/theanh28/template.toml"
+
+[inputs]
+source_clip = "input/raw_assets/videos/template/source.mp4"
+intro_voice = "source/voice.wav"
+main_headline = "Hết nam vương Campuchia giờ đến thí sinh tại đấu trường nam vương Philippines. Đúng là chỉ cần bạn tự tin, không gì là không thể!"
+intro_script = "Hết nam vương Campuchia giờ đến thí sinh tại đấu trường nam vương Philippines. Đúng là chỉ cần bạn tự tin, không gì là không thể!"
+
+[props]
+introDurationFrames = 219
+sourceDurationFrames = 831
+sourceVideo = "assets/source.mp4"
+introVoice = "assets/voice.wav"
+mainHeadline = "Hết nam vương Campuchia giờ đến thí sinh tại đấu trường nam vương Philippines. Đúng là chỉ cần bạn tự tin, không gì là không thể!"
+videoCredit = "VIDEO: PAGEANT MANILA"
+dateStamp = "28/04/2026"
+brandNumber = "#28"
+brandLabel = "MULTITV"
+logoPath = "assets/logo.png"
+overlayColor = "rgba(190, 0, 0, 0.92)"
+textColor = "#ffffff"
+headlineFontScale = 1.0
+introObjectPosition = "center 18%"
+introTransform = "translateY(-5%) scale(1.06)"
+sourceObjectPosition = "center center"

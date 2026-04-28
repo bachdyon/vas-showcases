@@ -1,0 +1,24 @@
+[voice]
+provider = "ausynclab"
+voice_id = 1907231
+voice_name = ""
+language = "vi"
+gender = ""
+age = ""
+use_case = ""
+model_name = "myna-2"
+speed = 1.0
+reason = "Generated narration audio using the selected AusyncLab voice."
+
+[audio]
+audio_id = 2341562
+file_path = "jobs/2026-04-28_004_test-template-theanh28-multitv-pageantmanila/source/voice.wav"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/audio/67def087-0989-4b43-ad54-6af5d471cad7_41cbb0aa-2975-4540-a020-8aa636a93bd8.wav"
+format = "wav"
+sample_rate = 0
+duration_seconds = 0.0
+state = "SUCCEED"
+
+[source]
+script_path = "source/creative_plan.toml"
+text_hash = "d1f74f034c7bf1350f7df03bec331d931a0e9e6e48470ec6a27626803a1ec682"

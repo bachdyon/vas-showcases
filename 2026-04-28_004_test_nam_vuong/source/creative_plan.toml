@@ -1,0 +1,52 @@
+[metadata]
+title = "Theanh28 template video"
+language = "vi"
+platform = "tiktok"
+target_duration_seconds = 35.0
+aspect_ratio = "9:16"
+vds_template = "Theanh28 News Intro + Source Clip"
+
+[creative]
+audience = "Khán giả TikTok/Reels/Shorts thích nội dung tình huống đời thường."
+goal = "Đặt ngữ cảnh bằng intro tin tức ngắn rồi phát clip gốc."
+tone = "tin tức giải trí, nhanh, rõ, hơi meme"
+cta = "Mời bình luận bên nào hợp lý hơn."
+
+[voiceover]
+script = "Hết nam vương Campuchia giờ đến thí sinh tại đấu trường nam vương Philippines. Đúng là chỉ cần bạn tự tin, không gì là không thể!"
+delivery = "Giọng AI rõ lời, nhịp nhanh vừa phải, phong cách tin tức giải trí."
+
+[[scene_intents]]
+id = "SC_01"
+start_hint = 0.0
+end_hint = 7.295
+narrative_role = "news_intro_card"
+spoken_text = "Hết nam vương Campuchia giờ đến thí sinh tại đấu trường nam vương Philippines. Đúng là chỉ cần bạn tự tin, không gì là không thể!"
+visual_intent = "Theanh28 news overlay on source footage."
+mood = "khẩn trương, dễ hiểu"
+preferred_shot_types = ["overlay intro", "lower-third panel"]
+asset_requirements = ["SOURCE_CLIP", "AI_INTRO_VOICE", "MAIN_HEADLINE"]
+
+[[scene_intents]]
+id = "SC_03"
+start_hint = 7.295
+end_hint = 35.0
+narrative_role = "source_clip_playback"
+spoken_text = "No AI voice; original source audio leads."
+visual_intent = "Full-bleed source clip playback."
+mood = "tự nhiên"
+preferred_shot_types = ["original source clip"]
+asset_requirements = ["SOURCE_CLIP", "SOURCE_AUDIO"]
+
+[[text_overlays]]
+id = "TXT_01"
+scene_id = "SC_01"
+text = "Hết nam vương Campuchia giờ đến thí sinh tại đấu trường nam vương Philippines. Đúng là chỉ cần bạn tự tin, không gì là không thể!"
+role = "main_headline"
+timing = "full_intro_hold"
+start = 0.0
+end = 7.295
+style_ref = "MAIN_TITLE"
+position = "lower_third"
+animation_in = "fade_slide"
+animation_out = "fade"

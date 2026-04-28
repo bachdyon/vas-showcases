@@ -1,0 +1,21 @@
+[metadata]
+generated_at = "2026-04-28T14:15:08.241298+00:00"
+provider = "tikwm"
+mode = "video"
+hd = false
+total_assets = 1
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://www.tiktok.com/@pageantmanila/video/7630430677019938069?q=Perkins&t=1777384973217"
+asset_id = "7630430677019938069"
+title = "WATCH RJ PERKINS IN HIS SWIMWEAR RAMP! DURING Moster Pampangga 2026! PRE-PAGEANT NIGHT!🔥💪 #PageantManila #RjPerkins #MisterPampangga2026 #SwimwearRamp #LakeshorePampangga "
+author = "pageantmanila"
+output_path = "jobs/2026-04-28_004_test-template-theanh28-multitv-pageantmanila/input/raw_assets/videos/downloaded/7630430677019938069_watch-rj-perkins-in-his-swimwear-ramp-during-moster-pampangga-2026-pre.mp4"
+downloaded = true
+size_bytes = 2569015
+duration_seconds = 37.033
+width = 576
+height = 1024
+direct_url_hash = "a35303a33f7b"
