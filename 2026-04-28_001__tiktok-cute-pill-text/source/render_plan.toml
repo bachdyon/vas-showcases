@@ -1,0 +1,48 @@
+[render]
+fps = 30
+width = 1080
+height = 1920
+duration_seconds = 16.333333
+background = "black"
+renderer = "remotion"
+composition_id = "MainVideo"
+output_path = "output/final_video.mp4"
+creative_plan_path = "source/creative_plan.toml"
+
+[source]
+primary_video = "input/raw_assets/7616616851635850514_mình-nghe-nói-loài-chó-khi-nó-già-yếu-hoặc-bệnh-tật-sắp-mất-nó-sẽ-tự-r.mp4"
+remotion_public_video = "remotion/public/assets/source.mp4"
+fit = "cover"
+crop_anchor = "center"
+
+[audio]
+mode = "use_source_audio_only"
+voiceover = "none"
+music = "none"
+
+[text_overlay]
+enabled = true
+position_mode = "top_center_percent"
+top_percent = 25
+lines = ["Đôi khi tôi chỉ ước mình", "được là một chú chó", "Huhu, cute quá 🥹"]
+font_family = "BeVietnamPro"
+font_size = 44
+font_weight = 700
+text_color = "#000000"
+background_color = "#FFFFFF"
+padding_vertical = 3
+padding_horizontal = 8
+line_gap = 0
+text_align = "center"
+stack_align = "center"
+
+[text_overlay.pill_rules]
+mode = "per_line_dynamic_radius"
+first_line_default = "round_top_left_top_right"
+last_line_default = "round_bottom_left_bottom_right"
+line_longer_than_adjacent = "round_all_corners"
+line_shorter_than_adjacent = "no_rounding"
+
+[remotion_props]
+textTopPercent = 25
+sourceVideo = "assets/source.mp4"

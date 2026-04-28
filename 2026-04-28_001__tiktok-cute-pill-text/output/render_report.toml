@@ -1,0 +1,25 @@
+[render_report]
+job_id = "2026-04-28_001_tiktok-ch-cute-pill-text"
+status = "done"
+output_file = "output/final_video.mp4"
+renderer = "remotion"
+composition_id = "MainVideo"
+rendered_at_note = "Created in new isolated job per user request."
+
+[video]
+width = 1080
+height = 1920
+fps = 30
+duration_seconds = 16.333333
+codec = "h264"
+
+[overlay]
+position_top_percent = 25
+lines = ["Đôi khi tôi chỉ ước mình", "được là một chú chó", "Huhu, cute quá 🥹"]
+font_family = "BeVietnamPro"
+font_size = 44
+font_weight = 700
+text_color = "#000000"
+background_color = "#FFFFFF"
+line_gap = 0
+pill_mode = "per_line_dynamic_radius"

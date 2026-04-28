@@ -1,0 +1,41 @@
+[metadata]
+title = "Dog Clip - Pill Text Overlay"
+language = "vi"
+platform = "tiktok"
+aspect_ratio = "9:16"
+target_duration_seconds = 16.333333
+
+[creative]
+audience = "Người xem TikTok thích clip thú cưng dễ thương"
+goal = "Giữ clip gốc làm trọng tâm, thêm text cảm xúc dạng pill để tăng retention"
+tone = "cute, mềm, đời thường, đọc nhanh trên mobile"
+emotional_arc = ["hook_text_on_video", "sustain_cute_mood", "soft_finish"]
+cta = ""
+
+[format]
+structure = "single_source_clip_with_static_text_overlay"
+voiceover = "none"
+subtitles = "none"
+transition = "none"
+
+[[scene_intents]]
+id = "SC_01"
+start_hint = 0.0
+end_hint = 16.333333
+narrative_role = "source_clip_with_caption"
+spoken_text = ""
+visual_intent = "Phát clip gốc full-frame; overlay pill text trắng chữ đen ở top 25%."
+mood = "đáng yêu, đồng cảm"
+preferred_shot_types = ["original_source_clip"]
+asset_requirements = ["SOURCE_CLIP"]
+
+[[text_overlays]]
+id = "TXT_01"
+scene_id = "SC_01"
+lines = ["Đôi khi tôi chỉ ước mình", "được là một chú chó", "Huhu, cute quá 🥹"]
+role = "hook_and_reaction"
+timing = "full_duration_hold"
+start = 0.0
+end = 16.333333
+position = "top_center_25_percent"
+style_ref = "PILL_STACK_WHITE_BG_BLACK_TEXT"
