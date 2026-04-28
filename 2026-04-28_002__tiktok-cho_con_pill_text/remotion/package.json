@@ -1,0 +1,26 @@
+{
+  "name": "job-2026-04-28-002-remotion",
+  "version": "1.0.0",
+  "description": "Remotion render for TikTok pill overlay",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts MainVideo ../output/final_video.mp4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "^4.0.452",
+    "@remotion/google-fonts": "^4.0.452",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "remotion": "^4.0.452"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^6.0.3"
+  }
+}

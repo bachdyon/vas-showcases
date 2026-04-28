@@ -1,0 +1,22 @@
+[render_report]
+job_id = "2026-04-28_002_tiktok-pill-en-ch-tr-ng-l-ch-ph-i"
+status = "done"
+output_file = "output/final_video.mp4"
+renderer = "remotion"
+composition_id = "MainVideo"
+
+[video]
+width = 1080
+height = 1920
+fps = 30
+duration_seconds = 55.5
+codec = "h264"
+
+[overlay]
+top_percent = 70
+tilt_deg = 10
+right_offset_percent = 4
+lines = ["Chân em run run, ánh mắt buồn như đang cầu cứu.", "Thương em quá tình cảm như con người"]
+pill_mode = "per_line_dynamic_radius"
+text_color = "#FFFFFF"
+pill_color = "#000000"

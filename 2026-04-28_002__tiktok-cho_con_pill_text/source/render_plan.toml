@@ -1,0 +1,52 @@
+[render]
+fps = 30
+width = 1080
+height = 1920
+duration_seconds = 55.5
+background = "black"
+renderer = "remotion"
+composition_id = "MainVideo"
+output_path = "output/final_video.mp4"
+creative_plan_path = "source/creative_plan.toml"
+
+[source]
+primary_video = "input/raw_assets/videos/downloaded/7567214110039887122_kẻ-đầu-bạc-tiễn-kẻ-đầu-xanh-chó-cũng-biết-run-khi-thấy-con-nó-sắp-chớt.mp4"
+remotion_public_video = "remotion/public/assets/source.mp4"
+fit = "cover"
+crop_anchor = "center"
+
+[audio]
+mode = "use_source_audio_only"
+voiceover = "none"
+music = "none"
+
+[text_overlay]
+enabled = true
+position_mode = "top_percent_center_with_offset_and_tilt"
+top_percent = 70.0
+right_offset_percent = -0.69
+tilt_deg = 10
+lines = ["Chân em run run, ánh mắt buồn", "như đang cầu cứu.", "Thương em quá, tình cảm như con người 🐾"]
+font_family = "BeVietnamPro"
+font_size = 31.0
+font_weight = 700
+text_color = "#FFFFFF"
+background_color = "#000000"
+padding_vertical = 4
+padding_horizontal = 10
+line_gap = 0
+text_align = "center"
+stack_align = "center"
+
+[text_overlay.pill_rules]
+mode = "per_line_dynamic_radius"
+first_line_default = "round_top_left_top_right"
+last_line_default = "round_bottom_left_bottom_right"
+line_longer_than_adjacent = "round_all_corners"
+line_shorter_than_adjacent = "no_rounding"
+
+[remotion_props]
+textTopPercent = 70.0
+textTiltDeg = 10
+textRightOffsetPercent = -0.69
+sourceVideo = "assets/source.mp4"

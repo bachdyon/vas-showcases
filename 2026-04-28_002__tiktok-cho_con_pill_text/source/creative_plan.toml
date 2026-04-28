@@ -1,0 +1,41 @@
+[metadata]
+title = "TikTok Dog Rescue Mood - Black Pill Overlay"
+language = "vi"
+platform = "tiktok"
+aspect_ratio = "9:16"
+target_duration_seconds = 55.5
+
+[creative]
+audience = "Người xem TikTok thích nội dung cảm xúc về thú cưng"
+goal = "Giữ clip gốc toàn phần, thêm overlay cảm xúc để tăng chú ý và đồng cảm"
+tone = "xúc động, gần gũi, đọc nhanh trên mobile"
+emotional_arc = ["emotional_hook", "sustain_empathy", "soft_close"]
+cta = ""
+
+[format]
+structure = "single_source_clip_with_static_text_overlay"
+voiceover = "none"
+subtitles = "none"
+transition = "none"
+
+[[scene_intents]]
+id = "SC_01"
+start_hint = 0.0
+end_hint = 55.5
+narrative_role = "source_clip_with_emotional_overlay"
+spoken_text = ""
+visual_intent = "Phát source clip full frame, overlay pill đen chữ trắng, top 70%, nghiêng 10 độ, lệch phải 4%."
+mood = "xúc động, thương cảm"
+preferred_shot_types = ["original_source_clip"]
+asset_requirements = ["SOURCE_CLIP"]
+
+[[text_overlays]]
+id = "TXT_01"
+scene_id = "SC_01"
+lines = ["Chân em run run, ánh mắt buồn", "như đang cầu cứu.", "Thương em quá, tình cảm như con người 🐾"]
+role = "emotional_hook"
+timing = "full_duration_hold"
+start = 0.0
+end = 55.5
+position = "top_70_percent_center_shift_right_4_percent_tilt_10deg"
+style_ref = "PILL_STACK_BLACK_BG_WHITE_TEXT"

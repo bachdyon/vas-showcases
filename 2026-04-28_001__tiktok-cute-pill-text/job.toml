@@ -10,9 +10,10 @@ brief = "Tải video TikTok, overlay pill text 3 dòng (chữ đen nền trắng
 platform = "tiktok"
 language = "vi"
 target_duration_seconds = 16.34
+source_url = "https://www.tiktok.com/@thuytrang_1085/video/7616616851635850514?lang=en&q=ch%C3%B3%20b%E1%BB%8B%20s%E1%BA%AFp%20ch%E1%BA%BFt&t=1777349993381"
 
 [paths]
-job_dir = "jobs/2026-04-28_001_tiktok-ch-cute-pill-text"
+job_dir = "showcases/2026-04-28_001__tiktok-cute-pill-text"
 input_dir = "input"
 reference_dir = "input/reference"
 raw_assets_dir = "input/raw_assets"
@@ -92,3 +93,11 @@ status = "done"
 output = "output/final_video.mp4"
 updated_at = "2026-04-28T14:27:55+07:00"
 reason = "Đã render thành công video từ job mới."
+
+[showcase]
+name = "TikTok Cute Pill Text"
+final_video = "output/final_video.mp4"
+render_report = "output/render_report.toml"
+creative_plan = "source/creative_plan.toml"
+render_plan = "source/render_plan.toml"
+prompt_file = "prompt.txt"

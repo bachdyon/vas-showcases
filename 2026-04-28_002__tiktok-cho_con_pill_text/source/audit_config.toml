@@ -1,0 +1,12 @@
+[audit]
+profile = "overlay_readability_safearea"
+audit_mode = "code_first"
+max_audit_passes = 3
+fix_mode = "batch_all_findings"
+severity_threshold = "error"
+stop_when = "no_error_findings_or_max_passes"
+
+[reports]
+pass_toml_pattern = "logs/audit_pass_%02d.toml"
+pass_html_pattern = "logs/audit_report_vi_pass_%02d.html"
+final_html = "logs/audit_report_vi_final.html"
