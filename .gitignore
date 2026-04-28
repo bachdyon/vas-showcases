@@ -10,7 +10,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# --- Remotion / bundler cache ---
+# --- Remotion ---
+**/remotion/node_modules/
 **/remotion/out/
 **/remotion/build/
 **/.remotion/
