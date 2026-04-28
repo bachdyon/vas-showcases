@@ -1,0 +1,14 @@
+[creative_plan]
+title = "TikTok chó không chê chủ nghèo pill overlay"
+language = "vi"
+platform = "tiktok"
+notes = "Giữ clip gốc full frame, dùng audio gốc, không voiceover, không subtitle, không transition."
+
+[[overlays]]
+id = "TXT_01"
+style_ref = "PILL_STACK_BLACK_BG_WHITE_TEXT"
+lines = [
+  "Đúng là chỉ chó không chê chủ nghèo",
+  "nhìn các e ngoan quá, lẽo đẽo đi sau bà♥️",
+]
+

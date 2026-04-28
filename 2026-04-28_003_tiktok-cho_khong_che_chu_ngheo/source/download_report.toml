@@ -1,0 +1,20 @@
+[metadata]
+generated_at = "2026-04-28T17:29:00+07:00"
+provider = "tikwm"
+mode = "video"
+hd = true
+total_assets = 1
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://www.tiktok.com/@banhtiendung/video/7579994249878457607?q=ch%C3%B3%20ko%20ch%C3%AA%20ch%E1%BB%A7&t=1777371683233"
+asset_id = "7579994249878457607"
+title = "Chó không chê chủ nghèo A dog never despises its poor owner #hanoi #vietnam"
+author = "banhtiendung"
+output_path = "jobs/2026-04-28_003_tiktok-ch-kh-ng-ch-ch-ngh-o-pill-overlay/input/raw_assets/videos/downloaded/7579994249878457607_cho-khong-che-chu-ngheo.mp4"
+downloaded = true
+size_bytes = 2512585
+duration_seconds = 20.966667
+width = 720
+height = 1280

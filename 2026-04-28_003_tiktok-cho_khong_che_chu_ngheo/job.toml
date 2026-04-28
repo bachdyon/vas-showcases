@@ -1,0 +1,94 @@
+[job]
+id = "2026-04-28_003_tiktok-ch-kh-ng-ch-ch-ngh-o-pill-overlay"
+title = "TikTok chó không chê chủ nghèo pill overlay"
+status = "done"
+created_at = "2026-04-28T17:27:50+07:00"
+updated_at = "2026-04-28T17:34:41+07:00"
+
+[request]
+brief = "Tạo video TikTok 9:16 từ video gốc, giữ source clip gốc full frame, không voiceover, không subtitle, không transition. Overlay pill từng dòng style PILL_STACK_BLACK_BG_WHITE_TEXT với nội dung: Đúng là chỉ chó không chê chủ nghèo / nhìn các e ngoan quá, lẽo đẽo đi sau bà♥️"
+platform = "tiktok"
+language = "vi"
+target_duration_seconds = 20.966667
+
+[paths]
+job_dir = "jobs/2026-04-28_003_tiktok-ch-kh-ng-ch-ch-ngh-o-pill-overlay"
+input_dir = "input"
+reference_dir = "input/reference"
+raw_assets_dir = "input/raw_assets"
+audio_dir = "input/audio"
+brand_dir = "input/brand"
+source_dir = "source"
+remotion_dir = "remotion"
+output_dir = "output"
+logs_dir = "logs"
+
+[[inputs]]
+kind = "raw_assets"
+path = "input/raw_assets/videos/downloaded/7579994249878457607_cho-khong-che-chu-ngheo.mp4"
+original_path = "jobs/2026-04-28_003_tiktok-ch-kh-ng-ch-ch-ngh-o-pill-overlay/input/raw_assets/videos/downloaded/7579994249878457607_cho-khong-che-chu-ngheo.mp4"
+registered_at = "2026-04-28T17:29:25+07:00"
+note = "Video gốc tải từ TikTok qua TikWM."
+
+[[stages]]
+name = "request"
+status = "done"
+output = "job.toml"
+updated_at = "2026-04-28T17:27:50+07:00"
+reason = ""
+
+[[stages]]
+name = "reference_style"
+status = "pending"
+output = "source/vds.md"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "creative_plan"
+status = "done"
+output = "source/creative_plan.toml"
+updated_at = "2026-04-28T17:34:31+07:00"
+reason = ""
+
+[[stages]]
+name = "voice"
+status = "pending"
+output = "source/voice.wav"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "transcript"
+status = "pending"
+output = "source/transcript_word_level.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "asset_semantics"
+status = "pending"
+output = "source/asset_semantics.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "semantic_mapping"
+status = "pending"
+output = "source/semantic_mapping.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "render_plan"
+status = "done"
+output = "source/render_plan.toml"
+updated_at = "2026-04-28T17:34:35+07:00"
+reason = ""
+
+[[stages]]
+name = "render"
+status = "done"
+output = "output/final_video.mp4"
+updated_at = "2026-04-28T17:34:41+07:00"
+reason = ""

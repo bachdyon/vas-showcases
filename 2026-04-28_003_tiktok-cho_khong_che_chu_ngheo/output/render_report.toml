@@ -1,0 +1,23 @@
+[render]
+status = "success"
+output_path = "output/final_video.mp4"
+duration_seconds = 21.013333
+width = 1080
+height = 1920
+fps = 30
+has_audio = true
+renderer = "remotion"
+remotion_project_path = "remotion"
+composition_id = "MainVideo"
+render_plan_path = "source/render_plan.toml"
+
+[[checks]]
+name = "ffprobe_output"
+status = "pass"
+message = "Video final là 1080x1920, 30fps, có audio source và thời lượng khoảng 21.01 giây."
+
+[[checks]]
+name = "visual_thumbnail"
+status = "pass"
+message = "Thumbnail kiểm tra cho thấy 2 pill nền đen chữ trắng, không subtitle và không transition."
+

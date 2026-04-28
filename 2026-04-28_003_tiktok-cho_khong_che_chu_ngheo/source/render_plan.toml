@@ -1,0 +1,56 @@
+[render]
+fps = 30
+width = 1080
+height = 1920
+duration_seconds = 20.966667
+background = "black"
+renderer = "remotion"
+composition_id = "MainVideo"
+output_path = "output/final_video.mp4"
+creative_plan_path = "source/creative_plan.toml"
+
+[source]
+primary_video = "input/raw_assets/videos/downloaded/7579994249878457607_cho-khong-che-chu-ngheo.mp4"
+remotion_public_video = "remotion/public/assets/source.mp4"
+fit = "cover"
+crop_anchor = "center"
+
+[audio]
+mode = "use_source_audio_only"
+voiceover = "none"
+music = "none"
+
+[text_overlay]
+enabled = true
+style_ref = "PILL_STACK_BLACK_BG_WHITE_TEXT"
+position_mode = "lower_center"
+top_percent = 67.0
+right_offset_percent = 0.0
+tilt_deg = 0
+lines = [
+  "Đúng là chỉ chó không chê chủ nghèo",
+  "nhìn các e ngoan quá, lẽo đẽo đi sau bà♥️",
+]
+font_family = "BeVietnamPro"
+font_size = 34.0
+font_weight = 700
+text_color = "#FFFFFF"
+background_color = "#000000"
+padding_vertical = 8
+padding_horizontal = 18
+line_gap = 0
+text_align = "center"
+stack_align = "center"
+
+[text_overlay.pill_rules]
+mode = "per_line_dynamic_radius"
+first_line_default = "round_top_left_top_right"
+last_line_default = "round_bottom_left_bottom_right"
+line_longer_than_adjacent = "round_all_corners"
+line_shorter_than_adjacent = "no_rounding"
+
+[remotion_props]
+textTopPercent = 67.0
+textTiltDeg = 0
+textRightOffsetPercent = 0.0
+sourceVideo = "assets/source.mp4"
