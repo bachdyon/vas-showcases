@@ -1,0 +1,19 @@
+[metadata]
+approved_at = "2026-04-27T20:30:00+07:00"
+format = "news_intro_then_source_clip"
+status = "approved"
+
+[source]
+clip_path = "input/raw_assets/videos/downloaded/7631412397097504008_hanh-trinh-shopping-nha-ngoai-phan-222222222.mp4"
+vds_path = "source/vds.md"
+
+[text]
+main_headline = "CÔ GÁI QUAY LẠI HÀNH TRÌNH SHOPPING, NHƯNG CHỦ QUÁN NÀY LẠ LẮM"
+ai_intro_voice = "Cô gái quay lại hành trình shopping, nhưng chủ quán này lạ lắm. Đã không cho cô vào, lại còn nhắc ngay chuyện chiếc tủ lạnh lần trước. Mà mọi người thấy bên nào đúng hơn: chủ quán giữ của, hay khách quen shopping hơi quá tay đây?"
+debate_question = "Mà mọi người thấy bên nào đúng hơn: chủ quán giữ của, hay khách quen shopping hơi quá tay đây?"
+
+[voice]
+provider = "ausynclab"
+voice_name = "Tuấn Tú"
+language = "vi"
+delivery = "giọng nam bản tin giải trí, rõ lời, hơi dí dỏm, nhịp nhanh vừa phải"

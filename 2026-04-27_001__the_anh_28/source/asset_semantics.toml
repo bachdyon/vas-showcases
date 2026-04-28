@@ -1,0 +1,67 @@
+[[assets]]
+id = "AST_001"
+file_path = "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/input/raw_assets/videos/downloaded/7631412397097504008_hanh-trinh-shopping-nha-ngoai-phan-222222222.mp4"
+type = "video"
+duration_seconds = 16.997
+width = 1080
+height = 1920
+fps = 60.0
+has_audio = true
+summary = "TODO: add semantic summary."
+visual_style = ""
+mood = []
+tags = []
+privacy_notes = []
+quality_notes = []
+
+[[assets]]
+id = "AST_002"
+file_path = "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/input/raw_assets/videos/downloaded/7633357983405165845_ton-trong-thu-tuc-cua-nhau.mp4"
+type = "video"
+duration_seconds = 40.61
+width = 1080
+height = 1920
+fps = 59.94
+has_audio = true
+summary = "TODO: add semantic summary."
+visual_style = ""
+mood = []
+tags = []
+privacy_notes = []
+quality_notes = []
+
+[[asset_scenes]]
+id = "AST_001_SC_01"
+start = 0.0
+end = 16.997
+description = "TODO: describe visible content with multimodal analysis."
+subjects = []
+actions = []
+environment = ""
+shot_type = ""
+camera_motion = ""
+composition = ""
+colors = []
+mood = []
+semantic_tags = []
+recommended_uses = []
+avoid_uses = []
+sample_frames = ["jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/samples/7631412397097504008_hanh-trinh-shopping-nha-ngoai-phan-222222222_sample_01.jpg", "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/samples/7631412397097504008_hanh-trinh-shopping-nha-ngoai-phan-222222222_sample_02.jpg", "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/samples/7631412397097504008_hanh-trinh-shopping-nha-ngoai-phan-222222222_sample_03.jpg", "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/samples/7631412397097504008_hanh-trinh-shopping-nha-ngoai-phan-222222222_sample_04.jpg", "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/samples/7631412397097504008_hanh-trinh-shopping-nha-ngoai-phan-222222222_sample_05.jpg", "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/samples/7631412397097504008_hanh-trinh-shopping-nha-ngoai-phan-222222222_sample_06.jpg"]
+
+[[asset_scenes]]
+id = "AST_002_SC_01"
+start = 0.0
+end = 40.61
+description = "TODO: describe visible content with multimodal analysis."
+subjects = []
+actions = []
+environment = ""
+shot_type = ""
+camera_motion = ""
+composition = ""
+colors = []
+mood = []
+semantic_tags = []
+recommended_uses = []
+avoid_uses = []
+sample_frames = ["jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/samples/7633357983405165845_ton-trong-thu-tuc-cua-nhau_sample_01.jpg", "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/samples/7633357983405165845_ton-trong-thu-tuc-cua-nhau_sample_02.jpg", "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/samples/7633357983405165845_ton-trong-thu-tuc-cua-nhau_sample_03.jpg", "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/samples/7633357983405165845_ton-trong-thu-tuc-cua-nhau_sample_04.jpg", "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/samples/7633357983405165845_ton-trong-thu-tuc-cua-nhau_sample_05.jpg", "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/samples/7633357983405165845_ton-trong-thu-tuc-cua-nhau_sample_06.jpg"]

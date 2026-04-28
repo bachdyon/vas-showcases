@@ -1,0 +1,34 @@
+[metadata]
+generated_at = "2026-04-27T20:08:02+07:00"
+provider = "tikwm"
+mode = "video"
+hd = true
+total_assets = 2
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://www.tiktok.com/@vannamvietnam11/video/7631412397097504008?lang=en&q=c%C3%B4%20g%C3%A1i%20shoping%20nh%C3%A0%20m%E1%BA%B9&t=1777294670222"
+asset_id = "7631412397097504008"
+title = "Hành trình shopping nhà ngoại phần 222222222 😤😤😤 #vannam #nhangoai #shopping #taphoa "
+author = "vannamvietnam11"
+output_path = "input/raw_assets/videos/downloaded/7631412397097504008_hanh-trinh-shopping-nha-ngoai-phan-222222222.mp4"
+downloaded = true
+size_bytes = 3372340
+duration_seconds = 16.997
+width = 1080
+height = 1920
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://www.tiktok.com/@theanh28trending/video/7633357983405165845?q=theanh%2028&t=1777295367437"
+asset_id = "7633357983405165845"
+title = "TÔN TRỌNG THỦ TỤC CỦA NHAU 🤣🤣 #theanh28trending #theanh28 #tiktoknews #tiktokgiaitri "
+author = "theanh28trending"
+output_path = "input/raw_assets/videos/downloaded/7633357983405165845_ton-trong-thu-tuc-cua-nhau.mp4"
+downloaded = true
+size_bytes = 4109131
+duration_seconds = 40.61
+width = 1080
+height = 1920

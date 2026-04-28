@@ -1,0 +1,24 @@
+[voice]
+provider = "ausynclab"
+voice_id = 1907231
+voice_name = "Thế Anh - Nữ"
+language = "vi"
+gender = "FEMALE"
+age = ""
+use_case = ""
+model_name = "myna-2"
+speed = 1.0
+reason = "Giọng AusyncLab Thế Anh - Nữ theo creative_plan; TTS myna-2. Hậu xử lý pydub speedup 1.12x; duration_seconds cập nhật theo file WAV."
+
+[audio]
+audio_id = 2338653
+file_path = "source/voice.wav"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/audio/2ce7b257-f183-4e22-9bbb-b2d12804b851_d14e7f25-c59c-43c1-be6d-ec43508fe338.wav"
+format = "wav"
+sample_rate = 0
+duration_seconds = 11.965
+state = "SUCCEED"
+
+[source]
+script_path = "source/creative_plan.toml"
+text_hash = "999d4bd641d2f345291a917a05ee317a5cf5ba96a20adc44e488f65a1e4892e5"

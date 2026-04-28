@@ -1,0 +1,74 @@
+[metadata]
+title = "News Intro + Source Clip (Shopping)"
+language = "vi"
+platform = "tiktok"
+target_duration_seconds = 29.03
+aspect_ratio = "9:16"
+source_vds = "source/vds.md"
+vds_template = "News Intro + Source Clip Explainer"
+
+[creative]
+audience = "Khán giả TikTok yêu thích nội dung tình huống đời thường"
+goal = "Tạo ngữ cảnh bản tin ngắn rồi phát clip gốc"
+emotional_arc = ["news_hook_intro", "context_bridge", "source_clip_playback"]
+tone = "tin tức giải trí, nhanh, rõ, hơi meme; energy ~7/10, cinematic thấp theo VDS §4"
+cta = "Mời bình luận bên nào hợp lý hơn"
+
+# Khớp VDS §6–§8 (bản VDS cập nhật)
+[vds_style]
+intro_visual = "khung overlay tin tức trên video gốc"
+main_headline_font = "Bebas Neue"
+main_headline_no_text_background = true
+transition_to_source = "hard_cut"
+
+[voiceover]
+script = """
+Cô gái quay lại hành trình shopping, nhưng chủ quán này lạ lắm. Đã không cho vào, lại còn bóc phốt chuyện lần trước. Không biết anh em phe nào chứ tôi là tôi bênh chủ quán nha!!
+"""
+delivery = "AusyncLab Thế Anh - Nữ: giọng nữ TikTok, rõ lời, năng lượng cao vừa phải; ducking âm gốc khi AI nói (VDS §10)."
+
+[[scene_intents]]
+id = "SC_01"
+start_hint = 0.0
+end_hint = 11.97
+narrative_role = "news_intro_card"
+spoken_text = "Hook bản tin: AI đọc câu mở đầu, đặt ngữ cảnh trước khi vào clip."
+visual_intent = "Phông tin tức khung overlay trên video gốc (VDS SC_01). Bar/logo trượt nhẹ; headline pop-in hoặc fade-in nhanh."
+mood = "khẩn trương, dễ hiểu"
+preferred_shot_types = ["overlay intro", "lower-third panel"]
+asset_requirements = ["SOURCE_CLIP nền trong intro", "NEWS_BRAND", "NEWS_TOPIC", "MAIN_HEADLINE", "DATE_STAMP"]
+
+[[scene_intents]]
+id = "SC_02"
+start_hint = 0.0
+end_hint = 11.97
+narrative_role = "context_bridge"
+spoken_text = "Cùng block voice với SC_01: nối headline sang clip gốc, không kể lại toàn bộ clip."
+visual_intent = "Có thể preview SOURCE_CLIP giữa khung, vẫn giữ phông tin tức và headline lớn (VDS SC_02)."
+mood = "nối mạch"
+preferred_shot_types = ["overlay + preview nhẹ"]
+asset_requirements = ["SOURCE_CLIP", "MAIN_HEADLINE hoặc caption phụ ngắn"]
+
+[[scene_intents]]
+id = "SC_03"
+start_hint = 11.97
+end_hint = 29.03
+narrative_role = "source_clip_playback"
+spoken_text = "Không voice AI mới; âm thanh gốc là lớp chính."
+visual_intent = "SOURCE_CLIP toàn màn hình; branding tối thiểu (VDS SC_03). Subtitle/caption chỉ khi thật cần — job này tắt phụ đề AI."
+mood = "tự nhiên"
+preferred_shot_types = ["original source clip"]
+asset_requirements = ["SOURCE_CLIP", "SOURCE_AUDIO"]
+
+[[text_overlays]]
+id = "TXT_01"
+scene_id = "SC_01"
+text = "Cô gái quay lại hành trình shopping, nhưng chủ quán này lạ lắm. Đã không cho vào, lại còn bóc phốt chuyện lần trước."
+role = "main_headline"
+timing = "full_intro_hold"
+start = 0.0
+end = 11.966667
+style_ref = "MAIN_TITLE"
+position = "lower_third"
+animation_in = "fade_slide"
+animation_out = "fade"

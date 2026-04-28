@@ -1,0 +1,108 @@
+[job]
+id = "2026-04-27_001_t-i-video-tiktok-shopping-nh-m"
+title = "Tải video TikTok shopping nhà mẹ"
+status = "done"
+created_at = "2026-04-27T20:05:46+07:00"
+updated_at = "2026-04-28T07:52:35+07:00"
+
+[request]
+brief = "Tạo job mới để lưu video TikTok từ tài khoản @vannamvietnam11 vào raw_assets làm footage đầu vào cho pipeline video."
+platform = "tiktok"
+language = "vi"
+target_duration_seconds = 45.0
+
+[paths]
+job_dir = "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m"
+input_dir = "input"
+reference_dir = "input/reference"
+raw_assets_dir = "input/raw_assets"
+audio_dir = "input/audio"
+brand_dir = "input/brand"
+source_dir = "source"
+remotion_dir = "remotion"
+output_dir = "output"
+logs_dir = "logs"
+
+[[inputs]]
+kind = "raw_assets"
+path = "input/raw_assets/videos/downloaded/7631412397097504008_hanh-trinh-shopping-nha-ngoai-phan-222222222.mp4"
+original_path = "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/input/raw_assets/videos/downloaded/7631412397097504008_hanh-trinh-shopping-nha-ngoai-phan-222222222.mp4"
+registered_at = "2026-04-27T20:07:55+07:00"
+note = "Tải từ TikTok qua TikWM hdplay"
+
+[[inputs]]
+kind = "reference"
+path = "input/reference/7633357983405165845_ton-trong-thu-tuc-cua-nhau.mp4"
+original_path = "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/input/reference/7633357983405165845_ton-trong-thu-tuc-cua-nhau.mp4"
+registered_at = "2026-04-27T20:11:06+07:00"
+note = "Video tham chiếu TikTok để phân tích VDS qua TikWM hdplay"
+
+[[inputs]]
+kind = "raw_assets"
+path = "input/raw_assets/videos/downloaded/7633357983405165845_ton-trong-thu-tuc-cua-nhau.mp4"
+original_path = "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/input/raw_assets/videos/downloaded/7633357983405165845_ton-trong-thu-tuc-cua-nhau.mp4"
+registered_at = "2026-04-27T20:17:22+07:00"
+note = "Video reference Theanh28 tải từ TikTok qua TikWM hdplay để phân tích VDS"
+
+[[stages]]
+name = "request"
+status = "done"
+output = "job.toml"
+updated_at = "2026-04-27T20:05:46+07:00"
+reason = ""
+
+[[stages]]
+name = "reference_style"
+status = "done"
+output = "source/vds.md"
+updated_at = "2026-04-27T20:19:40+07:00"
+reason = ""
+
+[[stages]]
+name = "creative_plan"
+status = "done"
+output = "source/creative_plan.toml"
+updated_at = "2026-04-27T21:12:21+07:00"
+reason = "Hoàn thành creative plan theo VDS cho nhánh news intro + source, không subtitle."
+
+[[stages]]
+name = "voice"
+status = "done"
+output = "source/voice.wav"
+updated_at = "2026-04-27T21:12:21+07:00"
+reason = "Đã synth voice Tuấn Tú tốc độ 1.1x."
+
+[[stages]]
+name = "transcript"
+status = "done"
+output = "source/transcript_word_level.toml"
+updated_at = "2026-04-27T21:12:21+07:00"
+reason = "Dùng transcript hiện có; pipeline nhánh này không cần phụ đề."
+
+[[stages]]
+name = "asset_semantics"
+status = "done"
+output = "source/asset_semantics.toml"
+updated_at = "2026-04-27T21:12:21+07:00"
+reason = "Dùng asset semantics hiện có cho clip nguồn."
+
+[[stages]]
+name = "semantic_mapping"
+status = "done"
+output = "source/render_plan.toml"
+updated_at = "2026-04-27T21:12:21+07:00"
+reason = "Skip theo yêu cầu: không cần semantic mapping cho job intro + source clip."
+
+[[stages]]
+name = "render_plan"
+status = "done"
+output = "source/render_plan.toml"
+updated_at = "2026-04-27T21:12:21+07:00"
+reason = "Render plan tối giản cho Remotion intro news-style + source clip."
+
+[[stages]]
+name = "render"
+status = "done"
+output = "output/final_video.mp4"
+updated_at = "2026-04-28T07:52:35+07:00"
+reason = "Render lại Remotion sau cập nhật render_plan + VDS typography (Bebas headline, overlay intro)."

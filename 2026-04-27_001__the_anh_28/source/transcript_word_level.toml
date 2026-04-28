@@ -1,0 +1,411 @@
+[metadata]
+audio_path = "jobs/2026-04-27_001_t-i-video-tiktok-shopping-nh-m/source/voice.wav"
+language = "vi"
+duration_seconds = 13.697
+model = "whisper-1"
+text = "Cô gái quay lại hành trình shopping nhưng chủ quán này lạ lắm, đã không cho cô vào, lại còn nhắc ngay chuyện chiếc tủ lạnh lần trước mà mọi người thấy bên nào đúng hơn. Chủ quán giữ của hay khách quen shopping hơi quá tay đây."
+
+[[sentences]]
+id = "S_001"
+start = 0.0
+end = 4.66
+sentence = "Cô gái quay lại hành trình shopping nhưng chủ quán này lạ lắm đã không cho cô vào"
+word_ids = ["W_0001", "W_0002", "W_0003", "W_0004", "W_0005", "W_0006", "W_0007", "W_0008", "W_0009", "W_0010", "W_0011", "W_0012", "W_0013", "W_0014", "W_0015", "W_0016", "W_0017", "W_0018"]
+
+[[sentences]]
+id = "S_002"
+start = 5.04
+end = 9.32
+sentence = "lại còn nhắc ngay chuyện chiếc tủ lạnh lần trước mà mọi người thấy bên nào đúng hơn"
+word_ids = ["W_0019", "W_0020", "W_0021", "W_0022", "W_0023", "W_0024", "W_0025", "W_0026", "W_0027", "W_0028", "W_0029", "W_0030", "W_0031", "W_0032", "W_0033", "W_0034", "W_0035", "W_0036"]
+
+[[sentences]]
+id = "S_003"
+start = 10.52
+end = 13.6
+sentence = "Chủ quán giữ của hay khách quen shopping hơi quá tay đây"
+word_ids = ["W_0037", "W_0038", "W_0039", "W_0040", "W_0041", "W_0042", "W_0043", "W_0044", "W_0045", "W_0046", "W_0047", "W_0048"]
+
+[[words]]
+id = "W_0001"
+word = "Cô"
+start = 0.0
+end = 0.28
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0002"
+word = "gái"
+start = 0.28
+end = 0.48
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0003"
+word = "quay"
+start = 0.48
+end = 0.72
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0004"
+word = "lại"
+start = 0.72
+end = 0.96
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0005"
+word = "hành"
+start = 0.96
+end = 1.1
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0006"
+word = "trình"
+start = 1.1
+end = 1.26
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0007"
+word = "shopping"
+start = 1.26
+end = 1.7
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0008"
+word = "nhưng"
+start = 1.7
+end = 2.16
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0009"
+word = "chủ"
+start = 2.16
+end = 2.36
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0010"
+word = "quán"
+start = 2.36
+end = 2.54
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0011"
+word = "này"
+start = 2.54
+end = 2.8
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0012"
+word = "lạ"
+start = 2.8
+end = 2.94
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0013"
+word = "lắm"
+start = 2.94
+end = 3.16
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0014"
+word = "đã"
+start = 3.64
+end = 3.74
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0015"
+word = "không"
+start = 3.74
+end = 3.96
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0016"
+word = "cho"
+start = 3.96
+end = 4.14
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0017"
+word = "cô"
+start = 4.14
+end = 4.34
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0018"
+word = "vào"
+start = 4.34
+end = 4.66
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0019"
+word = "lại"
+start = 5.04
+end = 5.14
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0020"
+word = "còn"
+start = 5.14
+end = 5.36
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0021"
+word = "nhắc"
+start = 5.36
+end = 5.54
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0022"
+word = "ngay"
+start = 5.54
+end = 5.82
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0023"
+word = "chuyện"
+start = 5.82
+end = 6.04
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0024"
+word = "chiếc"
+start = 6.04
+end = 6.34
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0025"
+word = "tủ"
+start = 6.34
+end = 6.5
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0026"
+word = "lạnh"
+start = 6.5
+end = 6.62
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0027"
+word = "lần"
+start = 6.62
+end = 6.82
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0028"
+word = "trước"
+start = 6.82
+end = 7.4
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0029"
+word = "mà"
+start = 7.4
+end = 7.64
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0030"
+word = "mọi"
+start = 7.64
+end = 7.84
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0031"
+word = "người"
+start = 7.84
+end = 8.02
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0032"
+word = "thấy"
+start = 8.02
+end = 8.22
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0033"
+word = "bên"
+start = 8.22
+end = 8.4
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0034"
+word = "nào"
+start = 8.4
+end = 8.74
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0035"
+word = "đúng"
+start = 8.74
+end = 9.04
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0036"
+word = "hơn"
+start = 9.04
+end = 9.32
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0037"
+word = "Chủ"
+start = 10.52
+end = 10.54
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0038"
+word = "quán"
+start = 10.54
+end = 10.72
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0039"
+word = "giữ"
+start = 10.72
+end = 11.0
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0040"
+word = "của"
+start = 11.0
+end = 11.3
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0041"
+word = "hay"
+start = 11.3
+end = 11.9
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0042"
+word = "khách"
+start = 11.9
+end = 12.1
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0043"
+word = "quen"
+start = 12.1
+end = 12.32
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0044"
+word = "shopping"
+start = 12.32
+end = 12.76
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0045"
+word = "hơi"
+start = 12.76
+end = 13.02
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0046"
+word = "quá"
+start = 13.02
+end = 13.22
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0047"
+word = "tay"
+start = 13.22
+end = 13.4
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0048"
+word = "đây"
+start = 13.4
+end = 13.6
+sentence_id = "S_003"
+confidence = 0.0

@@ -1,0 +1,21 @@
+[metadata]
+generated_at = "2026-04-27T20:13:13+07:00"
+provider = "tikwm"
+mode = "video"
+hd = true
+total_assets = 1
+purpose = "reference_style_vds"
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://www.tiktok.com/@theanh28trending/video/7633357983405165845?q=theanh%2028&t=1777295367437"
+asset_id = "7633357983405165845"
+title = "TÔN TRỌNG THỦ TỤC CỦA NHAU 🤣🤣 #theanh28trending #theanh28 #tiktoknews #tiktokgiaitri "
+author = "theanh28trending"
+output_path = "input/reference/7633357983405165845_ton-trong-thu-tuc-cua-nhau.mp4"
+downloaded = true
+size_bytes = 4109131
+duration_seconds = 40.61
+width = 1080
+height = 1920
