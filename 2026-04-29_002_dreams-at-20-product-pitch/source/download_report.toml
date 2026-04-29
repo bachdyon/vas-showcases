@@ -1,0 +1,21 @@
+[metadata]
+generated_at = "2026-04-29T08:13:27.532518+00:00"
+provider = "tikwm"
+mode = "video"
+hd = true
+total_assets = 1
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://www.tiktok.com/@phmhung864/video/7544649960147406098"
+asset_id = "7544649960147406098"
+title = "Anh vẫn đang học cách yêu em #xuhuong #trending #muaxelandau #mazda #mazda3 "
+author = "phmhung864"
+output_path = "jobs/2026-04-29_002_dreams-at-20-product-pitch/input/raw_assets/videos/downloaded/7544649960147406098_anh-vẫn-đang-học-cách-yêu-em-xuhuong-trending-muaxelandau-mazda-mazda3.mp4"
+downloaded = true
+size_bytes = 2094041
+duration_seconds = 41.708
+width = 720
+height = 1280
+direct_url_hash = "55296f5e1f27"

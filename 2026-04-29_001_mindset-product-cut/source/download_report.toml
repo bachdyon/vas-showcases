@@ -1,0 +1,21 @@
+[metadata]
+generated_at = "2026-04-29T07:23:07.032787+00:00"
+provider = "tikwm"
+mode = "video"
+hd = true
+total_assets = 1
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://www.tiktok.com/@xiao_white/video/7535875030786477319?_r=1&_t=ZS-95w9aN7z5O8"
+asset_id = "7535875030786477319"
+title = "\"A tune that gets addictive as soon as you listen to it\" #MusicSharing #Wake #FeelingIsSupreme #PutOnHeadphones"
+author = "xiao_white"
+output_path = "jobs/2026-04-29_001_mindset-product-cut/input/raw_assets/videos/downloaded/7535875030786477319_a-tune-that-gets-addictive-as-soon-as-you-listen-to-it-musicsharing-wa.mp4"
+downloaded = true
+size_bytes = 3400365
+duration_seconds = 21.341
+width = 1920
+height = 1080
+direct_url_hash = "c48e7e50303e"

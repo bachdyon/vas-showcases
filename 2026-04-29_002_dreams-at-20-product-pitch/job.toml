@@ -1,0 +1,94 @@
+[job]
+id = "2026-04-29_002_dreams-at-20-product-pitch"
+title = "Dreams at 20 product pitch"
+status = "created"
+created_at = "2026-04-29T15:12:57+07:00"
+updated_at = "2026-04-29T15:13:22+07:00"
+
+[request]
+brief = "Tạo video từ template mindset-product-pitch: intro text về ước mơ tuổi 20 trên asset TikTok, sau đó product shot với CTA đọc sách."
+platform = "tiktok"
+language = "vi"
+target_duration_seconds = 19.0
+
+[paths]
+job_dir = "jobs/2026-04-29_002_dreams-at-20-product-pitch"
+input_dir = "input"
+reference_dir = "input/reference"
+raw_assets_dir = "input/raw_assets"
+audio_dir = "input/audio"
+brand_dir = "input/brand"
+source_dir = "source"
+remotion_dir = "remotion"
+output_dir = "output"
+logs_dir = "logs"
+
+[[inputs]]
+kind = "raw_assets"
+path = "input/raw_assets/product.mp4"
+original_path = "jobs/2026-04-29_001_mindset-product-cut/input/raw_assets/product.mp4"
+registered_at = "2026-04-29T15:13:22+07:00"
+note = "Product shot từ job mindset-product-cut."
+
+[[stages]]
+name = "request"
+status = "done"
+output = "job.toml"
+updated_at = "2026-04-29T15:12:57+07:00"
+reason = ""
+
+[[stages]]
+name = "reference_style"
+status = "pending"
+output = "source/vds.md"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "creative_plan"
+status = "pending"
+output = "source/creative_plan.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "voice"
+status = "pending"
+output = "source/voice.wav"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "transcript"
+status = "pending"
+output = "source/transcript_word_level.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "asset_semantics"
+status = "pending"
+output = "source/asset_semantics.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "semantic_mapping"
+status = "pending"
+output = "source/semantic_mapping.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "render_plan"
+status = "pending"
+output = "source/render_plan.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "render"
+status = "pending"
+output = "output/final_video.mp4"
+updated_at = ""
+reason = ""
