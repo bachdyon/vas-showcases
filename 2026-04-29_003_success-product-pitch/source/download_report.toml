@@ -1,0 +1,21 @@
+[metadata]
+generated_at = "2026-04-29T10:39:06.292767+00:00"
+provider = "tikwm"
+mode = "video"
+hd = true
+total_assets = 1
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://www.tiktok.com/@jaketm11/video/7477631422220602646"
+asset_id = "7477631422220602646"
+title = "The peace of running 💆🏼‍♂️ Running in Manchester city Centre 📈   ##runningasmr##Running##runningtok##runtok##247represent##adidasadios9##adidasrunning##asmr##manchester"
+author = "jaketm11"
+output_path = "jobs/2026-04-29_003_success-common-denominator-product-pitch/input/raw_assets/videos/downloaded/7477631422220602646_the-peace-of-running-running-in-manchester-city-centre-runningasmrrunn.mp4"
+downloaded = true
+size_bytes = 1662379
+duration_seconds = 14.302
+width = 1080
+height = 1920
+direct_url_hash = "22c4b8045b4f"
