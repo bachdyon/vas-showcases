@@ -1,0 +1,21 @@
+[metadata]
+generated_at = "2026-04-28T15:00:21.342101+00:00"
+provider = "tikwm"
+mode = "video"
+hd = false
+total_assets = 1
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://www.tiktok.com/@viralmusichitsofficial/video/7580172181221428491?_r=1&_t=ZS-95uziSQE4v7"
+asset_id = "7580172181221428491"
+title = "Funny Viral Music for TikToks, Reels, and Shorts | Scheming Weasel – Kevin MacLeod  The iconic Scheming Weasel – Kevin MacLeod is back in your feed! Perfect sneaky-funny background music for memes, pranks, goofy edits, fails, and comedy moments. If you need that “tip-toe sneaky vibe,” this track always delivers. 🐀😂 #SchemingWeasel #KevinMacLeod #FunnyMusic #FunnySound #Funny"
+author = "viralmusichitsofficial"
+output_path = "jobs/2026-04-28_005_template-theanh28-39-travel/input/raw_assets/videos/downloaded/7580172181221428491_funny-viral-music-for-tiktoks-reels-and-shorts-scheming-weasel-kevin-m.mp4"
+downloaded = true
+size_bytes = 3803422
+duration_seconds = 57.121
+width = 576
+height = 1024
+direct_url_hash = "9c0e0df3732e"

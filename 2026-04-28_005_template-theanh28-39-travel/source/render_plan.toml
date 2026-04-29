@@ -1,0 +1,89 @@
+[render]
+fps = 30
+width = 1080
+height = 1920
+duration_seconds = 35.0
+background = "black"
+creative_plan_path = "source/creative_plan.toml"
+template_id = "theanh28"
+
+[intro_chrome]
+video_credit = "VIDEO: #39 TRAVEL"
+brand_number = "#39"
+brand_label = "travel"
+logo_path = ""
+date_stamp = "28/04/2026"
+
+[style]
+template_contract_path = "templates/theanh28/template.toml"
+vds_path = "templates/theanh28/reference/vds.md"
+subtitle_style = "DISABLED"
+title_style = "MAIN_TITLE"
+color_treatment = "news_overlay_then_source"
+main_headline_font = "UTM Bebas"
+main_headline_no_text_background = true
+transition_to_source = "hard_cut"
+
+[audio.voice]
+file_path = "source/voice.wav"
+start = 0.0
+gain_db = 0.0
+duck_source_under_intro = true
+
+[audio.music]
+file_path = "input/audio/background_music.mp3"
+start = 0.0
+gain_db = -18.0
+duck_under_voice = true
+loop = true
+
+[[clips]]
+id = "CLIP_001"
+scene_id = "SC_01"
+mapping_id = "TEMPLATE_INTRO"
+narrative_role = "news_intro_card"
+file_path = "input/raw_assets/videos/template/source.mp4"
+type = "video"
+timeline_start = 0.0
+timeline_end = 7.47
+source_start = 0.0
+source_end = 7.47
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+motion = "news_overlay"
+transition_in = "cut"
+transition_out = "cut"
+color = "overlay_on_source_light_dim"
+
+[[clips]]
+id = "CLIP_002"
+scene_id = "SC_03"
+mapping_id = "TEMPLATE_SOURCE"
+narrative_role = "source_clip_playback"
+file_path = "input/raw_assets/videos/template/source.mp4"
+type = "video"
+timeline_start = 7.47
+timeline_end = 35.0
+source_start = 0.0
+source_end = 27.53
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+motion = "none"
+transition_in = "cut"
+transition_out = "cut"
+color = "source_original"
+
+[[overlays]]
+id = "TXT_01"
+creative_overlay_id = "TXT_01"
+scene_id = "SC_01"
+start = 0.0
+end = 7.47
+text = "Mấy món vớ vỉn mà bạn cứ wao suốt thôi, Cái gì mà những món ngon nhất tôi từng ăn, Tây đúng là có Tây this Tây that."
+style = "MAIN_TITLE"
+style_ref = "MAIN_TITLE"
+position = "lower_third"
+animation_in = "fade_slide"
+animation_out = "fade"

@@ -1,0 +1,32 @@
+[template]
+id = "theanh28"
+version = "1.0.0"
+contract_path = "templates/theanh28/template.toml"
+
+[inputs]
+source_clip = "input/raw_assets/videos/template/source.mp4"
+intro_voice = "source/voice.wav"
+background_music = "input/audio/background_music.mp3"
+main_headline = "Mấy món vớ vỉn mà bạn cứ wao suốt thôi, Cái gì mà những món ngon nhất tôi từng ăn, Tây đúng là có Tây this Tây that."
+intro_script = "Mấy món vớ vỉn mà bạn cứ wao suốt thôi, Cái gì mà những món ngon nhất tôi từng ăn, Tây đúng là có Tây this Tây that."
+
+[props]
+introDurationFrames = 224
+sourceDurationFrames = 826
+sourceVideo = "assets/source.mp4"
+introVoice = "assets/voice.wav"
+backgroundMusic = "assets/background_music.mp3"
+backgroundMusicIntroVolume = 0.6
+backgroundMusicSourceVolume = 0.9
+mainHeadline = "Mấy món vớ vỉn mà bạn cứ wao suốt thôi, Cái gì mà những món ngon nhất tôi từng ăn, Tây đúng là có Tây this Tây that."
+videoCredit = "VIDEO: #39 TRAVEL"
+dateStamp = "28/04/2026"
+brandNumber = "#39"
+brandLabel = "travel"
+logoPath = ""
+overlayColor = "rgba(255, 214, 0, 0.93)"
+textColor = "#111111"
+headlineFontScale = 1.05
+introObjectPosition = "center 18%"
+introTransform = "translateY(-5%) scale(1.06)"
+sourceObjectPosition = "center center"

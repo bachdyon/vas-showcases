@@ -1,0 +1,24 @@
+[voice]
+provider = "ausynclab"
+voice_id = 1907231
+voice_name = ""
+language = "vi"
+gender = ""
+age = ""
+use_case = ""
+model_name = "myna-2"
+speed = 1.0
+reason = "Generated narration audio using the selected AusyncLab voice."
+
+[audio]
+audio_id = 2341717
+file_path = "jobs/2026-04-28_005_template-theanh28-39-travel/source/voice.wav"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/audio/b2cd8e6e-4d3f-4e82-9f22-42cad113209b_62f042ff-e1f7-4df0-986f-b2407a0bc343.wav"
+format = "wav"
+sample_rate = 0
+duration_seconds = 0.0
+state = "SUCCEED"
+
+[source]
+script_path = "source/creative_plan.toml"
+text_hash = "3f98d3478e37c368961df47d0d5f7765645dd89cd94c34926424fae0ffc0b672"
