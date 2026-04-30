@@ -1,0 +1,383 @@
+[render]
+fps = 30
+width = 1080
+height = 1920
+duration_seconds = 75.304
+background = "black"
+
+[style]
+vds_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/source/vds.md"
+subtitle_style = "SUBTITLES"
+title_style = "MAIN_TITLE"
+color_treatment = "match_vds"
+
+[audio.voice]
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/audio/reference_voice.wav"
+start = 0.0
+gain_db = 0.0
+
+[audio.music]
+file_path = "."
+start = 0.0
+gain_db = -18.0
+duck_under_voice = true
+
+[[clips]]
+id = "CLIP_001"
+mapping_id = "MAP_001"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc.mp4"
+type = "video"
+timeline_start = 0.0
+timeline_end = 8.76
+source_start = 0.0
+source_end = 8.76
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_002"
+mapping_id = "MAP_002"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh.mp4"
+type = "video"
+timeline_start = 8.76
+timeline_end = 16.9
+source_start = 24.0
+source_end = 32.14
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_003"
+mapping_id = "MAP_003"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong.mp4"
+type = "video"
+timeline_start = 16.9
+timeline_end = 24.18
+source_start = 8.0
+source_end = 16.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_004"
+mapping_id = "MAP_004"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag.mp4"
+type = "video"
+timeline_start = 24.18
+timeline_end = 31.72
+source_start = 8.0
+source_end = 16.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_005"
+mapping_id = "MAP_005"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh.mp4"
+type = "video"
+timeline_start = 31.72
+timeline_end = 39.48
+source_start = 32.0
+source_end = 40.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_006"
+mapping_id = "MAP_006"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays.mp4"
+type = "video"
+timeline_start = 39.48
+timeline_end = 47.44
+source_start = 0.0
+source_end = 8.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_007"
+mapping_id = "MAP_007"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh.mp4"
+type = "video"
+timeline_start = 47.44
+timeline_end = 55.26
+source_start = 8.0
+source_end = 16.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_008"
+mapping_id = "MAP_008"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc.mp4"
+type = "video"
+timeline_start = 55.26
+timeline_end = 62.46
+source_start = 8.0
+source_end = 16.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_009"
+mapping_id = "MAP_009"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh.mp4"
+type = "video"
+timeline_start = 62.46
+timeline_end = 68.4
+source_start = 0.0
+source_end = 8.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_010"
+mapping_id = "MAP_010"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays.mp4"
+type = "video"
+timeline_start = 68.4
+timeline_end = 74.8
+source_start = 0.0
+source_end = 8.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[subtitles]]
+start = 0.0
+end = 3.22
+text = "Bạn có đang cảm thấy mình là kẻ chậm chân nhất trong cuộc đua của sự trưởng thành"
+words_ref = ["W_0001", "W_0002", "W_0003", "W_0004", "W_0005", "W_0006", "W_0007", "W_0008", "W_0009", "W_0010", "W_0011", "W_0012", "W_0013", "W_0014", "W_0015", "W_0016", "W_0017", "W_0018"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 3.22
+end = 8.76
+text = "không 25 tuổi bạn thấy bạn bé khoe xe khoe nhà 27 tuổi bạn thấy người ta lập"
+words_ref = ["W_0019", "W_0020", "W_0021", "W_0022", "W_0023", "W_0024", "W_0025", "W_0026", "W_0027", "W_0028", "W_0029", "W_0030", "W_0031", "W_0032", "W_0033", "W_0034", "W_0035", "W_0036"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 8.76
+end = 13.1
+text = "gia đình con cái đều hề Nhìn lại mình vẫn là những bữa cơm vội vẫn là căn"
+words_ref = ["W_0037", "W_0038", "W_0039", "W_0040", "W_0041", "W_0042", "W_0043", "W_0044", "W_0045", "W_0046", "W_0047", "W_0048", "W_0049", "W_0050", "W_0051", "W_0052", "W_0053", "W_0054"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 13.1
+end = 16.9
+text = "phòng thuê chưa bao giờ thuộc về mình và một sự nghiệp vẫn còn đang giang dở Bạn"
+words_ref = ["W_0055", "W_0056", "W_0057", "W_0058", "W_0059", "W_0060", "W_0061", "W_0062", "W_0063", "W_0064", "W_0065", "W_0066", "W_0067", "W_0068", "W_0069", "W_0070", "W_0071", "W_0072"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 16.9
+end = 19.86
+text = "bắt đầu nghi ngờ bản thân bạn tự hỏi mình đã làm sai ở đâu"
+words_ref = ["W_0073", "W_0074", "W_0075", "W_0076", "W_0077", "W_0078", "W_0079", "W_0080", "W_0081", "W_0082", "W_0083", "W_0084", "W_0085", "W_0086", "W_0087"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 20.72
+end = 24.18
+text = "Thực ra bạn chẳng làm sai điều gì cả Sai lầm duy nhất của chúng ta là đem"
+words_ref = ["W_0088", "W_0089", "W_0090", "W_0091", "W_0092", "W_0093", "W_0094", "W_0095", "W_0096", "W_0097", "W_0098", "W_0099", "W_0100", "W_0101", "W_0102", "W_0103", "W_0104", "W_0105"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 24.18
+end = 28.08
+text = "thước đo của người khác để đo cuộc đời của chính mình Chúng ta đang sống trong một"
+words_ref = ["W_0106", "W_0107", "W_0108", "W_0109", "W_0110", "W_0111", "W_0112", "W_0113", "W_0114", "W_0115", "W_0116", "W_0117", "W_0118", "W_0119", "W_0120", "W_0121", "W_0122", "W_0123"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 28.08
+end = 31.72
+text = "thời đại mà thành công bị đóng gói thành những công thức 20 tuổi phải có gì 30"
+words_ref = ["W_0124", "W_0125", "W_0126", "W_0127", "W_0128", "W_0129", "W_0130", "W_0131", "W_0132", "W_0133", "W_0134", "W_0135", "W_0136", "W_0137", "W_0138", "W_0139", "W_0140", "W_0141"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 31.72
+end = 35.44
+text = "tuổi phải là ai Nhưng cuộc đời đâu phải là một bài kiểm tra chắc nghiệm để có"
+words_ref = ["W_0142", "W_0143", "W_0144", "W_0145", "W_0146", "W_0147", "W_0148", "W_0149", "W_0150", "W_0151", "W_0152", "W_0153", "W_0154", "W_0155", "W_0156", "W_0157", "W_0158", "W_0159"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 35.44
+end = 39.48
+text = "đáp án đúng duy nhất Bạn biết không hoa sen nở mùa hạn hoa cúc nở mùa thu"
+words_ref = ["W_0160", "W_0161", "W_0162", "W_0163", "W_0164", "W_0165", "W_0166", "W_0167", "W_0168", "W_0169", "W_0170", "W_0171", "W_0172", "W_0173", "W_0174", "W_0175", "W_0176", "W_0177"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 39.52
+end = 43.48
+text = "và hoa mận chỉ nở khi mùa đông bút giá nhất tràn về Nếu hoa hồng nở vào"
+words_ref = ["W_0178", "W_0179", "W_0180", "W_0181", "W_0182", "W_0183", "W_0184", "W_0185", "W_0186", "W_0187", "W_0188", "W_0189", "W_0190", "W_0191", "W_0192", "W_0193", "W_0194", "W_0195"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 43.48
+end = 47.44
+text = "tháng 5 không có nghĩa là hoa mận đã thất bại vì chưa nở vào tháng 6 Mỗi"
+words_ref = ["W_0196", "W_0197", "W_0198", "W_0199", "W_0200", "W_0201", "W_0202", "W_0203", "W_0204", "W_0205", "W_0206", "W_0207", "W_0208", "W_0209", "W_0210", "W_0211", "W_0212", "W_0213"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 47.44
+end = 51.22
+text = "loại hoa đều có thời điểm rực rỡ của riêng nó và bạn cũng vậy Bạn không chậm"
+words_ref = ["W_0214", "W_0215", "W_0216", "W_0217", "W_0218", "W_0219", "W_0220", "W_0221", "W_0222", "W_0223", "W_0224", "W_0225", "W_0226", "W_0227", "W_0228", "W_0229", "W_0230", "W_0231"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 51.48
+end = 55.26
+text = "bạn chỉ đang ở múi giờ của riêng mình thôi Đừng để áp lực của thời gian làm"
+words_ref = ["W_0232", "W_0233", "W_0234", "W_0235", "W_0236", "W_0237", "W_0238", "W_0239", "W_0240", "W_0241", "W_0242", "W_0243", "W_0244", "W_0245", "W_0246", "W_0247", "W_0248", "W_0249"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 55.26
+end = 58.92
+text = "tắt đi ngọn đến bên trong bạn Miễn là bạn vẫn đang nỗ lực vẫn đang tử tế"
+words_ref = ["W_0250", "W_0251", "W_0252", "W_0253", "W_0254", "W_0255", "W_0256", "W_0257", "W_0258", "W_0259", "W_0260", "W_0261", "W_0262", "W_0263", "W_0264", "W_0265", "W_0266", "W_0267"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 58.92
+end = 62.46
+text = "và không bỏ cuộc thì việc bạn đi chậm hơn người khác một chút chẳng có vấn đề"
+words_ref = ["W_0268", "W_0269", "W_0270", "W_0271", "W_0272", "W_0273", "W_0274", "W_0275", "W_0276", "W_0277", "W_0278", "W_0279", "W_0280", "W_0281", "W_0282", "W_0283", "W_0284", "W_0285"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 62.46
+end = 66.38
+text = "gì cả Có những đỉnh núi cần nhiều thời gian hơn để leo nhưng tầm nhìn từ đó"
+words_ref = ["W_0286", "W_0287", "W_0288", "W_0289", "W_0290", "W_0291", "W_0292", "W_0293", "W_0294", "W_0295", "W_0296", "W_0297", "W_0298", "W_0299", "W_0300", "W_0301", "W_0302", "W_0303"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 66.38
+end = 67.6
+text = "cũng sẽ bao la hơn rất nhiều"
+words_ref = ["W_0304", "W_0305", "W_0306", "W_0307", "W_0308", "W_0309", "W_0310"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 68.4
+end = 72.16
+text = "Hãy hít một hơi thật sâu bạn đang làm rất tốt rồi Chỉ cần hôm nay bạn tốt"
+words_ref = ["W_0311", "W_0312", "W_0313", "W_0314", "W_0315", "W_0316", "W_0317", "W_0318", "W_0319", "W_0320", "W_0321", "W_0322", "W_0323", "W_0324", "W_0325", "W_0326", "W_0327", "W_0328"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 72.16
+end = 74.8
+text = "hơn chính mình của ngày hôm qua đó đã là một thành công vĩ đại"
+words_ref = ["W_0329", "W_0330", "W_0331", "W_0332", "W_0333", "W_0334", "W_0335", "W_0336", "W_0337", "W_0338", "W_0339", "W_0340", "W_0341", "W_0342", "W_0343"]
+style = "SUBTITLES"

@@ -1,0 +1,421 @@
+[[assets]]
+id = "AST_001"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc.mp4"
+type = "video"
+duration_seconds = 19.62
+width = 576
+height = 812
+fps = 29.97
+has_audio = true
+summary = "Cảnh quay chậm mưa rơi tầm tã dưới ánh đèn đường vàng vọt trong đêm tối, tạo không gian trầm mặc và chill."
+visual_style = "handheld, ánh sáng yếu, cinematic vlog, slow motion"
+mood = ["chill", "tram-mac", "co-don"]
+tags = ["mua-dem", "den-duong", "thoi-tiet", "tam-trang", "vlog-dem", "mua-mua"]
+privacy_notes = []
+quality_notes = ["nhiễu hạt nhẹ do quay trong điều kiện thiếu sáng", "rung nhẹ do cầm tay"]
+
+[[assets]]
+id = "AST_002"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh.mp4"
+type = "video"
+duration_seconds = 40.929
+width = 1080
+height = 1920
+fps = 41.976
+has_audio = true
+summary = "Cảnh quay POV đường phố Hà Nội trong một ngày mưa gió âm u với dòng người di chuyển chậm rãi trên mặt đường ướt đẫm."
+visual_style = "handheld POV, cinematic vlog, ánh sáng tự nhiên, tông màu lạnh trầm"
+mood = ["tram-lang", "chill", "hoai-niem"]
+tags = ["ha-noi", "troi-mua", "duong-pho", "giao-thong", "vlog-tam-trang", "mua-phun"]
+privacy_notes = ["biển số xe máy và ô tô xuất hiện rải rác nhưng không quá rõ nét"]
+quality_notes = ["rung nhẹ do quay từ phương tiện đang di chuyển", "mờ do sương mù và mưa"]
+
+[[assets]]
+id = "AST_003"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong.mp4"
+type = "video"
+duration_seconds = 24.868
+width = 576
+height = 1024
+fps = 30.0
+has_audio = true
+summary = "Cảnh quay tĩnh một cột đèn đường bên cạnh tán cây trong một ngày mưa tầm tã tại vùng ngoại ô buồn bã."
+visual_style = "handheld static, ánh sáng tự nhiên âm u, tông màu lạnh, cinematic sad vibes"
+mood = ["buon-ba", "co-don", "yen-tinh"]
+tags = ["troi-mua", "canh-dong", "cot-den", "tam-trang", "ngoai-troi", "vlog-buon"]
+privacy_notes = []
+quality_notes = ["hình ảnh hơi nhiễu hạt do điều kiện thiếu sáng và mưa"]
+
+[[assets]]
+id = "AST_004"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag.mp4"
+type = "video"
+duration_seconds = 25.563
+width = 720
+height = 1280
+fps = 29.97
+has_audio = true
+summary = "Cảnh quay dòng xe cộ hối hả di chuyển trên đường phố Sài Gòn dưới cơn mưa tầm tã với phông nền là các tòa nhà cao tầng mờ ảo."
+visual_style = "handheld, ánh sáng tự nhiên âm u, tông màu lạnh, cinematic vlog"
+mood = ["tram-buon", "hoi-ha", "u-am"]
+tags = ["sai-gon", "troi-mua", "giao-thong", "duong-pho", "thanh-pho", "mua-rao"]
+privacy_notes = ["biển số xe và khuôn mặt người đi đường không nhìn rõ do màn mưa và khoảng cách"]
+quality_notes = ["hình ảnh hơi mờ do màn mưa dày, máy quay có độ rung nhẹ đặc trưng của handheld"]
+
+[[assets]]
+id = "AST_005"
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays.mp4"
+type = "video"
+duration_seconds = 10.867
+width = 1080
+height = 1920
+fps = 30.0
+has_audio = true
+summary = "Clip vlog ngắn ghi lại không gian sống ấm cúng và thư giãn bên cửa sổ kính vào một ngày mưa tầm tã."
+visual_style = "cinematic vlog, ánh sáng tự nhiên kết hợp đèn vàng ấm, handheld, tông màu dịu mắt"
+mood = ["chill-vibes", "am-ap", "thu-gian"]
+tags = ["ngay-mua", "home-decor", "cozy-living", "tra-chieu", "vlog-doi-song", "chill-at-home"]
+privacy_notes = ["khuôn mặt người phụ nữ nhìn nghiêng rõ nét"]
+quality_notes = []
+
+[[asset_scenes]]
+id = "AST_001_SC_01"
+start = 0.0
+end = 8.0
+description = "Những hạt mưa rơi dày đặc và lấp lánh khi đi ngang qua luồng sáng vàng của cột đèn đường giữa màn đêm."
+subjects = ["mưa", "đèn đường", "tán cây"]
+actions = ["rơi", "tỏa sáng"]
+environment = "đường phố ban đêm"
+shot_type = "medium shot"
+camera_motion = "handheld static"
+composition = "rule-of-thirds"
+colors = ["vàng", "đen", "xanh lá đậm"]
+mood = ["yen-binh", "sau-lang"]
+semantic_tags = ["hook", "b-roll-mua", "mood-setting"]
+recommended_uses = ["hook", "intro"]
+avoid_uses = ["high-energy-cut"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_001_SC_02"
+start = 8.0
+end = 16.0
+description = "Góc nhìn tập trung vào các tán lá cây rung rinh trong gió bão, nước mưa chảy tràn qua các kẽ lá dưới ánh sáng mờ ảo."
+subjects = ["tán lá", "hạt mưa", "ánh sáng"]
+actions = ["rung rinh", "chảy"]
+environment = "dưới tán cây"
+shot_type = "medium shot"
+camera_motion = "slow drift"
+composition = "subject centered"
+colors = ["vàng ấm", "đen"]
+mood = ["tram-lang", "manh-liet"]
+semantic_tags = ["b-roll-chi-tiet", "transition-beat"]
+recommended_uses = ["mid-roll", "story-progression"]
+avoid_uses = ["cta"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_001_SC_03"
+start = 16.0
+end = 19.62
+description = "Mưa vẫn tiếp tục rơi nặng hạt vào cuối clip, ánh đèn đường nhạt dần trong màn mưa tạo cảm giác kết thúc một đêm dài."
+subjects = ["mưa rơi", "bầu trời đêm"]
+actions = ["rơi", "mờ dần"]
+environment = "không gian ngoài trời"
+shot_type = "wide shot"
+camera_motion = "handheld static"
+composition = "leading lines"
+colors = ["xám", "vàng", "đen"]
+mood = ["hoai-niem", "trong-vang"]
+semantic_tags = ["ket-thuc", "outro-vlog"]
+recommended_uses = ["payoff", "outro"]
+avoid_uses = ["hook"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_002_SC_01"
+start = 0.0
+end = 8.0
+description = "Góc nhìn POV từ xe đang chạy trên đường phố rộng lớn, bên trái là cầu vượt bê tông dài hun hút, mặt đường nhựa ướt sũng phản chiếu ánh sáng xám."
+subjects = ["đường phố", "cầu vượt", "xe cộ"]
+actions = ["di chuyển", "phản chiếu"]
+environment = "đường phố Hà Nội dưới chân cầu vượt"
+shot_type = "wide shot"
+camera_motion = "push-in"
+composition = "leading lines"
+colors = ["xám", "trắng", "đen"]
+mood = ["tinh-lang", "sau-lang"]
+semantic_tags = ["hook", "intro", "b-roll-duong-pho"]
+recommended_uses = ["mở đầu vlog tâm trạng", "cảnh dẫn nhập không gian"]
+avoid_uses = ["high-energy-cut", "quảng cáo sôi động"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_002_SC_02"
+start = 8.0
+end = 16.0
+description = "Xe tiếp tục lướt đi trên mặt đường loang loáng nước, xuất hiện thêm vài bóng người đi bộ bên lề đường và các phương tiện phía xa trong làn mưa."
+subjects = ["người đi bộ", "xe máy", "vạch kẻ đường"]
+actions = ["đi bộ", "chạy xe"]
+environment = "vỉa hè và lòng đường"
+shot_type = "wide shot"
+camera_motion = "handheld drift"
+composition = "subject centered"
+colors = ["xám ghi", "xanh lá mờ"]
+mood = ["binh-yen", "co-don"]
+semantic_tags = ["vlog-beat", "transition", "canh-di-chuyen"]
+recommended_uses = ["đoạn chuyển cảnh", "lồng tiếng tâm sự"]
+avoid_uses = ["fast-paced-edit"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_002_SC_03"
+start = 16.0
+end = 24.0
+description = "Khung cảnh tiến gần đến một tòa nhà cao tầng có biển hiệu VIMECO, hàng cây nhiệt đới bên phải rung rinh trong gió mưa."
+subjects = ["tòa nhà", "hàng cây", "biển hiệu"]
+actions = ["tiến lại gần", "lay động"]
+environment = "khu vực đô thị hiện đại"
+shot_type = "medium shot"
+camera_motion = "push-in"
+composition = "rule-of-thirds"
+colors = ["trắng xám", "xanh lục"]
+mood = ["do-thi", "tram-mac"]
+semantic_tags = ["location-reveal", "b-roll-thanh-pho"]
+recommended_uses = ["giới thiệu địa điểm", "cảnh đệm"]
+avoid_uses = ["nhiều-chi-tiet-phuc-tap"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_002_SC_04"
+start = 24.0
+end = 32.0
+description = "Dòng xe máy mặc áo mưa hiện rõ hơn ở phía trước, ánh đèn hậu đỏ rực phản chiếu xuống mặt đường nhựa đen bóng."
+subjects = ["xe máy", "áo mưa", "đèn hậu"]
+actions = ["lái xe", "phanh xe"]
+environment = "giữa dòng giao thông"
+shot_type = "medium shot"
+camera_motion = "handheld static"
+composition = "center focus"
+colors = ["đỏ", "đen", "xám"]
+mood = ["hoi-ha", "doi-thuong"]
+semantic_tags = ["human-element", "daily-life", "troi-mua"]
+recommended_uses = ["mô tả cuộc sống thường nhật", "nhịp điệu chậm"]
+avoid_uses = ["action-sequence"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_002_SC_05"
+start = 32.0
+end = 40.0
+description = "Góc nhìn POV lướt qua một trạm dừng xe buýt và những bức tường có hình vẽ graffiti mờ nhạt dưới trời mưa phùn."
+subjects = ["trạm xe buýt", "graffiti", "vỉa hè"]
+actions = ["lướt qua"]
+environment = "góc phố Hà Nội"
+shot_type = "wide shot"
+camera_motion = "slow pan"
+composition = "asymmetric"
+colors = ["xám", "nhiều màu mờ"]
+mood = ["nghe-thuat", "duong-pho"]
+semantic_tags = ["street-art", "urban-vibe", "b-roll"]
+recommended_uses = ["tăng tính nghệ thuật cho vlog", "cảnh chuyển tiếp"]
+avoid_uses = ["clean-corporate-look"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_002_SC_06"
+start = 40.0
+end = 40.929
+description = "Cảnh quay kết thúc khi xe vẫn đang di chuyển đều trên đường, bầu trời phía trước trắng xóa sương mù che lấp các tòa nhà xa xăm."
+subjects = ["bầu trời", "sương mù", "đường chân trời"]
+actions = ["biến mất", "mờ dần"]
+environment = "không gian mở mờ ảo"
+shot_type = "wide shot"
+camera_motion = "locked POV"
+composition = "vanishing point"
+colors = ["trắng", "xám nhạt"]
+mood = ["ket-thuc", "mo-ho"]
+semantic_tags = ["outro", "ending-shot", "fade-out"]
+recommended_uses = ["kết thúc video", "đoạn credit"]
+avoid_uses = ["intro", "high-energy"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_003_SC_01"
+start = 0.0
+end = 8.0
+description = "Cảnh mở đầu với góc máy tĩnh quay cột đèn đường và tán cây dưới trời mưa lớn, phía xa là cánh đồng ngô mờ ảo trong màn sương."
+subjects = ["cột đèn", "tán cây", "mưa", "cánh đồng"]
+actions = ["mưa rơi", "lá cây rung rinh"]
+environment = "ven đường nông thôn"
+shot_type = "medium shot"
+camera_motion = "handheld static"
+composition = "subject centered left"
+colors = ["xám", "xanh lá đậm", "đen"]
+mood = ["tram-mac"]
+semantic_tags = ["hook", "b-roll-canh-vat", "mood-setting"]
+recommended_uses = ["hook", "mood-piece"]
+avoid_uses = ["high-energy-cut"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_003_SC_02"
+start = 8.0
+end = 16.0
+description = "Tiếp tục duy trì khung hình cũ, hạt mưa rơi rõ nét hơn trên mặt đường nhựa phía sau cột đèn, tạo cảm giác cô độc và tĩnh lặng."
+subjects = ["mặt đường", "hạt mưa", "cột đèn"]
+actions = ["mưa rơi dày", "gió thổi nhẹ"]
+environment = "ven đường"
+shot_type = "medium shot"
+camera_motion = "handheld static"
+composition = "rule-of-thirds"
+colors = ["xám chì", "xanh thẫm"]
+mood = ["co-don"]
+semantic_tags = ["body-content", "vibe-check"]
+recommended_uses = ["storytelling-beat"]
+avoid_uses = ["action-sequence"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_003_SC_03"
+start = 16.0
+end = 24.0
+description = "Khung cảnh trời mưa vẫn tiếp diễn không đổi, ánh sáng yếu dần làm nổi bật hình khối của cột đèn và sự ảm đạm của không gian xung quanh."
+subjects = ["cột đèn", "bầu trời xám"]
+actions = ["mưa rơi liên tục"]
+environment = "ngoại ô"
+shot_type = "medium shot"
+camera_motion = "handheld static"
+composition = "subject centered left"
+colors = ["đen", "xám"]
+mood = ["tinh-lang"]
+semantic_tags = ["transition", "sad-vibe"]
+recommended_uses = ["transition", "emotional-beat"]
+avoid_uses = ["fast-paced-edit"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_003_SC_04"
+start = 24.0
+end = 24.868
+description = "Những giây cuối của clip khi cơn mưa vẫn chưa dứt, khung hình giữ nguyên sự u buồn tạo kết thúc mở cho đoạn vlog tâm trạng."
+subjects = ["mưa", "cây cối"]
+actions = ["mưa rơi"]
+environment = "ven đường"
+shot_type = "medium shot"
+camera_motion = "handheld static"
+composition = "subject centered left"
+colors = ["xám", "xanh lá"]
+mood = ["hoai-niem"]
+semantic_tags = ["outro", "ket-thuc"]
+recommended_uses = ["outro", "cta"]
+avoid_uses = ["intro"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_004_SC_01"
+start = 0.0
+end = 8.0
+description = "Toàn cảnh con đường rộng lớn với nhiều làn xe máy và ô tô đang di chuyển dưới trời mưa nặng hạt, phía xa là các tòa nhà chọc trời ẩn hiện trong sương mù."
+subjects = ["xe máy", "ô tô", "tòa nhà cao tầng", "mưa"]
+actions = ["di chuyển chậm", "vượt qua màn mưa"]
+environment = "đường phố đô thị lớn"
+shot_type = "wide shot"
+camera_motion = "handheld static"
+composition = "leading lines"
+colors = ["xám", "trắng", "xanh lá"]
+mood = ["tram-mac"]
+semantic_tags = ["hook", "b-roll-canh-vat", "intro-canh-mua"]
+recommended_uses = ["hook", "setting-the-scene"]
+avoid_uses = ["high-energy-cut"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_004_SC_02"
+start = 8.0
+end = 16.0
+description = "Góc quay trung cảnh tập trung vào một chiếc xe tải nhỏ màu cam và xe SUV đen đang chạy giữa làn đường sũng nước, xung quanh là người dân mặc áo mưa."
+subjects = ["xe tải cam", "xe SUV", "người đi xe máy"]
+actions = ["lái xe", "tạt nước nhẹ"]
+environment = "mặt đường ướt sũng"
+shot_type = "medium wide shot"
+camera_motion = "handheld static"
+composition = "rule-of-thirds"
+colors = ["cam", "đen", "xám"]
+mood = ["hoi-ha"]
+semantic_tags = ["b-roll-giao-thong", "transition"]
+recommended_uses = ["mid-segment", "atmosphere-building"]
+avoid_uses = ["cta"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_004_SC_03"
+start = 16.0
+end = 24.0
+description = "Cận cảnh dòng người đi xe máy mặc áo mưa đủ màu sắc lướt qua khung hình, phía sau là một chiếc xe buýt xanh đang di chuyển cùng chiều."
+subjects = ["xe buýt xanh", "người mặc áo mưa", "xe máy"]
+actions = ["chạy xe", "lướt qua"]
+environment = "đường phố Sài Gòn"
+shot_type = "medium shot"
+camera_motion = "handheld static"
+composition = "subject centered"
+colors = ["xanh dương", "đỏ", "xám"]
+mood = ["doi-thuong"]
+semantic_tags = ["b-roll-con-nguoi", "chi-tiet-giao-thong"]
+recommended_uses = ["story-beat", "emotional-shift"]
+avoid_uses = ["intro"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_004_SC_04"
+start = 24.0
+end = 25.563
+description = "Cảnh kết thúc khi dòng xe cộ thưa dần và mờ nhạt đi trong màn mưa trắng xóa ở cuối con đường, tạo cảm giác xa xăm."
+subjects = ["dòng xe", "màn mưa"]
+actions = ["xa dần", "mờ đi"]
+environment = "cuối đoạn đường"
+shot_type = "wide shot"
+camera_motion = "handheld static"
+composition = "leading lines"
+colors = ["xám", "trắng"]
+mood = ["ket-thuc"]
+semantic_tags = ["outro", "ket-thuc-clip"]
+recommended_uses = ["cta", "outro"]
+avoid_uses = ["hook"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_005_SC_01"
+start = 0.0
+end = 8.0
+description = "Góc quay rộng bao quát căn phòng có cửa kính lớn nhìn ra rừng cây trong mưa, một người phụ nữ ngồi trên ghế bập bênh thư giãn bên cạnh giường ngủ và góc decor nến thơm."
+subjects = ["người phụ nữ", "ghế bập bênh", "cửa sổ", "giường ngủ", "nến thơm"]
+actions = ["ngồi thư giãn", "ngắm mưa", "đọc sách"]
+environment = "phòng ngủ hiện đại ấm cúng"
+shot_type = "wide shot"
+camera_motion = "handheld static"
+composition = "rule-of-thirds"
+colors = ["trắng", "xám", "xanh lá", "vàng ấm"]
+mood = ["yen-binh", "mo-mong"]
+semantic_tags = ["hook", "vibe-setting", "lifestyle-intro"]
+recommended_uses = ["hook", "intro-vlog"]
+avoid_uses = ["high-energy-cut", "fast-paced-action"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_005_SC_02"
+start = 8.0
+end = 10.867
+description = "Cận cảnh bộ ấm trà thủy tinh đang đun trên bếp điện mini và nến thơm tỏa sáng dịu cạnh cửa sổ đọng nước mưa dày đặc."
+subjects = ["ấm trà", "nến thơm", "máy sưởi", "cửa kính"]
+actions = ["đun trà", "tỏa sáng"]
+environment = "góc trang trí cạnh cửa sổ"
+shot_type = "close-up"
+camera_motion = "slow push-in"
+composition = "subject centered"
+colors = ["vàng cam", "trắng", "xám lạnh"]
+mood = ["am-cung", "sau-lang"]
+semantic_tags = ["b-roll-detail", "transition", "ket-thuc"]
+recommended_uses = ["payoff", "outro", "mood-transition"]
+avoid_uses = ["intro-hanh-dong", "fast-cut"]
+sample_frames = ["/Users/bachdyon/video-agent/.asset_index/samples/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays_sample_01.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays_sample_02.jpg", "/Users/bachdyon/video-agent/.asset_index/samples/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays_sample_03.jpg"]

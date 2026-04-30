@@ -1,0 +1,5205 @@
+{
+  "pages": [
+    {
+      "id": "PAGE_0001",
+      "text": "Cuộc đời",
+      "start": 0.0,
+      "end": 0.32,
+      "word_ids": [
+        "W_0001",
+        "W_0002"
+      ],
+      "words": [
+        {
+          "id": "W_0001",
+          "word": "Cuộc",
+          "start": 0.0,
+          "end": 0.16
+        },
+        {
+          "id": "W_0002",
+          "word": "đời",
+          "start": 0.16,
+          "end": 0.32
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0002",
+      "text": "này sẽ",
+      "start": 0.32,
+      "end": 0.72,
+      "word_ids": [
+        "W_0003",
+        "W_0004"
+      ],
+      "words": [
+        {
+          "id": "W_0003",
+          "word": "này",
+          "start": 0.32,
+          "end": 0.54
+        },
+        {
+          "id": "W_0004",
+          "word": "sẽ",
+          "start": 0.54,
+          "end": 0.72
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0003",
+      "text": "không nhẹ",
+      "start": 0.72,
+      "end": 1.08,
+      "word_ids": [
+        "W_0005",
+        "W_0006"
+      ],
+      "words": [
+        {
+          "id": "W_0005",
+          "word": "không",
+          "start": 0.72,
+          "end": 0.92
+        },
+        {
+          "id": "W_0006",
+          "word": "nhẹ",
+          "start": 0.92,
+          "end": 1.08
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0004",
+      "text": "tay với",
+      "start": 1.08,
+      "end": 1.48,
+      "word_ids": [
+        "W_0007",
+        "W_0008"
+      ],
+      "words": [
+        {
+          "id": "W_0007",
+          "word": "tay",
+          "start": 1.08,
+          "end": 1.3
+        },
+        {
+          "id": "W_0008",
+          "word": "với",
+          "start": 1.3,
+          "end": 1.48
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0005",
+      "text": "bất kỳ",
+      "start": 1.48,
+      "end": 1.76,
+      "word_ids": [
+        "W_0009",
+        "W_0010"
+      ],
+      "words": [
+        {
+          "id": "W_0009",
+          "word": "bất",
+          "start": 1.48,
+          "end": 1.64
+        },
+        {
+          "id": "W_0010",
+          "word": "kỳ",
+          "start": 1.64,
+          "end": 1.76
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0006",
+      "text": "ai,",
+      "start": 1.76,
+      "end": 1.98,
+      "word_ids": [
+        "W_0011"
+      ],
+      "words": [
+        {
+          "id": "W_0011",
+          "word": "ai,",
+          "start": 1.76,
+          "end": 1.98
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0007",
+      "text": "sông gió",
+      "start": 2.26,
+      "end": 2.56,
+      "word_ids": [
+        "W_0012",
+        "W_0013"
+      ],
+      "words": [
+        {
+          "id": "W_0012",
+          "word": "sông",
+          "start": 2.26,
+          "end": 2.38
+        },
+        {
+          "id": "W_0013",
+          "word": "gió",
+          "start": 2.38,
+          "end": 2.56
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0008",
+      "text": "có thể",
+      "start": 2.56,
+      "end": 2.86,
+      "word_ids": [
+        "W_0014",
+        "W_0015"
+      ],
+      "words": [
+        {
+          "id": "W_0014",
+          "word": "có",
+          "start": 2.56,
+          "end": 2.86
+        },
+        {
+          "id": "W_0015",
+          "word": "thể",
+          "start": 2.86,
+          "end": 2.86
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0009",
+      "text": "làm bạn",
+      "start": 2.86,
+      "end": 3.2,
+      "word_ids": [
+        "W_0016",
+        "W_0017"
+      ],
+      "words": [
+        {
+          "id": "W_0016",
+          "word": "làm",
+          "start": 2.86,
+          "end": 3.04
+        },
+        {
+          "id": "W_0017",
+          "word": "bạn",
+          "start": 3.04,
+          "end": 3.2
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0010",
+      "text": "nghiêng ngặn,",
+      "start": 3.2,
+      "end": 3.68,
+      "word_ids": [
+        "W_0018",
+        "W_0019"
+      ],
+      "words": [
+        {
+          "id": "W_0018",
+          "word": "nghiêng",
+          "start": 3.2,
+          "end": 3.44
+        },
+        {
+          "id": "W_0019",
+          "word": "ngặn,",
+          "start": 3.44,
+          "end": 3.68
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0011",
+      "text": "cuộc đời",
+      "start": 3.8,
+      "end": 4.1,
+      "word_ids": [
+        "W_0020",
+        "W_0021"
+      ],
+      "words": [
+        {
+          "id": "W_0020",
+          "word": "cuộc",
+          "start": 3.8,
+          "end": 4.1
+        },
+        {
+          "id": "W_0021",
+          "word": "đời",
+          "start": 4.1,
+          "end": 4.1
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0012",
+      "text": "có thể",
+      "start": 4.1,
+      "end": 4.44,
+      "word_ids": [
+        "W_0022",
+        "W_0023"
+      ],
+      "words": [
+        {
+          "id": "W_0022",
+          "word": "có",
+          "start": 4.1,
+          "end": 4.44
+        },
+        {
+          "id": "W_0023",
+          "word": "thể",
+          "start": 4.44,
+          "end": 4.44
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0013",
+      "text": "làm bạn",
+      "start": 4.44,
+      "end": 4.8,
+      "word_ids": [
+        "W_0024",
+        "W_0025"
+      ],
+      "words": [
+        {
+          "id": "W_0024",
+          "word": "làm",
+          "start": 4.44,
+          "end": 4.6
+        },
+        {
+          "id": "W_0025",
+          "word": "bạn",
+          "start": 4.6,
+          "end": 4.8
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0014",
+      "text": "đầy thương",
+      "start": 4.8,
+      "end": 5.28,
+      "word_ids": [
+        "W_0026",
+        "W_0027"
+      ],
+      "words": [
+        {
+          "id": "W_0026",
+          "word": "đầy",
+          "start": 4.8,
+          "end": 5.02
+        },
+        {
+          "id": "W_0027",
+          "word": "thương",
+          "start": 5.02,
+          "end": 5.28
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0015",
+      "text": "tích,",
+      "start": 5.28,
+      "end": 5.54,
+      "word_ids": [
+        "W_0028"
+      ],
+      "words": [
+        {
+          "id": "W_0028",
+          "word": "tích,",
+          "start": 5.28,
+          "end": 5.54
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0016",
+      "text": "nhưng sẽ",
+      "start": 5.7,
+      "end": 6.06,
+      "word_ids": [
+        "W_0029",
+        "W_0030"
+      ],
+      "words": [
+        {
+          "id": "W_0029",
+          "word": "nhưng",
+          "start": 5.7,
+          "end": 5.76
+        },
+        {
+          "id": "W_0030",
+          "word": "sẽ",
+          "start": 5.76,
+          "end": 6.06
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0017",
+      "text": "không thể",
+      "start": 6.06,
+      "end": 6.38,
+      "word_ids": [
+        "W_0031",
+        "W_0032"
+      ],
+      "words": [
+        {
+          "id": "W_0031",
+          "word": "không",
+          "start": 6.06,
+          "end": 6.14
+        },
+        {
+          "id": "W_0032",
+          "word": "thể",
+          "start": 6.14,
+          "end": 6.38
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0018",
+      "text": "quật ngã",
+      "start": 6.38,
+      "end": 6.72,
+      "word_ids": [
+        "W_0033",
+        "W_0034"
+      ],
+      "words": [
+        {
+          "id": "W_0033",
+          "word": "quật",
+          "start": 6.38,
+          "end": 6.54
+        },
+        {
+          "id": "W_0034",
+          "word": "ngã",
+          "start": 6.54,
+          "end": 6.72
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0019",
+      "text": "được một",
+      "start": 6.72,
+      "end": 7.1,
+      "word_ids": [
+        "W_0035",
+        "W_0036"
+      ],
+      "words": [
+        {
+          "id": "W_0035",
+          "word": "được",
+          "start": 6.72,
+          "end": 6.88
+        },
+        {
+          "id": "W_0036",
+          "word": "một",
+          "start": 6.88,
+          "end": 7.1
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0020",
+      "text": "người vẫn",
+      "start": 7.1,
+      "end": 7.5,
+      "word_ids": [
+        "W_0037",
+        "W_0038"
+      ],
+      "words": [
+        {
+          "id": "W_0037",
+          "word": "người",
+          "start": 7.1,
+          "end": 7.26
+        },
+        {
+          "id": "W_0038",
+          "word": "vẫn",
+          "start": 7.26,
+          "end": 7.5
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0021",
+      "text": "còn muốn",
+      "start": 7.5,
+      "end": 7.88,
+      "word_ids": [
+        "W_0039",
+        "W_0040"
+      ],
+      "words": [
+        {
+          "id": "W_0039",
+          "word": "còn",
+          "start": 7.5,
+          "end": 7.76
+        },
+        {
+          "id": "W_0040",
+          "word": "muốn",
+          "start": 7.76,
+          "end": 7.88
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0022",
+      "text": "bước tiếp.",
+      "start": 7.88,
+      "end": 8.24,
+      "word_ids": [
+        "W_0041",
+        "W_0042"
+      ],
+      "words": [
+        {
+          "id": "W_0041",
+          "word": "bước",
+          "start": 7.88,
+          "end": 8.02
+        },
+        {
+          "id": "W_0042",
+          "word": "tiếp.",
+          "start": 8.02,
+          "end": 8.24
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0023",
+      "text": "Ai rồi",
+      "start": 8.86,
+      "end": 9.12,
+      "word_ids": [
+        "W_0043",
+        "W_0044"
+      ],
+      "words": [
+        {
+          "id": "W_0043",
+          "word": "Ai",
+          "start": 8.86,
+          "end": 8.86
+        },
+        {
+          "id": "W_0044",
+          "word": "rồi",
+          "start": 8.86,
+          "end": 9.12
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0024",
+      "text": "cũng sẽ",
+      "start": 9.12,
+      "end": 9.58,
+      "word_ids": [
+        "W_0045",
+        "W_0046"
+      ],
+      "words": [
+        {
+          "id": "W_0045",
+          "word": "cũng",
+          "start": 9.12,
+          "end": 9.32
+        },
+        {
+          "id": "W_0046",
+          "word": "sẽ",
+          "start": 9.32,
+          "end": 9.58
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0025",
+      "text": "có những",
+      "start": 9.58,
+      "end": 9.98,
+      "word_ids": [
+        "W_0047",
+        "W_0048"
+      ],
+      "words": [
+        {
+          "id": "W_0047",
+          "word": "có",
+          "start": 9.58,
+          "end": 9.68
+        },
+        {
+          "id": "W_0048",
+          "word": "những",
+          "start": 9.68,
+          "end": 9.98
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0026",
+      "text": "giai đoạn",
+      "start": 9.98,
+      "end": 10.14,
+      "word_ids": [
+        "W_0049",
+        "W_0050"
+      ],
+      "words": [
+        {
+          "id": "W_0049",
+          "word": "giai",
+          "start": 9.98,
+          "end": 10.04
+        },
+        {
+          "id": "W_0050",
+          "word": "đoạn",
+          "start": 10.04,
+          "end": 10.14
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0027",
+      "text": "mà chỉ",
+      "start": 10.14,
+      "end": 10.52,
+      "word_ids": [
+        "W_0051",
+        "W_0052"
+      ],
+      "words": [
+        {
+          "id": "W_0051",
+          "word": "mà",
+          "start": 10.14,
+          "end": 10.44
+        },
+        {
+          "id": "W_0052",
+          "word": "chỉ",
+          "start": 10.44,
+          "end": 10.52
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0028",
+      "text": "thở thôi",
+      "start": 10.52,
+      "end": 10.96,
+      "word_ids": [
+        "W_0053",
+        "W_0054"
+      ],
+      "words": [
+        {
+          "id": "W_0053",
+          "word": "thở",
+          "start": 10.52,
+          "end": 10.74
+        },
+        {
+          "id": "W_0054",
+          "word": "thôi",
+          "start": 10.74,
+          "end": 10.96
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0029",
+      "text": "cũng thấy",
+      "start": 10.96,
+      "end": 11.4,
+      "word_ids": [
+        "W_0055",
+        "W_0056"
+      ],
+      "words": [
+        {
+          "id": "W_0055",
+          "word": "cũng",
+          "start": 10.96,
+          "end": 11.2
+        },
+        {
+          "id": "W_0056",
+          "word": "thấy",
+          "start": 11.2,
+          "end": 11.4
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0030",
+      "text": "mệt,",
+      "start": 11.4,
+      "end": 11.56,
+      "word_ids": [
+        "W_0057"
+      ],
+      "words": [
+        {
+          "id": "W_0057",
+          "word": "mệt,",
+          "start": 11.4,
+          "end": 11.56
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0031",
+      "text": "chỉ bước",
+      "start": 11.86,
+      "end": 12.14,
+      "word_ids": [
+        "W_0058",
+        "W_0059"
+      ],
+      "words": [
+        {
+          "id": "W_0058",
+          "word": "chỉ",
+          "start": 11.86,
+          "end": 12.0
+        },
+        {
+          "id": "W_0059",
+          "word": "bước",
+          "start": 12.0,
+          "end": 12.14
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0032",
+      "text": "tiếp thôi",
+      "start": 12.14,
+      "end": 12.52,
+      "word_ids": [
+        "W_0060",
+        "W_0061"
+      ],
+      "words": [
+        {
+          "id": "W_0060",
+          "word": "tiếp",
+          "start": 12.14,
+          "end": 12.34
+        },
+        {
+          "id": "W_0061",
+          "word": "thôi",
+          "start": 12.34,
+          "end": 12.52
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0033",
+      "text": "cũng thấy",
+      "start": 12.52,
+      "end": 12.86,
+      "word_ids": [
+        "W_0062",
+        "W_0063"
+      ],
+      "words": [
+        {
+          "id": "W_0062",
+          "word": "cũng",
+          "start": 12.52,
+          "end": 12.68
+        },
+        {
+          "id": "W_0063",
+          "word": "thấy",
+          "start": 12.68,
+          "end": 12.86
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0034",
+      "text": "đau.",
+      "start": 12.86,
+      "end": 13.22,
+      "word_ids": [
+        "W_0064"
+      ],
+      "words": [
+        {
+          "id": "W_0064",
+          "word": "đau.",
+          "start": 12.86,
+          "end": 13.22
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0035",
+      "text": "Có những",
+      "start": 13.6,
+      "end": 13.74,
+      "word_ids": [
+        "W_0065",
+        "W_0066"
+      ],
+      "words": [
+        {
+          "id": "W_0065",
+          "word": "Có",
+          "start": 13.6,
+          "end": 13.6
+        },
+        {
+          "id": "W_0066",
+          "word": "những",
+          "start": 13.6,
+          "end": 13.74
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0036",
+      "text": "ngày áp",
+      "start": 13.74,
+      "end": 14.08,
+      "word_ids": [
+        "W_0067",
+        "W_0068"
+      ],
+      "words": [
+        {
+          "id": "W_0067",
+          "word": "ngày",
+          "start": 13.74,
+          "end": 13.94
+        },
+        {
+          "id": "W_0068",
+          "word": "áp",
+          "start": 13.94,
+          "end": 14.08
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0037",
+      "text": "lực bổ",
+      "start": 14.08,
+      "end": 14.5,
+      "word_ids": [
+        "W_0069",
+        "W_0070"
+      ],
+      "words": [
+        {
+          "id": "W_0069",
+          "word": "lực",
+          "start": 14.08,
+          "end": 14.18
+        },
+        {
+          "id": "W_0070",
+          "word": "bổ",
+          "start": 14.18,
+          "end": 14.5
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0038",
+      "text": "vây từ",
+      "start": 14.5,
+      "end": 14.84,
+      "word_ids": [
+        "W_0071",
+        "W_0072"
+      ],
+      "words": [
+        {
+          "id": "W_0071",
+          "word": "vây",
+          "start": 14.5,
+          "end": 14.58
+        },
+        {
+          "id": "W_0072",
+          "word": "từ",
+          "start": 14.58,
+          "end": 14.84
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0039",
+      "text": "mọi phía,",
+      "start": 14.84,
+      "end": 15.3,
+      "word_ids": [
+        "W_0073",
+        "W_0074"
+      ],
+      "words": [
+        {
+          "id": "W_0073",
+          "word": "mọi",
+          "start": 14.84,
+          "end": 15.1
+        },
+        {
+          "id": "W_0074",
+          "word": "phía,",
+          "start": 15.1,
+          "end": 15.3
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0040",
+      "text": "tiền không",
+      "start": 15.76,
+      "end": 15.98,
+      "word_ids": [
+        "W_0075",
+        "W_0076"
+      ],
+      "words": [
+        {
+          "id": "W_0075",
+          "word": "tiền",
+          "start": 15.76,
+          "end": 15.76
+        },
+        {
+          "id": "W_0076",
+          "word": "không",
+          "start": 15.76,
+          "end": 15.98
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0041",
+      "text": "đủ,",
+      "start": 15.98,
+      "end": 16.14,
+      "word_ids": [
+        "W_0077"
+      ],
+      "words": [
+        {
+          "id": "W_0077",
+          "word": "đủ,",
+          "start": 15.98,
+          "end": 16.14
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0042",
+      "text": "công việc",
+      "start": 16.54,
+      "end": 16.64,
+      "word_ids": [
+        "W_0078",
+        "W_0079"
+      ],
+      "words": [
+        {
+          "id": "W_0078",
+          "word": "công",
+          "start": 16.54,
+          "end": 16.54
+        },
+        {
+          "id": "W_0079",
+          "word": "việc",
+          "start": 16.54,
+          "end": 16.64
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0043",
+      "text": "không như",
+      "start": 16.64,
+      "end": 17.04,
+      "word_ids": [
+        "W_0080",
+        "W_0081"
+      ],
+      "words": [
+        {
+          "id": "W_0080",
+          "word": "không",
+          "start": 16.64,
+          "end": 16.88
+        },
+        {
+          "id": "W_0081",
+          "word": "như",
+          "start": 16.88,
+          "end": 17.04
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0044",
+      "text": "mong muốn,",
+      "start": 17.04,
+      "end": 17.36,
+      "word_ids": [
+        "W_0082",
+        "W_0083"
+      ],
+      "words": [
+        {
+          "id": "W_0082",
+          "word": "mong",
+          "start": 17.04,
+          "end": 17.16
+        },
+        {
+          "id": "W_0083",
+          "word": "muốn,",
+          "start": 17.16,
+          "end": 17.36
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0045",
+      "text": "tình cảm",
+      "start": 17.84,
+      "end": 18.04,
+      "word_ids": [
+        "W_0084",
+        "W_0085"
+      ],
+      "words": [
+        {
+          "id": "W_0084",
+          "word": "tình",
+          "start": 17.84,
+          "end": 17.84
+        },
+        {
+          "id": "W_0085",
+          "word": "cảm",
+          "start": 17.84,
+          "end": 18.04
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0046",
+      "text": "không còn",
+      "start": 18.04,
+      "end": 18.38,
+      "word_ids": [
+        "W_0086",
+        "W_0087"
+      ],
+      "words": [
+        {
+          "id": "W_0086",
+          "word": "không",
+          "start": 18.04,
+          "end": 18.24
+        },
+        {
+          "id": "W_0087",
+          "word": "còn",
+          "start": 18.24,
+          "end": 18.38
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0047",
+      "text": "bình yên,",
+      "start": 18.38,
+      "end": 18.72,
+      "word_ids": [
+        "W_0088",
+        "W_0089"
+      ],
+      "words": [
+        {
+          "id": "W_0088",
+          "word": "bình",
+          "start": 18.38,
+          "end": 18.54
+        },
+        {
+          "id": "W_0089",
+          "word": "yên,",
+          "start": 18.54,
+          "end": 18.72
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0048",
+      "text": "và ước",
+      "start": 18.98,
+      "end": 19.28,
+      "word_ids": [
+        "W_0090",
+        "W_0091"
+      ],
+      "words": [
+        {
+          "id": "W_0090",
+          "word": "và",
+          "start": 18.98,
+          "end": 19.28
+        },
+        {
+          "id": "W_0091",
+          "word": "ước",
+          "start": 19.28,
+          "end": 19.28
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0049",
+      "text": "mơ thì",
+      "start": 19.28,
+      "end": 19.8,
+      "word_ids": [
+        "W_0092",
+        "W_0093"
+      ],
+      "words": [
+        {
+          "id": "W_0092",
+          "word": "mơ",
+          "start": 19.28,
+          "end": 19.44
+        },
+        {
+          "id": "W_0093",
+          "word": "thì",
+          "start": 19.44,
+          "end": 19.8
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0050",
+      "text": "xa đến",
+      "start": 19.8,
+      "end": 19.92,
+      "word_ids": [
+        "W_0094",
+        "W_0095"
+      ],
+      "words": [
+        {
+          "id": "W_0094",
+          "word": "xa",
+          "start": 19.8,
+          "end": 19.8
+        },
+        {
+          "id": "W_0095",
+          "word": "đến",
+          "start": 19.8,
+          "end": 19.92
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0051",
+      "text": "mức ta",
+      "start": 19.92,
+      "end": 20.38,
+      "word_ids": [
+        "W_0096",
+        "W_0097"
+      ],
+      "words": [
+        {
+          "id": "W_0096",
+          "word": "mức",
+          "start": 19.92,
+          "end": 20.02
+        },
+        {
+          "id": "W_0097",
+          "word": "ta",
+          "start": 20.02,
+          "end": 20.38
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0052",
+      "text": "bắt đầu",
+      "start": 20.38,
+      "end": 20.6,
+      "word_ids": [
+        "W_0098",
+        "W_0099"
+      ],
+      "words": [
+        {
+          "id": "W_0098",
+          "word": "bắt",
+          "start": 20.38,
+          "end": 20.5
+        },
+        {
+          "id": "W_0099",
+          "word": "đầu",
+          "start": 20.5,
+          "end": 20.6
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0053",
+      "text": "nghi ngờ",
+      "start": 20.6,
+      "end": 20.9,
+      "word_ids": [
+        "W_0100",
+        "W_0101"
+      ],
+      "words": [
+        {
+          "id": "W_0100",
+          "word": "nghi",
+          "start": 20.6,
+          "end": 20.78
+        },
+        {
+          "id": "W_0101",
+          "word": "ngờ",
+          "start": 20.78,
+          "end": 20.9
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0054",
+      "text": "chính mình.",
+      "start": 20.9,
+      "end": 21.3,
+      "word_ids": [
+        "W_0102",
+        "W_0103"
+      ],
+      "words": [
+        {
+          "id": "W_0102",
+          "word": "chính",
+          "start": 20.9,
+          "end": 21.18
+        },
+        {
+          "id": "W_0103",
+          "word": "mình.",
+          "start": 21.18,
+          "end": 21.3
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0055",
+      "text": "Nhưng thật",
+      "start": 21.8,
+      "end": 22.1,
+      "word_ids": [
+        "W_0104",
+        "W_0105"
+      ],
+      "words": [
+        {
+          "id": "W_0104",
+          "word": "Nhưng",
+          "start": 21.8,
+          "end": 21.9
+        },
+        {
+          "id": "W_0105",
+          "word": "thật",
+          "start": 21.9,
+          "end": 22.1
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0056",
+      "text": "ra,",
+      "start": 22.1,
+      "end": 22.36,
+      "word_ids": [
+        "W_0106"
+      ],
+      "words": [
+        {
+          "id": "W_0106",
+          "word": "ra,",
+          "start": 22.1,
+          "end": 22.36
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0057",
+      "text": "điều đáng",
+      "start": 22.7,
+      "end": 22.96,
+      "word_ids": [
+        "W_0107",
+        "W_0108"
+      ],
+      "words": [
+        {
+          "id": "W_0107",
+          "word": "điều",
+          "start": 22.7,
+          "end": 22.72
+        },
+        {
+          "id": "W_0108",
+          "word": "đáng",
+          "start": 22.72,
+          "end": 22.96
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0058",
+      "text": "sợ nhất",
+      "start": 22.96,
+      "end": 23.34,
+      "word_ids": [
+        "W_0109",
+        "W_0110"
+      ],
+      "words": [
+        {
+          "id": "W_0109",
+          "word": "sợ",
+          "start": 22.96,
+          "end": 23.12
+        },
+        {
+          "id": "W_0110",
+          "word": "nhất",
+          "start": 23.12,
+          "end": 23.34
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0059",
+      "text": "chưa bao",
+      "start": 23.34,
+      "end": 23.68,
+      "word_ids": [
+        "W_0111",
+        "W_0112"
+      ],
+      "words": [
+        {
+          "id": "W_0111",
+          "word": "chưa",
+          "start": 23.34,
+          "end": 23.5
+        },
+        {
+          "id": "W_0112",
+          "word": "bao",
+          "start": 23.5,
+          "end": 23.68
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0060",
+      "text": "giờ là",
+      "start": 23.68,
+      "end": 24.0,
+      "word_ids": [
+        "W_0113",
+        "W_0114"
+      ],
+      "words": [
+        {
+          "id": "W_0113",
+          "word": "giờ",
+          "start": 23.68,
+          "end": 23.78
+        },
+        {
+          "id": "W_0114",
+          "word": "là",
+          "start": 23.78,
+          "end": 24.0
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0061",
+      "text": "dông bão,",
+      "start": 24.0,
+      "end": 24.36,
+      "word_ids": [
+        "W_0115",
+        "W_0116"
+      ],
+      "words": [
+        {
+          "id": "W_0115",
+          "word": "dông",
+          "start": 24.0,
+          "end": 24.22
+        },
+        {
+          "id": "W_0116",
+          "word": "bão,",
+          "start": 24.22,
+          "end": 24.36
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0062",
+      "text": "Điều đáng",
+      "start": 24.36,
+      "end": 25.4,
+      "word_ids": [
+        "W_0117",
+        "W_0118"
+      ],
+      "words": [
+        {
+          "id": "W_0117",
+          "word": "Điều",
+          "start": 24.36,
+          "end": 25.06
+        },
+        {
+          "id": "W_0118",
+          "word": "đáng",
+          "start": 25.06,
+          "end": 25.4
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0063",
+      "text": "sợ nhất",
+      "start": 25.4,
+      "end": 25.68,
+      "word_ids": [
+        "W_0119",
+        "W_0120"
+      ],
+      "words": [
+        {
+          "id": "W_0119",
+          "word": "sợ",
+          "start": 25.4,
+          "end": 25.46
+        },
+        {
+          "id": "W_0120",
+          "word": "nhất",
+          "start": 25.46,
+          "end": 25.68
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0064",
+      "text": "là khoảnh",
+      "start": 25.68,
+      "end": 26.04,
+      "word_ids": [
+        "W_0121",
+        "W_0122"
+      ],
+      "words": [
+        {
+          "id": "W_0121",
+          "word": "là",
+          "start": 25.68,
+          "end": 25.86
+        },
+        {
+          "id": "W_0122",
+          "word": "khoảnh",
+          "start": 25.86,
+          "end": 26.04
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0065",
+      "text": "khắc còn",
+      "start": 26.04,
+      "end": 26.48,
+      "word_ids": [
+        "W_0123",
+        "W_0124"
+      ],
+      "words": [
+        {
+          "id": "W_0123",
+          "word": "khắc",
+          "start": 26.04,
+          "end": 26.22
+        },
+        {
+          "id": "W_0124",
+          "word": "còn",
+          "start": 26.22,
+          "end": 26.48
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0066",
+      "text": "người ta",
+      "start": 26.48,
+      "end": 26.78,
+      "word_ids": [
+        "W_0125",
+        "W_0126"
+      ],
+      "words": [
+        {
+          "id": "W_0125",
+          "word": "người",
+          "start": 26.48,
+          "end": 26.62
+        },
+        {
+          "id": "W_0126",
+          "word": "ta",
+          "start": 26.62,
+          "end": 26.78
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0067",
+      "text": "tự buông",
+      "start": 26.78,
+      "end": 27.18,
+      "word_ids": [
+        "W_0127",
+        "W_0128"
+      ],
+      "words": [
+        {
+          "id": "W_0127",
+          "word": "tự",
+          "start": 26.78,
+          "end": 26.98
+        },
+        {
+          "id": "W_0128",
+          "word": "buông",
+          "start": 26.98,
+          "end": 27.18
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0068",
+      "text": "tay khỏi",
+      "start": 27.18,
+      "end": 27.6,
+      "word_ids": [
+        "W_0129",
+        "W_0130"
+      ],
+      "words": [
+        {
+          "id": "W_0129",
+          "word": "tay",
+          "start": 27.18,
+          "end": 27.36
+        },
+        {
+          "id": "W_0130",
+          "word": "khỏi",
+          "start": 27.36,
+          "end": 27.6
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0069",
+      "text": "hy vọng.",
+      "start": 27.6,
+      "end": 27.96,
+      "word_ids": [
+        "W_0131",
+        "W_0132"
+      ],
+      "words": [
+        {
+          "id": "W_0131",
+          "word": "hy",
+          "start": 27.6,
+          "end": 27.78
+        },
+        {
+          "id": "W_0132",
+          "word": "vọng.",
+          "start": 27.78,
+          "end": 27.96
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0070",
+      "text": "Bởi người",
+      "start": 28.44,
+      "end": 28.68,
+      "word_ids": [
+        "W_0133",
+        "W_0134"
+      ],
+      "words": [
+        {
+          "id": "W_0133",
+          "word": "Bởi",
+          "start": 28.44,
+          "end": 28.52
+        },
+        {
+          "id": "W_0134",
+          "word": "người",
+          "start": 28.52,
+          "end": 28.68
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0071",
+      "text": "thất bại",
+      "start": 28.68,
+      "end": 29.02,
+      "word_ids": [
+        "W_0135",
+        "W_0136"
+      ],
+      "words": [
+        {
+          "id": "W_0135",
+          "word": "thất",
+          "start": 28.68,
+          "end": 28.86
+        },
+        {
+          "id": "W_0136",
+          "word": "bại",
+          "start": 28.86,
+          "end": 29.02
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0072",
+      "text": "thật sự",
+      "start": 29.02,
+      "end": 29.48,
+      "word_ids": [
+        "W_0137",
+        "W_0138"
+      ],
+      "words": [
+        {
+          "id": "W_0137",
+          "word": "thật",
+          "start": 29.02,
+          "end": 29.34
+        },
+        {
+          "id": "W_0138",
+          "word": "sự",
+          "start": 29.34,
+          "end": 29.48
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0073",
+      "text": "không phải",
+      "start": 29.48,
+      "end": 29.9,
+      "word_ids": [
+        "W_0139",
+        "W_0140"
+      ],
+      "words": [
+        {
+          "id": "W_0139",
+          "word": "không",
+          "start": 29.48,
+          "end": 29.72
+        },
+        {
+          "id": "W_0140",
+          "word": "phải",
+          "start": 29.72,
+          "end": 29.9
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0074",
+      "text": "là người",
+      "start": 29.9,
+      "end": 30.2,
+      "word_ids": [
+        "W_0141",
+        "W_0142"
+      ],
+      "words": [
+        {
+          "id": "W_0141",
+          "word": "là",
+          "start": 29.9,
+          "end": 30.04
+        },
+        {
+          "id": "W_0142",
+          "word": "người",
+          "start": 30.04,
+          "end": 30.2
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0075",
+      "text": "đã từng",
+      "start": 30.2,
+      "end": 30.58,
+      "word_ids": [
+        "W_0143",
+        "W_0144"
+      ],
+      "words": [
+        {
+          "id": "W_0143",
+          "word": "đã",
+          "start": 30.2,
+          "end": 30.42
+        },
+        {
+          "id": "W_0144",
+          "word": "từng",
+          "start": 30.42,
+          "end": 30.58
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0076",
+      "text": "vấp ngã,",
+      "start": 30.58,
+      "end": 30.94,
+      "word_ids": [
+        "W_0145",
+        "W_0146"
+      ],
+      "words": [
+        {
+          "id": "W_0145",
+          "word": "vấp",
+          "start": 30.58,
+          "end": 30.76
+        },
+        {
+          "id": "W_0146",
+          "word": "ngã,",
+          "start": 30.76,
+          "end": 30.94
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0077",
+      "text": "mà là",
+      "start": 31.28,
+      "end": 31.54,
+      "word_ids": [
+        "W_0147",
+        "W_0148"
+      ],
+      "words": [
+        {
+          "id": "W_0147",
+          "word": "mà",
+          "start": 31.28,
+          "end": 31.36
+        },
+        {
+          "id": "W_0148",
+          "word": "là",
+          "start": 31.36,
+          "end": 31.54
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0078",
+      "text": "người nằm",
+      "start": 31.54,
+      "end": 31.88,
+      "word_ids": [
+        "W_0149",
+        "W_0150"
+      ],
+      "words": [
+        {
+          "id": "W_0149",
+          "word": "người",
+          "start": 31.54,
+          "end": 31.7
+        },
+        {
+          "id": "W_0150",
+          "word": "nằm",
+          "start": 31.7,
+          "end": 31.88
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0079",
+      "text": "xuống rồi",
+      "start": 31.88,
+      "end": 32.36,
+      "word_ids": [
+        "W_0151",
+        "W_0152"
+      ],
+      "words": [
+        {
+          "id": "W_0151",
+          "word": "xuống",
+          "start": 31.88,
+          "end": 32.14
+        },
+        {
+          "id": "W_0152",
+          "word": "rồi",
+          "start": 32.14,
+          "end": 32.36
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0080",
+      "text": "không muốn",
+      "start": 32.36,
+      "end": 32.68,
+      "word_ids": [
+        "W_0153",
+        "W_0154"
+      ],
+      "words": [
+        {
+          "id": "W_0153",
+          "word": "không",
+          "start": 32.36,
+          "end": 32.5
+        },
+        {
+          "id": "W_0154",
+          "word": "muốn",
+          "start": 32.5,
+          "end": 32.68
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0081",
+      "text": "đứng lên",
+      "start": 32.68,
+      "end": 33.04,
+      "word_ids": [
+        "W_0155",
+        "W_0156"
+      ],
+      "words": [
+        {
+          "id": "W_0155",
+          "word": "đứng",
+          "start": 32.68,
+          "end": 32.82
+        },
+        {
+          "id": "W_0156",
+          "word": "lên",
+          "start": 32.82,
+          "end": 33.04
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0082",
+      "text": "nữa.",
+      "start": 33.04,
+      "end": 33.26,
+      "word_ids": [
+        "W_0157"
+      ],
+      "words": [
+        {
+          "id": "W_0157",
+          "word": "nữa.",
+          "start": 33.04,
+          "end": 33.26
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0083",
+      "text": "Chỉ cần",
+      "start": 33.84,
+      "end": 34.0,
+      "word_ids": [
+        "W_0158",
+        "W_0159"
+      ],
+      "words": [
+        {
+          "id": "W_0158",
+          "word": "Chỉ",
+          "start": 33.84,
+          "end": 33.84
+        },
+        {
+          "id": "W_0159",
+          "word": "cần",
+          "start": 33.84,
+          "end": 34.0
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0084",
+      "text": "bạn chưa",
+      "start": 34.0,
+      "end": 34.42,
+      "word_ids": [
+        "W_0160",
+        "W_0161"
+      ],
+      "words": [
+        {
+          "id": "W_0160",
+          "word": "bạn",
+          "start": 34.0,
+          "end": 34.22
+        },
+        {
+          "id": "W_0161",
+          "word": "chưa",
+          "start": 34.22,
+          "end": 34.42
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0085",
+      "text": "bỏ cuộc,",
+      "start": 34.42,
+      "end": 34.78,
+      "word_ids": [
+        "W_0162",
+        "W_0163"
+      ],
+      "words": [
+        {
+          "id": "W_0162",
+          "word": "bỏ",
+          "start": 34.42,
+          "end": 34.62
+        },
+        {
+          "id": "W_0163",
+          "word": "cuộc,",
+          "start": 34.62,
+          "end": 34.78
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0086",
+      "text": "thì mọi",
+      "start": 35.08,
+      "end": 35.44,
+      "word_ids": [
+        "W_0164",
+        "W_0165"
+      ],
+      "words": [
+        {
+          "id": "W_0164",
+          "word": "thì",
+          "start": 35.08,
+          "end": 35.28
+        },
+        {
+          "id": "W_0165",
+          "word": "mọi",
+          "start": 35.28,
+          "end": 35.44
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0087",
+      "text": "khó khăn",
+      "start": 35.44,
+      "end": 35.74,
+      "word_ids": [
+        "W_0166",
+        "W_0167"
+      ],
+      "words": [
+        {
+          "id": "W_0166",
+          "word": "khó",
+          "start": 35.44,
+          "end": 35.6
+        },
+        {
+          "id": "W_0167",
+          "word": "khăn",
+          "start": 35.6,
+          "end": 35.74
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0088",
+      "text": "ngoài kia",
+      "start": 35.74,
+      "end": 36.2,
+      "word_ids": [
+        "W_0168",
+        "W_0169"
+      ],
+      "words": [
+        {
+          "id": "W_0168",
+          "word": "ngoài",
+          "start": 35.74,
+          "end": 35.98
+        },
+        {
+          "id": "W_0169",
+          "word": "kia",
+          "start": 35.98,
+          "end": 36.2
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0089",
+      "text": "vẫn chưa",
+      "start": 36.2,
+      "end": 36.56,
+      "word_ids": [
+        "W_0170",
+        "W_0171"
+      ],
+      "words": [
+        {
+          "id": "W_0170",
+          "word": "vẫn",
+          "start": 36.2,
+          "end": 36.42
+        },
+        {
+          "id": "W_0171",
+          "word": "chưa",
+          "start": 36.42,
+          "end": 36.56
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0090",
+      "text": "thể kết",
+      "start": 36.56,
+      "end": 36.96,
+      "word_ids": [
+        "W_0172",
+        "W_0173"
+      ],
+      "words": [
+        {
+          "id": "W_0172",
+          "word": "thể",
+          "start": 36.56,
+          "end": 36.78
+        },
+        {
+          "id": "W_0173",
+          "word": "kết",
+          "start": 36.78,
+          "end": 36.96
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0091",
+      "text": "thúc bạn.",
+      "start": 36.96,
+      "end": 37.24,
+      "word_ids": [
+        "W_0174",
+        "W_0175"
+      ],
+      "words": [
+        {
+          "id": "W_0174",
+          "word": "thúc",
+          "start": 36.96,
+          "end": 36.98
+        },
+        {
+          "id": "W_0175",
+          "word": "bạn.",
+          "start": 36.98,
+          "end": 37.24
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0092",
+      "text": "Chúng ta",
+      "start": 37.82,
+      "end": 37.96,
+      "word_ids": [
+        "W_0176",
+        "W_0177"
+      ],
+      "words": [
+        {
+          "id": "W_0176",
+          "word": "Chúng",
+          "start": 37.82,
+          "end": 37.82
+        },
+        {
+          "id": "W_0177",
+          "word": "ta",
+          "start": 37.82,
+          "end": 37.96
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0093",
+      "text": "thường đau",
+      "start": 37.96,
+      "end": 38.36,
+      "word_ids": [
+        "W_0178",
+        "W_0179"
+      ],
+      "words": [
+        {
+          "id": "W_0178",
+          "word": "thường",
+          "start": 37.96,
+          "end": 38.14
+        },
+        {
+          "id": "W_0179",
+          "word": "đau",
+          "start": 38.14,
+          "end": 38.36
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0094",
+      "text": "khổ vì",
+      "start": 38.36,
+      "end": 38.92,
+      "word_ids": [
+        "W_0180",
+        "W_0181"
+      ],
+      "words": [
+        {
+          "id": "W_0180",
+          "word": "khổ",
+          "start": 38.36,
+          "end": 38.56
+        },
+        {
+          "id": "W_0181",
+          "word": "vì",
+          "start": 38.56,
+          "end": 38.92
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0095",
+      "text": "cứ nhìn",
+      "start": 38.92,
+      "end": 39.24,
+      "word_ids": [
+        "W_0182",
+        "W_0183"
+      ],
+      "words": [
+        {
+          "id": "W_0182",
+          "word": "cứ",
+          "start": 38.92,
+          "end": 39.12
+        },
+        {
+          "id": "W_0183",
+          "word": "nhìn",
+          "start": 39.12,
+          "end": 39.24
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0096",
+      "text": "vào những",
+      "start": 39.24,
+      "end": 39.52,
+      "word_ids": [
+        "W_0184",
+        "W_0185"
+      ],
+      "words": [
+        {
+          "id": "W_0184",
+          "word": "vào",
+          "start": 39.24,
+          "end": 39.4
+        },
+        {
+          "id": "W_0185",
+          "word": "những",
+          "start": 39.4,
+          "end": 39.52
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0097",
+      "text": "điều mình",
+      "start": 39.52,
+      "end": 39.88,
+      "word_ids": [
+        "W_0186",
+        "W_0187"
+      ],
+      "words": [
+        {
+          "id": "W_0186",
+          "word": "điều",
+          "start": 39.52,
+          "end": 39.68
+        },
+        {
+          "id": "W_0187",
+          "word": "mình",
+          "start": 39.68,
+          "end": 39.88
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0098",
+      "text": "chưa có,",
+      "start": 39.88,
+      "end": 40.5,
+      "word_ids": [
+        "W_0188",
+        "W_0189"
+      ],
+      "words": [
+        {
+          "id": "W_0188",
+          "word": "chưa",
+          "start": 39.88,
+          "end": 40.04
+        },
+        {
+          "id": "W_0189",
+          "word": "có,",
+          "start": 40.04,
+          "end": 40.5
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0099",
+      "text": "mà quên",
+      "start": 40.56,
+      "end": 40.9,
+      "word_ids": [
+        "W_0190",
+        "W_0191"
+      ],
+      "words": [
+        {
+          "id": "W_0190",
+          "word": "mà",
+          "start": 40.56,
+          "end": 40.76
+        },
+        {
+          "id": "W_0191",
+          "word": "quên",
+          "start": 40.76,
+          "end": 40.9
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0100",
+      "text": "mất những",
+      "start": 40.9,
+      "end": 41.24,
+      "word_ids": [
+        "W_0192",
+        "W_0193"
+      ],
+      "words": [
+        {
+          "id": "W_0192",
+          "word": "mất",
+          "start": 40.9,
+          "end": 41.04
+        },
+        {
+          "id": "W_0193",
+          "word": "những",
+          "start": 41.04,
+          "end": 41.24
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0101",
+      "text": "điều mình",
+      "start": 41.24,
+      "end": 41.62,
+      "word_ids": [
+        "W_0194",
+        "W_0195"
+      ],
+      "words": [
+        {
+          "id": "W_0194",
+          "word": "điều",
+          "start": 41.24,
+          "end": 41.42
+        },
+        {
+          "id": "W_0195",
+          "word": "mình",
+          "start": 41.42,
+          "end": 41.62
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0102",
+      "text": "đang sở",
+      "start": 41.62,
+      "end": 41.98,
+      "word_ids": [
+        "W_0196",
+        "W_0197"
+      ],
+      "words": [
+        {
+          "id": "W_0196",
+          "word": "đang",
+          "start": 41.62,
+          "end": 41.84
+        },
+        {
+          "id": "W_0197",
+          "word": "sở",
+          "start": 41.84,
+          "end": 41.98
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0103",
+      "text": "hữu đã",
+      "start": 41.98,
+      "end": 42.56,
+      "word_ids": [
+        "W_0198",
+        "W_0199"
+      ],
+      "words": [
+        {
+          "id": "W_0198",
+          "word": "hữu",
+          "start": 41.98,
+          "end": 42.38
+        },
+        {
+          "id": "W_0199",
+          "word": "đã",
+          "start": 42.38,
+          "end": 42.56
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0104",
+      "text": "từng là",
+      "start": 42.56,
+      "end": 43.02,
+      "word_ids": [
+        "W_0200",
+        "W_0201"
+      ],
+      "words": [
+        {
+          "id": "W_0200",
+          "word": "từng",
+          "start": 42.56,
+          "end": 42.78
+        },
+        {
+          "id": "W_0201",
+          "word": "là",
+          "start": 42.78,
+          "end": 43.02
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0105",
+      "text": "ước mơ",
+      "start": 43.02,
+      "end": 43.2,
+      "word_ids": [
+        "W_0202",
+        "W_0203"
+      ],
+      "words": [
+        {
+          "id": "W_0202",
+          "word": "ước",
+          "start": 43.02,
+          "end": 43.02
+        },
+        {
+          "id": "W_0203",
+          "word": "mơ",
+          "start": 43.02,
+          "end": 43.2
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0106",
+      "text": "của chính",
+      "start": 43.2,
+      "end": 43.58,
+      "word_ids": [
+        "W_0204",
+        "W_0205"
+      ],
+      "words": [
+        {
+          "id": "W_0204",
+          "word": "của",
+          "start": 43.2,
+          "end": 43.44
+        },
+        {
+          "id": "W_0205",
+          "word": "chính",
+          "start": 43.44,
+          "end": 43.58
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0107",
+      "text": "mình ngày",
+      "start": 43.58,
+      "end": 43.94,
+      "word_ids": [
+        "W_0206",
+        "W_0207"
+      ],
+      "words": [
+        {
+          "id": "W_0206",
+          "word": "mình",
+          "start": 43.58,
+          "end": 43.7
+        },
+        {
+          "id": "W_0207",
+          "word": "ngày",
+          "start": 43.7,
+          "end": 43.94
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0108",
+      "text": "trước.",
+      "start": 43.94,
+      "end": 44.3,
+      "word_ids": [
+        "W_0208"
+      ],
+      "words": [
+        {
+          "id": "W_0208",
+          "word": "trước.",
+          "start": 43.94,
+          "end": 44.3
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0109",
+      "text": "Ta ngưỡng",
+      "start": 44.7,
+      "end": 44.88,
+      "word_ids": [
+        "W_0209",
+        "W_0210"
+      ],
+      "words": [
+        {
+          "id": "W_0209",
+          "word": "Ta",
+          "start": 44.7,
+          "end": 44.7
+        },
+        {
+          "id": "W_0210",
+          "word": "ngưỡng",
+          "start": 44.7,
+          "end": 44.88
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0110",
+      "text": "mộ cuộc",
+      "start": 44.88,
+      "end": 45.26,
+      "word_ids": [
+        "W_0211",
+        "W_0212"
+      ],
+      "words": [
+        {
+          "id": "W_0211",
+          "word": "mộ",
+          "start": 44.88,
+          "end": 45.04
+        },
+        {
+          "id": "W_0212",
+          "word": "cuộc",
+          "start": 45.04,
+          "end": 45.26
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0111",
+      "text": "sống của",
+      "start": 45.26,
+      "end": 45.6,
+      "word_ids": [
+        "W_0213",
+        "W_0214"
+      ],
+      "words": [
+        {
+          "id": "W_0213",
+          "word": "sống",
+          "start": 45.26,
+          "end": 45.42
+        },
+        {
+          "id": "W_0214",
+          "word": "của",
+          "start": 45.42,
+          "end": 45.6
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0112",
+      "text": "người khác,",
+      "start": 45.6,
+      "end": 46.02,
+      "word_ids": [
+        "W_0215",
+        "W_0216"
+      ],
+      "words": [
+        {
+          "id": "W_0215",
+          "word": "người",
+          "start": 45.6,
+          "end": 45.72
+        },
+        {
+          "id": "W_0216",
+          "word": "khác,",
+          "start": 45.72,
+          "end": 46.02
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0113",
+      "text": "nhưng lại",
+      "start": 46.3,
+      "end": 46.56,
+      "word_ids": [
+        "W_0217",
+        "W_0218"
+      ],
+      "words": [
+        {
+          "id": "W_0217",
+          "word": "nhưng",
+          "start": 46.3,
+          "end": 46.38
+        },
+        {
+          "id": "W_0218",
+          "word": "lại",
+          "start": 46.38,
+          "end": 46.56
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0114",
+      "text": "xem nhẹ",
+      "start": 46.56,
+      "end": 46.96,
+      "word_ids": [
+        "W_0219",
+        "W_0220"
+      ],
+      "words": [
+        {
+          "id": "W_0219",
+          "word": "xem",
+          "start": 46.56,
+          "end": 46.78
+        },
+        {
+          "id": "W_0220",
+          "word": "nhẹ",
+          "start": 46.78,
+          "end": 46.96
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0115",
+      "text": "sức khỏe",
+      "start": 46.96,
+      "end": 47.4,
+      "word_ids": [
+        "W_0221",
+        "W_0222"
+      ],
+      "words": [
+        {
+          "id": "W_0221",
+          "word": "sức",
+          "start": 46.96,
+          "end": 47.18
+        },
+        {
+          "id": "W_0222",
+          "word": "khỏe",
+          "start": 47.18,
+          "end": 47.4
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0116",
+      "text": "của mình.",
+      "start": 47.4,
+      "end": 47.68,
+      "word_ids": [
+        "W_0223",
+        "W_0224"
+      ],
+      "words": [
+        {
+          "id": "W_0223",
+          "word": "của",
+          "start": 47.4,
+          "end": 47.58
+        },
+        {
+          "id": "W_0224",
+          "word": "mình.",
+          "start": 47.58,
+          "end": 47.68
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0117",
+      "text": "Ta khao",
+      "start": 48.26,
+      "end": 48.54,
+      "word_ids": [
+        "W_0225",
+        "W_0226"
+      ],
+      "words": [
+        {
+          "id": "W_0225",
+          "word": "Ta",
+          "start": 48.26,
+          "end": 48.34
+        },
+        {
+          "id": "W_0226",
+          "word": "khao",
+          "start": 48.34,
+          "end": 48.54
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0118",
+      "text": "khát những",
+      "start": 48.54,
+      "end": 48.92,
+      "word_ids": [
+        "W_0227",
+        "W_0228"
+      ],
+      "words": [
+        {
+          "id": "W_0227",
+          "word": "khát",
+          "start": 48.54,
+          "end": 48.72
+        },
+        {
+          "id": "W_0228",
+          "word": "những",
+          "start": 48.72,
+          "end": 48.92
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0119",
+      "text": "thứ thật",
+      "start": 48.92,
+      "end": 49.3,
+      "word_ids": [
+        "W_0229",
+        "W_0230"
+      ],
+      "words": [
+        {
+          "id": "W_0229",
+          "word": "thứ",
+          "start": 48.92,
+          "end": 49.04
+        },
+        {
+          "id": "W_0230",
+          "word": "thật",
+          "start": 49.04,
+          "end": 49.3
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0120",
+      "text": "xa,",
+      "start": 49.3,
+      "end": 49.46,
+      "word_ids": [
+        "W_0231"
+      ],
+      "words": [
+        {
+          "id": "W_0231",
+          "word": "xa,",
+          "start": 49.3,
+          "end": 49.46
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0121",
+      "text": "nhưng lại",
+      "start": 49.76,
+      "end": 50.02,
+      "word_ids": [
+        "W_0232",
+        "W_0233"
+      ],
+      "words": [
+        {
+          "id": "W_0232",
+          "word": "nhưng",
+          "start": 49.76,
+          "end": 49.82
+        },
+        {
+          "id": "W_0233",
+          "word": "lại",
+          "start": 49.82,
+          "end": 50.02
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0122",
+      "text": "quên rằng",
+      "start": 50.02,
+      "end": 50.44,
+      "word_ids": [
+        "W_0234",
+        "W_0235"
+      ],
+      "words": [
+        {
+          "id": "W_0234",
+          "word": "quên",
+          "start": 50.02,
+          "end": 50.2
+        },
+        {
+          "id": "W_0235",
+          "word": "rằng",
+          "start": 50.2,
+          "end": 50.44
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0123",
+      "text": "mình vẫn",
+      "start": 50.44,
+      "end": 50.74,
+      "word_ids": [
+        "W_0236",
+        "W_0237"
+      ],
+      "words": [
+        {
+          "id": "W_0236",
+          "word": "mình",
+          "start": 50.44,
+          "end": 50.6
+        },
+        {
+          "id": "W_0237",
+          "word": "vẫn",
+          "start": 50.6,
+          "end": 50.74
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0124",
+      "text": "còn gia",
+      "start": 50.74,
+      "end": 51.24,
+      "word_ids": [
+        "W_0238",
+        "W_0239"
+      ],
+      "words": [
+        {
+          "id": "W_0238",
+          "word": "còn",
+          "start": 50.74,
+          "end": 50.94
+        },
+        {
+          "id": "W_0239",
+          "word": "gia",
+          "start": 50.94,
+          "end": 51.24
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0125",
+      "text": "đình,",
+      "start": 51.24,
+      "end": 51.42,
+      "word_ids": [
+        "W_0240"
+      ],
+      "words": [
+        {
+          "id": "W_0240",
+          "word": "đình,",
+          "start": 51.24,
+          "end": 51.42
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0126",
+      "text": "còn thời",
+      "start": 51.42,
+      "end": 51.86,
+      "word_ids": [
+        "W_0241",
+        "W_0242"
+      ],
+      "words": [
+        {
+          "id": "W_0241",
+          "word": "còn",
+          "start": 51.42,
+          "end": 51.62
+        },
+        {
+          "id": "W_0242",
+          "word": "thời",
+          "start": 51.62,
+          "end": 51.86
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0127",
+      "text": "gian,",
+      "start": 51.86,
+      "end": 52.02,
+      "word_ids": [
+        "W_0243"
+      ],
+      "words": [
+        {
+          "id": "W_0243",
+          "word": "gian,",
+          "start": 51.86,
+          "end": 52.02
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0128",
+      "text": "còn cơ",
+      "start": 52.34,
+      "end": 52.7,
+      "word_ids": [
+        "W_0244",
+        "W_0245"
+      ],
+      "words": [
+        {
+          "id": "W_0244",
+          "word": "còn",
+          "start": 52.34,
+          "end": 52.62
+        },
+        {
+          "id": "W_0245",
+          "word": "cơ",
+          "start": 52.62,
+          "end": 52.7
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0129",
+      "text": "hội,",
+      "start": 52.7,
+      "end": 52.86,
+      "word_ids": [
+        "W_0246"
+      ],
+      "words": [
+        {
+          "id": "W_0246",
+          "word": "hội,",
+          "start": 52.7,
+          "end": 52.86
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0130",
+      "text": "và còn",
+      "start": 53.16,
+      "end": 53.38,
+      "word_ids": [
+        "W_0247",
+        "W_0248"
+      ],
+      "words": [
+        {
+          "id": "W_0247",
+          "word": "và",
+          "start": 53.16,
+          "end": 53.26
+        },
+        {
+          "id": "W_0248",
+          "word": "còn",
+          "start": 53.26,
+          "end": 53.38
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0131",
+      "text": "một trái",
+      "start": 53.38,
+      "end": 53.76,
+      "word_ids": [
+        "W_0249",
+        "W_0250"
+      ],
+      "words": [
+        {
+          "id": "W_0249",
+          "word": "một",
+          "start": 53.38,
+          "end": 53.58
+        },
+        {
+          "id": "W_0250",
+          "word": "trái",
+          "start": 53.58,
+          "end": 53.76
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0132",
+      "text": "tim chưa",
+      "start": 53.76,
+      "end": 54.12,
+      "word_ids": [
+        "W_0251",
+        "W_0252"
+      ],
+      "words": [
+        {
+          "id": "W_0251",
+          "word": "tim",
+          "start": 53.76,
+          "end": 53.88
+        },
+        {
+          "id": "W_0252",
+          "word": "chưa",
+          "start": 53.88,
+          "end": 54.12
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0133",
+      "text": "từng ngừng",
+      "start": 54.12,
+      "end": 54.46,
+      "word_ids": [
+        "W_0253",
+        "W_0254"
+      ],
+      "words": [
+        {
+          "id": "W_0253",
+          "word": "từng",
+          "start": 54.12,
+          "end": 54.34
+        },
+        {
+          "id": "W_0254",
+          "word": "ngừng",
+          "start": 54.34,
+          "end": 54.46
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0134",
+      "text": "cố gắng.",
+      "start": 54.46,
+      "end": 55.18,
+      "word_ids": [
+        "W_0255",
+        "W_0256"
+      ],
+      "words": [
+        {
+          "id": "W_0255",
+          "word": "cố",
+          "start": 54.46,
+          "end": 54.72
+        },
+        {
+          "id": "W_0256",
+          "word": "gắng.",
+          "start": 54.72,
+          "end": 55.18
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0135",
+      "text": "Nhiều người",
+      "start": 55.54,
+      "end": 55.72,
+      "word_ids": [
+        "W_0257",
+        "W_0258"
+      ],
+      "words": [
+        {
+          "id": "W_0257",
+          "word": "Nhiều",
+          "start": 55.54,
+          "end": 55.54
+        },
+        {
+          "id": "W_0258",
+          "word": "người",
+          "start": 55.54,
+          "end": 55.72
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0136",
+      "text": "cứ nghĩ",
+      "start": 55.72,
+      "end": 56.04,
+      "word_ids": [
+        "W_0259",
+        "W_0260"
+      ],
+      "words": [
+        {
+          "id": "W_0259",
+          "word": "cứ",
+          "start": 55.72,
+          "end": 55.92
+        },
+        {
+          "id": "W_0260",
+          "word": "nghĩ",
+          "start": 55.92,
+          "end": 56.04
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0137",
+      "text": "phải có",
+      "start": 56.04,
+      "end": 56.36,
+      "word_ids": [
+        "W_0261",
+        "W_0262"
+      ],
+      "words": [
+        {
+          "id": "W_0261",
+          "word": "phải",
+          "start": 56.04,
+          "end": 56.2
+        },
+        {
+          "id": "W_0262",
+          "word": "có",
+          "start": 56.2,
+          "end": 56.36
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0138",
+      "text": "thêm thứ",
+      "start": 56.36,
+      "end": 56.7,
+      "word_ids": [
+        "W_0263",
+        "W_0264"
+      ],
+      "words": [
+        {
+          "id": "W_0263",
+          "word": "thêm",
+          "start": 56.36,
+          "end": 56.56
+        },
+        {
+          "id": "W_0264",
+          "word": "thứ",
+          "start": 56.56,
+          "end": 56.7
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0139",
+      "text": "gì đó",
+      "start": 56.7,
+      "end": 57.06,
+      "word_ids": [
+        "W_0265",
+        "W_0266"
+      ],
+      "words": [
+        {
+          "id": "W_0265",
+          "word": "gì",
+          "start": 56.7,
+          "end": 56.86
+        },
+        {
+          "id": "W_0266",
+          "word": "đó",
+          "start": 56.86,
+          "end": 57.06
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0140",
+      "text": "mới đủ",
+      "start": 57.06,
+      "end": 57.36,
+      "word_ids": [
+        "W_0267",
+        "W_0268"
+      ],
+      "words": [
+        {
+          "id": "W_0267",
+          "word": "mới",
+          "start": 57.06,
+          "end": 57.18
+        },
+        {
+          "id": "W_0268",
+          "word": "đủ",
+          "start": 57.18,
+          "end": 57.36
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0141",
+      "text": "mạnh mẽ",
+      "start": 57.36,
+      "end": 57.76,
+      "word_ids": [
+        "W_0269",
+        "W_0270"
+      ],
+      "words": [
+        {
+          "id": "W_0269",
+          "word": "mạnh",
+          "start": 57.36,
+          "end": 57.56
+        },
+        {
+          "id": "W_0270",
+          "word": "mẽ",
+          "start": 57.56,
+          "end": 57.76
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0142",
+      "text": "để đi",
+      "start": 57.76,
+      "end": 58.06,
+      "word_ids": [
+        "W_0271",
+        "W_0272"
+      ],
+      "words": [
+        {
+          "id": "W_0271",
+          "word": "để",
+          "start": 57.76,
+          "end": 57.92
+        },
+        {
+          "id": "W_0272",
+          "word": "đi",
+          "start": 57.92,
+          "end": 58.06
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0143",
+      "text": "tiếp.",
+      "start": 58.06,
+      "end": 58.26,
+      "word_ids": [
+        "W_0273"
+      ],
+      "words": [
+        {
+          "id": "W_0273",
+          "word": "tiếp.",
+          "start": 58.06,
+          "end": 58.26
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0144",
+      "text": "Nhưng đôi",
+      "start": 58.78,
+      "end": 59.04,
+      "word_ids": [
+        "W_0274",
+        "W_0275"
+      ],
+      "words": [
+        {
+          "id": "W_0274",
+          "word": "Nhưng",
+          "start": 58.78,
+          "end": 58.84
+        },
+        {
+          "id": "W_0275",
+          "word": "đôi",
+          "start": 58.84,
+          "end": 59.04
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0145",
+      "text": "khi,",
+      "start": 59.04,
+      "end": 59.22,
+      "word_ids": [
+        "W_0276"
+      ],
+      "words": [
+        {
+          "id": "W_0276",
+          "word": "khi,",
+          "start": 59.04,
+          "end": 59.22
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0146",
+      "text": "điều giữ",
+      "start": 59.56,
+      "end": 59.86,
+      "word_ids": [
+        "W_0277",
+        "W_0278"
+      ],
+      "words": [
+        {
+          "id": "W_0277",
+          "word": "điều",
+          "start": 59.56,
+          "end": 59.66
+        },
+        {
+          "id": "W_0278",
+          "word": "giữ",
+          "start": 59.66,
+          "end": 59.86
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0147",
+      "text": "một người",
+      "start": 59.86,
+      "end": 60.26,
+      "word_ids": [
+        "W_0279",
+        "W_0280"
+      ],
+      "words": [
+        {
+          "id": "W_0279",
+          "word": "một",
+          "start": 59.86,
+          "end": 60.06
+        },
+        {
+          "id": "W_0280",
+          "word": "người",
+          "start": 60.06,
+          "end": 60.26
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0148",
+      "text": "sống sót",
+      "start": 60.26,
+      "end": 60.7,
+      "word_ids": [
+        "W_0281",
+        "W_0282"
+      ],
+      "words": [
+        {
+          "id": "W_0281",
+          "word": "sống",
+          "start": 60.26,
+          "end": 60.46
+        },
+        {
+          "id": "W_0282",
+          "word": "sót",
+          "start": 60.46,
+          "end": 60.7
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0149",
+      "text": "qua những",
+      "start": 60.7,
+      "end": 61.04,
+      "word_ids": [
+        "W_0283",
+        "W_0284"
+      ],
+      "words": [
+        {
+          "id": "W_0283",
+          "word": "qua",
+          "start": 60.7,
+          "end": 60.86
+        },
+        {
+          "id": "W_0284",
+          "word": "những",
+          "start": 60.86,
+          "end": 61.04
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0150",
+      "text": "năm tháng",
+      "start": 61.04,
+      "end": 61.34,
+      "word_ids": [
+        "W_0285",
+        "W_0286"
+      ],
+      "words": [
+        {
+          "id": "W_0285",
+          "word": "năm",
+          "start": 61.04,
+          "end": 61.18
+        },
+        {
+          "id": "W_0286",
+          "word": "tháng",
+          "start": 61.18,
+          "end": 61.34
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0151",
+      "text": "tăm tối",
+      "start": 61.34,
+      "end": 61.76,
+      "word_ids": [
+        "W_0287",
+        "W_0288"
+      ],
+      "words": [
+        {
+          "id": "W_0287",
+          "word": "tăm",
+          "start": 61.34,
+          "end": 61.56
+        },
+        {
+          "id": "W_0288",
+          "word": "tối",
+          "start": 61.56,
+          "end": 61.76
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0152",
+      "text": "nhất lại",
+      "start": 61.76,
+      "end": 62.22,
+      "word_ids": [
+        "W_0289",
+        "W_0290"
+      ],
+      "words": [
+        {
+          "id": "W_0289",
+          "word": "nhất",
+          "start": 61.76,
+          "end": 61.96
+        },
+        {
+          "id": "W_0290",
+          "word": "lại",
+          "start": 61.96,
+          "end": 62.22
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0153",
+      "text": "chính là",
+      "start": 62.22,
+      "end": 62.52,
+      "word_ids": [
+        "W_0291",
+        "W_0292"
+      ],
+      "words": [
+        {
+          "id": "W_0291",
+          "word": "chính",
+          "start": 62.22,
+          "end": 62.36
+        },
+        {
+          "id": "W_0292",
+          "word": "là",
+          "start": 62.36,
+          "end": 62.52
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0154",
+      "text": "những gì",
+      "start": 62.52,
+      "end": 62.82,
+      "word_ids": [
+        "W_0293",
+        "W_0294"
+      ],
+      "words": [
+        {
+          "id": "W_0293",
+          "word": "những",
+          "start": 62.52,
+          "end": 62.64
+        },
+        {
+          "id": "W_0294",
+          "word": "gì",
+          "start": 62.64,
+          "end": 62.82
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0155",
+      "text": "họ đang",
+      "start": 62.82,
+      "end": 63.22,
+      "word_ids": [
+        "W_0295",
+        "W_0296"
+      ],
+      "words": [
+        {
+          "id": "W_0295",
+          "word": "họ",
+          "start": 62.82,
+          "end": 63.02
+        },
+        {
+          "id": "W_0296",
+          "word": "đang",
+          "start": 63.02,
+          "end": 63.22
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0156",
+      "text": "có trong",
+      "start": 63.22,
+      "end": 63.56,
+      "word_ids": [
+        "W_0297",
+        "W_0298"
+      ],
+      "words": [
+        {
+          "id": "W_0297",
+          "word": "có",
+          "start": 63.22,
+          "end": 63.38
+        },
+        {
+          "id": "W_0298",
+          "word": "trong",
+          "start": 63.38,
+          "end": 63.56
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0157",
+      "text": "tay.",
+      "start": 63.56,
+      "end": 63.74,
+      "word_ids": [
+        "W_0299"
+      ],
+      "words": [
+        {
+          "id": "W_0299",
+          "word": "tay.",
+          "start": 63.56,
+          "end": 63.74
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0158",
+      "text": "Một niềm",
+      "start": 64.12,
+      "end": 64.34,
+      "word_ids": [
+        "W_0300",
+        "W_0301"
+      ],
+      "words": [
+        {
+          "id": "W_0300",
+          "word": "Một",
+          "start": 64.12,
+          "end": 64.12
+        },
+        {
+          "id": "W_0301",
+          "word": "niềm",
+          "start": 64.12,
+          "end": 64.34
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0159",
+      "text": "tin nhỏ,",
+      "start": 64.34,
+      "end": 64.72,
+      "word_ids": [
+        "W_0302",
+        "W_0303"
+      ],
+      "words": [
+        {
+          "id": "W_0302",
+          "word": "tin",
+          "start": 64.34,
+          "end": 64.48
+        },
+        {
+          "id": "W_0303",
+          "word": "nhỏ,",
+          "start": 64.48,
+          "end": 64.72
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0160",
+      "text": "một người",
+      "start": 65.14,
+      "end": 65.34,
+      "word_ids": [
+        "W_0304",
+        "W_0305"
+      ],
+      "words": [
+        {
+          "id": "W_0304",
+          "word": "một",
+          "start": 65.14,
+          "end": 65.18
+        },
+        {
+          "id": "W_0305",
+          "word": "người",
+          "start": 65.18,
+          "end": 65.34
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0161",
+      "text": "còn ở",
+      "start": 65.34,
+      "end": 65.7,
+      "word_ids": [
+        "W_0306",
+        "W_0307"
+      ],
+      "words": [
+        {
+          "id": "W_0306",
+          "word": "còn",
+          "start": 65.34,
+          "end": 65.5
+        },
+        {
+          "id": "W_0307",
+          "word": "ở",
+          "start": 65.5,
+          "end": 65.7
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0162",
+      "text": "bên,",
+      "start": 65.7,
+      "end": 65.82,
+      "word_ids": [
+        "W_0308"
+      ],
+      "words": [
+        {
+          "id": "W_0308",
+          "word": "bên,",
+          "start": 65.7,
+          "end": 65.82
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0163",
+      "text": "một lý",
+      "start": 66.22,
+      "end": 66.54,
+      "word_ids": [
+        "W_0309",
+        "W_0310"
+      ],
+      "words": [
+        {
+          "id": "W_0309",
+          "word": "một",
+          "start": 66.22,
+          "end": 66.36
+        },
+        {
+          "id": "W_0310",
+          "word": "lý",
+          "start": 66.36,
+          "end": 66.54
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0164",
+      "text": "do để",
+      "start": 66.54,
+      "end": 66.98,
+      "word_ids": [
+        "W_0311",
+        "W_0312"
+      ],
+      "words": [
+        {
+          "id": "W_0311",
+          "word": "do",
+          "start": 66.54,
+          "end": 66.7
+        },
+        {
+          "id": "W_0312",
+          "word": "để",
+          "start": 66.7,
+          "end": 66.98
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0165",
+      "text": "cố gắng,",
+      "start": 66.98,
+      "end": 67.28,
+      "word_ids": [
+        "W_0313",
+        "W_0314"
+      ],
+      "words": [
+        {
+          "id": "W_0313",
+          "word": "cố",
+          "start": 66.98,
+          "end": 67.1
+        },
+        {
+          "id": "W_0314",
+          "word": "gắng,",
+          "start": 67.1,
+          "end": 67.28
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0166",
+      "text": "và một",
+      "start": 67.58,
+      "end": 67.96,
+      "word_ids": [
+        "W_0315",
+        "W_0316"
+      ],
+      "words": [
+        {
+          "id": "W_0315",
+          "word": "và",
+          "start": 67.58,
+          "end": 67.72
+        },
+        {
+          "id": "W_0316",
+          "word": "một",
+          "start": 67.72,
+          "end": 67.96
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0167",
+      "text": "trái tim",
+      "start": 67.96,
+      "end": 68.16,
+      "word_ids": [
+        "W_0317",
+        "W_0318"
+      ],
+      "words": [
+        {
+          "id": "W_0317",
+          "word": "trái",
+          "start": 67.96,
+          "end": 68.02
+        },
+        {
+          "id": "W_0318",
+          "word": "tim",
+          "start": 68.02,
+          "end": 68.16
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0168",
+      "text": "chưa chịu",
+      "start": 68.16,
+      "end": 68.58,
+      "word_ids": [
+        "W_0319",
+        "W_0320"
+      ],
+      "words": [
+        {
+          "id": "W_0319",
+          "word": "chưa",
+          "start": 68.16,
+          "end": 68.38
+        },
+        {
+          "id": "W_0320",
+          "word": "chịu",
+          "start": 68.38,
+          "end": 68.58
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0169",
+      "text": "đầu hàng.",
+      "start": 68.58,
+      "end": 68.96,
+      "word_ids": [
+        "W_0321",
+        "W_0322"
+      ],
+      "words": [
+        {
+          "id": "W_0321",
+          "word": "đầu",
+          "start": 68.58,
+          "end": 68.82
+        },
+        {
+          "id": "W_0322",
+          "word": "hàng.",
+          "start": 68.82,
+          "end": 68.96
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0170",
+      "text": "Nên nếu",
+      "start": 69.54,
+      "end": 69.72,
+      "word_ids": [
+        "W_0323",
+        "W_0324"
+      ],
+      "words": [
+        {
+          "id": "W_0323",
+          "word": "Nên",
+          "start": 69.54,
+          "end": 69.56
+        },
+        {
+          "id": "W_0324",
+          "word": "nếu",
+          "start": 69.56,
+          "end": 69.72
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0171",
+      "text": "hôm nay",
+      "start": 69.72,
+      "end": 70.06,
+      "word_ids": [
+        "W_0325",
+        "W_0326"
+      ],
+      "words": [
+        {
+          "id": "W_0325",
+          "word": "hôm",
+          "start": 69.72,
+          "end": 69.9
+        },
+        {
+          "id": "W_0326",
+          "word": "nay",
+          "start": 69.9,
+          "end": 70.06
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0172",
+      "text": "bạn mệt",
+      "start": 70.06,
+      "end": 70.46,
+      "word_ids": [
+        "W_0327",
+        "W_0328"
+      ],
+      "words": [
+        {
+          "id": "W_0327",
+          "word": "bạn",
+          "start": 70.06,
+          "end": 70.28
+        },
+        {
+          "id": "W_0328",
+          "word": "mệt",
+          "start": 70.28,
+          "end": 70.46
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0173",
+      "text": "thì hãy",
+      "start": 70.46,
+      "end": 70.8,
+      "word_ids": [
+        "W_0329",
+        "W_0330"
+      ],
+      "words": [
+        {
+          "id": "W_0329",
+          "word": "thì",
+          "start": 70.46,
+          "end": 70.66
+        },
+        {
+          "id": "W_0330",
+          "word": "hãy",
+          "start": 70.66,
+          "end": 70.8
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0174",
+      "text": "cho mình",
+      "start": 70.8,
+      "end": 71.06,
+      "word_ids": [
+        "W_0331",
+        "W_0332"
+      ],
+      "words": [
+        {
+          "id": "W_0331",
+          "word": "cho",
+          "start": 70.8,
+          "end": 70.94
+        },
+        {
+          "id": "W_0332",
+          "word": "mình",
+          "start": 70.94,
+          "end": 71.06
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0175",
+      "text": "được nghỉ",
+      "start": 71.06,
+      "end": 71.38,
+      "word_ids": [
+        "W_0333",
+        "W_0334"
+      ],
+      "words": [
+        {
+          "id": "W_0333",
+          "word": "được",
+          "start": 71.06,
+          "end": 71.28
+        },
+        {
+          "id": "W_0334",
+          "word": "nghỉ",
+          "start": 71.28,
+          "end": 71.38
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0176",
+      "text": "ngơi.",
+      "start": 71.38,
+      "end": 71.6,
+      "word_ids": [
+        "W_0335"
+      ],
+      "words": [
+        {
+          "id": "W_0335",
+          "word": "ngơi.",
+          "start": 71.38,
+          "end": 71.6
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0177",
+      "text": "Nhưng đừng",
+      "start": 72.16,
+      "end": 72.4,
+      "word_ids": [
+        "W_0336",
+        "W_0337"
+      ],
+      "words": [
+        {
+          "id": "W_0336",
+          "word": "Nhưng",
+          "start": 72.16,
+          "end": 72.24
+        },
+        {
+          "id": "W_0337",
+          "word": "đừng",
+          "start": 72.24,
+          "end": 72.4
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0178",
+      "text": "bỏ cuộc,",
+      "start": 72.4,
+      "end": 72.78,
+      "word_ids": [
+        "W_0338",
+        "W_0339"
+      ],
+      "words": [
+        {
+          "id": "W_0338",
+          "word": "bỏ",
+          "start": 72.4,
+          "end": 72.62
+        },
+        {
+          "id": "W_0339",
+          "word": "cuộc,",
+          "start": 72.62,
+          "end": 72.78
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0179",
+      "text": "nếu hôm",
+      "start": 73.3,
+      "end": 73.54,
+      "word_ids": [
+        "W_0340",
+        "W_0341"
+      ],
+      "words": [
+        {
+          "id": "W_0340",
+          "word": "nếu",
+          "start": 73.3,
+          "end": 73.36
+        },
+        {
+          "id": "W_0341",
+          "word": "hôm",
+          "start": 73.36,
+          "end": 73.54
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0180",
+      "text": "nay bạn",
+      "start": 73.54,
+      "end": 73.88,
+      "word_ids": [
+        "W_0342",
+        "W_0343"
+      ],
+      "words": [
+        {
+          "id": "W_0342",
+          "word": "nay",
+          "start": 73.54,
+          "end": 73.66
+        },
+        {
+          "id": "W_0343",
+          "word": "bạn",
+          "start": 73.66,
+          "end": 73.88
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0181",
+      "text": "thấy mình",
+      "start": 73.88,
+      "end": 74.22,
+      "word_ids": [
+        "W_0344",
+        "W_0345"
+      ],
+      "words": [
+        {
+          "id": "W_0344",
+          "word": "thấy",
+          "start": 73.88,
+          "end": 74.0
+        },
+        {
+          "id": "W_0345",
+          "word": "mình",
+          "start": 74.0,
+          "end": 74.22
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0182",
+      "text": "thua kém,",
+      "start": 74.22,
+      "end": 74.6,
+      "word_ids": [
+        "W_0346",
+        "W_0347"
+      ],
+      "words": [
+        {
+          "id": "W_0346",
+          "word": "thua",
+          "start": 74.22,
+          "end": 74.38
+        },
+        {
+          "id": "W_0347",
+          "word": "kém,",
+          "start": 74.38,
+          "end": 74.6
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0183",
+      "text": "hãy nhớ",
+      "start": 74.96,
+      "end": 75.18,
+      "word_ids": [
+        "W_0348",
+        "W_0349"
+      ],
+      "words": [
+        {
+          "id": "W_0348",
+          "word": "hãy",
+          "start": 74.96,
+          "end": 75.08
+        },
+        {
+          "id": "W_0349",
+          "word": "nhớ",
+          "start": 75.08,
+          "end": 75.18
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0184",
+      "text": "rằng mọi",
+      "start": 75.18,
+      "end": 75.66,
+      "word_ids": [
+        "W_0350",
+        "W_0351"
+      ],
+      "words": [
+        {
+          "id": "W_0350",
+          "word": "rằng",
+          "start": 75.18,
+          "end": 75.48
+        },
+        {
+          "id": "W_0351",
+          "word": "mọi",
+          "start": 75.48,
+          "end": 75.66
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0185",
+      "text": "hành trình",
+      "start": 75.66,
+      "end": 75.94,
+      "word_ids": [
+        "W_0352",
+        "W_0353"
+      ],
+      "words": [
+        {
+          "id": "W_0352",
+          "word": "hành",
+          "start": 75.66,
+          "end": 75.8
+        },
+        {
+          "id": "W_0353",
+          "word": "trình",
+          "start": 75.8,
+          "end": 75.94
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0186",
+      "text": "lớn đều",
+      "start": 75.94,
+      "end": 76.48,
+      "word_ids": [
+        "W_0354",
+        "W_0355"
+      ],
+      "words": [
+        {
+          "id": "W_0354",
+          "word": "lớn",
+          "start": 75.94,
+          "end": 76.28
+        },
+        {
+          "id": "W_0355",
+          "word": "đều",
+          "start": 76.28,
+          "end": 76.48
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0187",
+      "text": "từng bắt",
+      "start": 76.48,
+      "end": 76.88,
+      "word_ids": [
+        "W_0356",
+        "W_0357"
+      ],
+      "words": [
+        {
+          "id": "W_0356",
+          "word": "từng",
+          "start": 76.48,
+          "end": 76.76
+        },
+        {
+          "id": "W_0357",
+          "word": "bắt",
+          "start": 76.76,
+          "end": 76.88
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0188",
+      "text": "đầu bằng",
+      "start": 76.88,
+      "end": 77.2,
+      "word_ids": [
+        "W_0358",
+        "W_0359"
+      ],
+      "words": [
+        {
+          "id": "W_0358",
+          "word": "đầu",
+          "start": 76.88,
+          "end": 77.0
+        },
+        {
+          "id": "W_0359",
+          "word": "bằng",
+          "start": 77.0,
+          "end": 77.2
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0189",
+      "text": "những bước",
+      "start": 77.2,
+      "end": 77.5,
+      "word_ids": [
+        "W_0360",
+        "W_0361"
+      ],
+      "words": [
+        {
+          "id": "W_0360",
+          "word": "những",
+          "start": 77.2,
+          "end": 77.44
+        },
+        {
+          "id": "W_0361",
+          "word": "bước",
+          "start": 77.44,
+          "end": 77.5
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0190",
+      "text": "đi rất",
+      "start": 77.5,
+      "end": 77.98,
+      "word_ids": [
+        "W_0362",
+        "W_0363"
+      ],
+      "words": [
+        {
+          "id": "W_0362",
+          "word": "đi",
+          "start": 77.5,
+          "end": 77.68
+        },
+        {
+          "id": "W_0363",
+          "word": "rất",
+          "start": 77.68,
+          "end": 77.98
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0191",
+      "text": "chậm.",
+      "start": 77.98,
+      "end": 78.1,
+      "word_ids": [
+        "W_0364"
+      ],
+      "words": [
+        {
+          "id": "W_0364",
+          "word": "chậm.",
+          "start": 77.98,
+          "end": 78.1
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0192",
+      "text": "Và nếu",
+      "start": 78.1,
+      "end": 78.8,
+      "word_ids": [
+        "W_0365",
+        "W_0366"
+      ],
+      "words": [
+        {
+          "id": "W_0365",
+          "word": "Và",
+          "start": 78.1,
+          "end": 78.62
+        },
+        {
+          "id": "W_0366",
+          "word": "nếu",
+          "start": 78.62,
+          "end": 78.8
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0193",
+      "text": "hôm nay",
+      "start": 78.8,
+      "end": 79.18,
+      "word_ids": [
+        "W_0367",
+        "W_0368"
+      ],
+      "words": [
+        {
+          "id": "W_0367",
+          "word": "hôm",
+          "start": 78.8,
+          "end": 79.0
+        },
+        {
+          "id": "W_0368",
+          "word": "nay",
+          "start": 79.0,
+          "end": 79.18
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0194",
+      "text": "cuộc đời",
+      "start": 79.18,
+      "end": 79.58,
+      "word_ids": [
+        "W_0369",
+        "W_0370"
+      ],
+      "words": [
+        {
+          "id": "W_0369",
+          "word": "cuộc",
+          "start": 79.18,
+          "end": 79.42
+        },
+        {
+          "id": "W_0370",
+          "word": "đời",
+          "start": 79.42,
+          "end": 79.58
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0195",
+      "text": "khiến bạn",
+      "start": 79.58,
+      "end": 80.04,
+      "word_ids": [
+        "W_0371",
+        "W_0372"
+      ],
+      "words": [
+        {
+          "id": "W_0371",
+          "word": "khiến",
+          "start": 79.58,
+          "end": 79.84
+        },
+        {
+          "id": "W_0372",
+          "word": "bạn",
+          "start": 79.84,
+          "end": 80.04
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0196",
+      "text": "mệt khóc,",
+      "start": 80.04,
+      "end": 80.44,
+      "word_ids": [
+        "W_0373",
+        "W_0374"
+      ],
+      "words": [
+        {
+          "id": "W_0373",
+          "word": "mệt",
+          "start": 80.04,
+          "end": 80.26
+        },
+        {
+          "id": "W_0374",
+          "word": "khóc,",
+          "start": 80.26,
+          "end": 80.44
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0197",
+      "text": "thì cứ",
+      "start": 80.74,
+      "end": 81.02,
+      "word_ids": [
+        "W_0375",
+        "W_0376"
+      ],
+      "words": [
+        {
+          "id": "W_0375",
+          "word": "thì",
+          "start": 80.74,
+          "end": 80.84
+        },
+        {
+          "id": "W_0376",
+          "word": "cứ",
+          "start": 80.84,
+          "end": 81.02
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0198",
+      "text": "khóc đi.",
+      "start": 81.02,
+      "end": 81.38,
+      "word_ids": [
+        "W_0377",
+        "W_0378"
+      ],
+      "words": [
+        {
+          "id": "W_0377",
+          "word": "khóc",
+          "start": 81.02,
+          "end": 81.16
+        },
+        {
+          "id": "W_0378",
+          "word": "đi.",
+          "start": 81.16,
+          "end": 81.38
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0199",
+      "text": "Nhưng sau",
+      "start": 81.68,
+      "end": 81.9,
+      "word_ids": [
+        "W_0379",
+        "W_0380"
+      ],
+      "words": [
+        {
+          "id": "W_0379",
+          "word": "Nhưng",
+          "start": 81.68,
+          "end": 81.74
+        },
+        {
+          "id": "W_0380",
+          "word": "sau",
+          "start": 81.74,
+          "end": 81.9
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0200",
+      "text": "đó,",
+      "start": 81.9,
+      "end": 82.2,
+      "word_ids": [
+        "W_0381"
+      ],
+      "words": [
+        {
+          "id": "W_0381",
+          "word": "đó,",
+          "start": 81.9,
+          "end": 82.2
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0201",
+      "text": "hãy lau",
+      "start": 82.48,
+      "end": 82.8,
+      "word_ids": [
+        "W_0382",
+        "W_0383"
+      ],
+      "words": [
+        {
+          "id": "W_0382",
+          "word": "hãy",
+          "start": 82.48,
+          "end": 82.66
+        },
+        {
+          "id": "W_0383",
+          "word": "lau",
+          "start": 82.66,
+          "end": 82.8
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0202",
+      "text": "nước mắt",
+      "start": 82.8,
+      "end": 83.12,
+      "word_ids": [
+        "W_0384",
+        "W_0385"
+      ],
+      "words": [
+        {
+          "id": "W_0384",
+          "word": "nước",
+          "start": 82.8,
+          "end": 82.98
+        },
+        {
+          "id": "W_0385",
+          "word": "mắt",
+          "start": 82.98,
+          "end": 83.12
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0203",
+      "text": "và bước",
+      "start": 83.12,
+      "end": 83.48,
+      "word_ids": [
+        "W_0386",
+        "W_0387"
+      ],
+      "words": [
+        {
+          "id": "W_0386",
+          "word": "và",
+          "start": 83.12,
+          "end": 83.34
+        },
+        {
+          "id": "W_0387",
+          "word": "bước",
+          "start": 83.34,
+          "end": 83.48
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0204",
+      "text": "tiếp.",
+      "start": 83.48,
+      "end": 83.82,
+      "word_ids": [
+        "W_0388"
+      ],
+      "words": [
+        {
+          "id": "W_0388",
+          "word": "tiếp.",
+          "start": 83.48,
+          "end": 83.82
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0205",
+      "text": "Vì chỉ",
+      "start": 84.2,
+      "end": 84.46,
+      "word_ids": [
+        "W_0389",
+        "W_0390"
+      ],
+      "words": [
+        {
+          "id": "W_0389",
+          "word": "Vì",
+          "start": 84.2,
+          "end": 84.32
+        },
+        {
+          "id": "W_0390",
+          "word": "chỉ",
+          "start": 84.32,
+          "end": 84.46
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0206",
+      "text": "cần bạn",
+      "start": 84.46,
+      "end": 84.8,
+      "word_ids": [
+        "W_0391",
+        "W_0392"
+      ],
+      "words": [
+        {
+          "id": "W_0391",
+          "word": "cần",
+          "start": 84.46,
+          "end": 84.62
+        },
+        {
+          "id": "W_0392",
+          "word": "bạn",
+          "start": 84.62,
+          "end": 84.8
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0207",
+      "text": "không từ",
+      "start": 84.8,
+      "end": 85.22,
+      "word_ids": [
+        "W_0393",
+        "W_0394"
+      ],
+      "words": [
+        {
+          "id": "W_0393",
+          "word": "không",
+          "start": 84.8,
+          "end": 85.04
+        },
+        {
+          "id": "W_0394",
+          "word": "từ",
+          "start": 85.04,
+          "end": 85.22
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0208",
+      "text": "bỏ,",
+      "start": 85.22,
+      "end": 85.42,
+      "word_ids": [
+        "W_0395"
+      ],
+      "words": [
+        {
+          "id": "W_0395",
+          "word": "bỏ,",
+          "start": 85.22,
+          "end": 85.42
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0209",
+      "text": "bạn chưa",
+      "start": 85.76,
+      "end": 86.02,
+      "word_ids": [
+        "W_0396",
+        "W_0397"
+      ],
+      "words": [
+        {
+          "id": "W_0396",
+          "word": "bạn",
+          "start": 85.76,
+          "end": 85.84
+        },
+        {
+          "id": "W_0397",
+          "word": "chưa",
+          "start": 85.84,
+          "end": 86.02
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0210",
+      "text": "hề thất",
+      "start": 86.02,
+      "end": 86.36,
+      "word_ids": [
+        "W_0398",
+        "W_0399"
+      ],
+      "words": [
+        {
+          "id": "W_0398",
+          "word": "hề",
+          "start": 86.02,
+          "end": 86.2
+        },
+        {
+          "id": "W_0399",
+          "word": "thất",
+          "start": 86.2,
+          "end": 86.36
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0211",
+      "text": "bại.",
+      "start": 86.36,
+      "end": 86.52,
+      "word_ids": [
+        "W_0400"
+      ],
+      "words": [
+        {
+          "id": "W_0400",
+          "word": "bại.",
+          "start": 86.36,
+          "end": 86.52
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0212",
+      "text": "Và biết",
+      "start": 87.02,
+      "end": 87.22,
+      "word_ids": [
+        "W_0401",
+        "W_0402"
+      ],
+      "words": [
+        {
+          "id": "W_0401",
+          "word": "Và",
+          "start": 87.02,
+          "end": 87.08
+        },
+        {
+          "id": "W_0402",
+          "word": "biết",
+          "start": 87.08,
+          "end": 87.22
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0213",
+      "text": "đâu,",
+      "start": 87.22,
+      "end": 87.38,
+      "word_ids": [
+        "W_0403"
+      ],
+      "words": [
+        {
+          "id": "W_0403",
+          "word": "đâu,",
+          "start": 87.22,
+          "end": 87.38
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0214",
+      "text": "sau tất",
+      "start": 87.82,
+      "end": 88.02,
+      "word_ids": [
+        "W_0404",
+        "W_0405"
+      ],
+      "words": [
+        {
+          "id": "W_0404",
+          "word": "sau",
+          "start": 87.82,
+          "end": 87.82
+        },
+        {
+          "id": "W_0405",
+          "word": "tất",
+          "start": 87.82,
+          "end": 88.02
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0215",
+      "text": "cả những",
+      "start": 88.02,
+      "end": 88.4,
+      "word_ids": [
+        "W_0406",
+        "W_0407"
+      ],
+      "words": [
+        {
+          "id": "W_0406",
+          "word": "cả",
+          "start": 88.02,
+          "end": 88.16
+        },
+        {
+          "id": "W_0407",
+          "word": "những",
+          "start": 88.16,
+          "end": 88.4
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0216",
+      "text": "giông bão",
+      "start": 88.4,
+      "end": 88.74,
+      "word_ids": [
+        "W_0408",
+        "W_0409"
+      ],
+      "words": [
+        {
+          "id": "W_0408",
+          "word": "giông",
+          "start": 88.4,
+          "end": 88.6
+        },
+        {
+          "id": "W_0409",
+          "word": "bão",
+          "start": 88.6,
+          "end": 88.74
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0217",
+      "text": "này,",
+      "start": 88.74,
+      "end": 89.06,
+      "word_ids": [
+        "W_0410"
+      ],
+      "words": [
+        {
+          "id": "W_0410",
+          "word": "này,",
+          "start": 88.74,
+          "end": 89.06
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0218",
+      "text": "phiên bản",
+      "start": 89.38,
+      "end": 89.62,
+      "word_ids": [
+        "W_0411",
+        "W_0412"
+      ],
+      "words": [
+        {
+          "id": "W_0411",
+          "word": "phiên",
+          "start": 89.38,
+          "end": 89.48
+        },
+        {
+          "id": "W_0412",
+          "word": "bản",
+          "start": 89.48,
+          "end": 89.62
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0219",
+      "text": "mạnh mẽ",
+      "start": 89.62,
+      "end": 90.1,
+      "word_ids": [
+        "W_0413",
+        "W_0414"
+      ],
+      "words": [
+        {
+          "id": "W_0413",
+          "word": "mạnh",
+          "start": 89.62,
+          "end": 89.88
+        },
+        {
+          "id": "W_0414",
+          "word": "mẽ",
+          "start": 89.88,
+          "end": 90.1
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0220",
+      "text": "nhất của",
+      "start": 90.1,
+      "end": 90.42,
+      "word_ids": [
+        "W_0415",
+        "W_0416"
+      ],
+      "words": [
+        {
+          "id": "W_0415",
+          "word": "nhất",
+          "start": 90.1,
+          "end": 90.24
+        },
+        {
+          "id": "W_0416",
+          "word": "của",
+          "start": 90.24,
+          "end": 90.42
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0221",
+      "text": "bạn đang",
+      "start": 90.42,
+      "end": 90.74,
+      "word_ids": [
+        "W_0417",
+        "W_0418"
+      ],
+      "words": [
+        {
+          "id": "W_0417",
+          "word": "bạn",
+          "start": 90.42,
+          "end": 90.54
+        },
+        {
+          "id": "W_0418",
+          "word": "đang",
+          "start": 90.54,
+          "end": 90.74
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0222",
+      "text": "đợi bạn",
+      "start": 90.74,
+      "end": 91.16,
+      "word_ids": [
+        "W_0419",
+        "W_0420"
+      ],
+      "words": [
+        {
+          "id": "W_0419",
+          "word": "đợi",
+          "start": 90.74,
+          "end": 90.88
+        },
+        {
+          "id": "W_0420",
+          "word": "bạn",
+          "start": 90.88,
+          "end": 91.16
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0223",
+      "text": "ở phía",
+      "start": 91.16,
+      "end": 91.4,
+      "word_ids": [
+        "W_0421",
+        "W_0422"
+      ],
+      "words": [
+        {
+          "id": "W_0421",
+          "word": "ở",
+          "start": 91.16,
+          "end": 91.24
+        },
+        {
+          "id": "W_0422",
+          "word": "phía",
+          "start": 91.24,
+          "end": 91.4
+        }
+      ]
+    },
+    {
+      "id": "PAGE_0224",
+      "text": "trước.",
+      "start": 91.4,
+      "end": 91.56,
+      "word_ids": [
+        "W_0423"
+      ],
+      "words": [
+        {
+          "id": "W_0423",
+          "word": "trước.",
+          "start": 91.4,
+          "end": 91.56
+        }
+      ]
+    }
+  ]
+}

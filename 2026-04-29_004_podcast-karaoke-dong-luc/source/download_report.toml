@@ -1,0 +1,96 @@
+[metadata]
+generated_at = "2026-04-29T13:54:42.734163+00:00"
+provider = "tikwm"
+mode = "video"
+hd = true
+total_assets = 6
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://www.tiktok.com/@thanhbg268/video/7368221259357818128?_r=1&_t=ZS-95wbxdzuYXU"
+asset_id = "7368221259357818128"
+title = "Thế là đêm nay - trời lại mưaa ⛈ #mưa #mưagióbãobùng #chill #slowmotion #capcut #fyp "
+author = "thanhbg268"
+output_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc.mp4"
+downloaded = true
+size_bytes = 2331130
+duration_seconds = 19.62
+width = 576
+height = 812
+direct_url_hash = "04c1f36e6454"
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://vt.tiktok.com/ZS9UXTfss/"
+asset_id = "7502707018302590215"
+title = "#sad #rain #tamtrang #sadvibes #sadstory #sadsong "
+author = "themchutbinhyen"
+output_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong.mp4"
+downloaded = true
+size_bytes = 5156106
+duration_seconds = 24.868
+width = 576
+height = 1024
+direct_url_hash = "6f12ec3c414a"
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://vt.tiktok.com/ZS9UXGNxh/"
+asset_id = "7512005405996895496"
+title = "Là khi cơn mưa chợt đến🌨️🌨️ #xhuong #xuhuongtiktok #cau2_68868 #sàigòn #sg #mưagióbãobùng #mưa #tamtrang #hottrend #suy #viralvideo #cảnhđẹp "
+author = "cau2_68868"
+output_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag.mp4"
+downloaded = true
+size_bytes = 2242702
+duration_seconds = 25.563
+width = 720
+height = 1280
+direct_url_hash = "2db5fae1adcd"
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://vt.tiktok.com/ZS9UXKVS4/"
+asset_id = "7551004233227701524"
+title = "☕️📷👩🏻‍🌾 cuộc sống ngày mưa…. #Nhiên #chillvibes #rainydays"
+author = "mocnhiendalat"
+output_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays.mp4"
+downloaded = true
+size_bytes = 1291165
+duration_seconds = 10.867
+width = 1080
+height = 1920
+direct_url_hash = "3e022a8d4a65"
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://vt.tiktok.com/ZS9U4YdkQ/"
+asset_id = "7477029236662947079"
+title = "Hà Nội ngày cuối tuần mưa gió.. #langthanghanoi #chill #cuoituan #hanoi #xh #xuhuongtiktok "
+author = "langthanghanoi.vn"
+output_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh.mp4"
+downloaded = true
+size_bytes = 9323951
+duration_seconds = 40.929
+width = 1080
+height = 1920
+direct_url_hash = "01b886436edd"
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://vt.tiktok.com/ZS9UXKVS4/"
+asset_id = "7551004233227701524"
+title = "☕️📷👩🏻‍🌾 cuộc sống ngày mưa…. #Nhiên #chillvibes #rainydays"
+author = "mocnhiendalat"
+output_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays.mp4"
+downloaded = false
+size_bytes = 1291165
+duration_seconds = 10.867
+width = 1080
+height = 1920
+direct_url_hash = "3e022a8d4a65"

@@ -1,0 +1,55 @@
+[metadata]
+status = "done"
+renderer = "remotion"
+composition = "MainVideo"
+rendered_at = "2026-04-30T01:22:04Z"
+
+[output]
+file_path = "output/final_video.mp4"
+width = 1080
+height = 1920
+fps = 30
+duration_seconds = 93.056
+size_bytes = 60865354
+video_codec = "h264"
+audio_codec = "aac"
+
+[style]
+template = "podcast-karaoke-frame"
+frame_shape = "square"
+frame_center = "50%:50%"
+frame_left = 76
+frame_top = 496
+frame_width = 928
+frame_height = 928
+subtitle_max_words = 2
+subtitle_position = "inside_frame_bottom"
+edge_treatment = "soft_inward_fade"
+subtitle_splitter = "subtitle-screen-splitter"
+subtitle_pages = 224
+channel_name = "Podcast Người Trưởng Thành"
+channel_name_position = "below_frame_80px"
+channel_name_font_size = 32
+channel_name_font_weight = 400
+
+[refinement]
+clip_count = 62
+target_duration_seconds = 93.0
+source_variant = "non_hd_h264"
+avoids_like_share_scenes = true
+uses_per_clip_crop_center = true
+ending = "happy close-up"
+
+[subtitle_fix]
+subtitle_only_fix = true
+source = "source/subtitle_screens.json"
+rules = "split on punctuation and capitalized phrase boundaries, max 2 words per screen"
+
+[[notes]]
+message = "Timeline được dựng lại từ các bản H.264 non-HD để dùng đủ nguồn, giảm lặp cảnh và tránh các đoạn có nút Like/Share/Subscribe. Mỗi clip trong template-props.json có cropX/cropY để đặt tâm crop vào chủ thể."
+
+[[notes]]
+message = "Subtitle được render lại bằng skill subtitle-screen-splitter; không thay đổi audio, crop, clip timing hoặc visual timeline."
+
+[[notes]]
+message = "Tên kênh được thêm bên dưới khung video, cách đáy khung 80px, chữ nhỏ và mảnh hơn."

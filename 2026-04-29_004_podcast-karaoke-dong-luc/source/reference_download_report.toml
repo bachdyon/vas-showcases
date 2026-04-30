@@ -1,0 +1,21 @@
+[metadata]
+generated_at = "2026-04-29T13:55:17.965627+00:00"
+provider = "tikwm"
+mode = "video"
+hd = true
+total_assets = 1
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://www.tiktok.com/@donglucpodcastt/video/7632298078879403284?_r=1&_t=ZS-95wZWbDuDGG"
+asset_id = "7632298078879403284"
+title = "P3 : BÀI TOÁN CUỘC ĐỜI KHÔNG CÓ ĐÁP ÁN MẪU #LearnOnTikTok #dongluc #tuoitre "
+author = "donglucpodcastt"
+output_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/reference/7632298078879403284_p3-bài-toán-cuộc-đời-không-có-đáp-án-mẫu-learnontiktok-dongluc-tuoitre.mp4"
+downloaded = true
+size_bytes = 9442344
+duration_seconds = 75.277
+width = 576
+height = 1024
+direct_url_hash = "2e4d286255f7"

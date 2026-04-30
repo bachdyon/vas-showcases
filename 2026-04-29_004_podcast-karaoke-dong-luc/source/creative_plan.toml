@@ -1,0 +1,129 @@
+[metadata]
+title = "Sắp xếp footage theo audio động lực"
+language = "vi"
+platform = "tiktok"
+target_duration_seconds = 75
+aspect_ratio = "9:16"
+
+[creative]
+audience = "Người trẻ đang áp lực vì thấy mình đi chậm hơn người khác."
+goal = "Dùng các cảnh mưa trầm, đời thường và đô thị để nâng cảm giác suy tư của audio, rồi kết lại bằng cảm giác được an ủi."
+emotional_arc = ["ap-luc", "doi-chieu", "tu-nghi-ngo", "thao-go", "chap-nhan", "an-ui"]
+tone = "trầm, chậm, cinematic, động viên"
+cta = ""
+
+[voiceover]
+script = """
+Bạn có đang cảm thấy mình là kẻ chậm chân nhất trong cuộc đua của sự trưởng thành không? 25 tuổi, bạn thấy bạn bè khoe xe, khoe nhà. 27 tuổi, bạn thấy người ta lập gia đình, con cái đề huề. Nhìn lại mình, vẫn là những bữa cơm vội, vẫn là căn phòng thuê chưa bao giờ thuộc về mình và một sự nghiệp vẫn còn đang giang dở. Bạn bắt đầu nghi ngờ bản thân, bạn tự hỏi mình đã làm sai ở đâu? Thực ra, bạn chẳng làm sai điều gì cả. Sai lầm duy nhất của chúng ta là đem thước đo của người khác để đo cuộc đời của chính mình. Chúng ta đang sống trong một thời đại mà thành công bị đóng gói thành những công thức 20 tuổi phải có gì, 30 tuổi phải là ai. Nhưng cuộc đời đâu phải là một bài kiểm tra trắc nghiệm để có đáp án đúng duy nhất. Bạn biết không, hoa sen nở mùa hạ, hoa cúc nở mùa thu và hoa mận chỉ nở khi mùa đông buốt giá nhất tràn về. Nếu hoa hồng nở vào tháng 5, không có nghĩa là hoa mận đã thất bại vì chưa nở vào tháng 6. Mỗi loài hoa đều có thời điểm rực rỡ của riêng nó và bạn cũng vậy. Bạn không chậm, bạn chỉ đang ở múi giờ của riêng mình thôi. Đừng để áp lực của thời gian làm tắt đi ngọn đèn bên trong bạn. Miễn là bạn vẫn đang nỗ lực, vẫn đang tử tế và không bỏ cuộc thì việc bạn đi chậm hơn người khác một chút chẳng có vấn đề gì cả. Có những đỉnh núi cần nhiều thời gian hơn để leo nhưng tầm nhìn từ đó cũng sẽ bao la hơn rất nhiều. Hãy hít một hơi thật sâu, bạn đang làm rất tốt rồi. Chỉ cần hôm nay bạn tốt hơn chính mình của ngày hôm qua, đó đã là một thành công vĩ đại.
+"""
+delivery = "giọng kể chậm, ấm, suy tư, có khoảng nghỉ tự nhiên"
+
+[[scene_intents]]
+id = "SC_01"
+start_hint = 0.0
+end_hint = 8.76
+narrative_role = "hook"
+spoken_text = "Bạn có đang cảm thấy mình là kẻ chậm chân nhất trong cuộc đua của sự trưởng thành không? 25 tuổi, bạn thấy bạn bè khoe xe, khoe nhà."
+visual_intent = "Mở đầu bằng mưa, đường phố hoặc đèn đường trong không khí trầm mặc, gợi cảm giác cô đơn và bị bỏ lại phía sau."
+mood = "tram-mac co-don ap-luc"
+preferred_shot_types = ["wide shot", "medium shot"]
+asset_requirements = ["mưa", "đường phố", "đèn đường", "hook", "mood-setting", "b-roll-mua"]
+
+[[scene_intents]]
+id = "SC_02"
+start_hint = 8.76
+end_hint = 16.9
+narrative_role = "doi-chieu-doi-song"
+spoken_text = "27 tuổi, bạn thấy người ta lập gia đình, con cái đề huề. Nhìn lại mình, vẫn là những bữa cơm vội, vẫn là căn phòng thuê chưa bao giờ thuộc về mình và một sự nghiệp vẫn còn đang giang dở."
+visual_intent = "Dùng cảnh đời thường ngày mưa, phòng ấm hoặc dòng người ngoài phố để đối chiếu giữa nhịp sống của người khác và cảm giác riêng của nhân vật."
+mood = "doi-thuong tram-buon tu-van"
+preferred_shot_types = ["medium shot", "wide shot"]
+asset_requirements = ["daily-life", "cozy-living", "vlog-doi-song", "human-element", "ngày mưa"]
+
+[[scene_intents]]
+id = "SC_03"
+start_hint = 16.9
+end_hint = 24.18
+narrative_role = "tu-nghi-ngo"
+spoken_text = "Bạn bắt đầu nghi ngờ bản thân, bạn tự hỏi mình đã làm sai ở đâu? Thực ra, bạn chẳng làm sai điều gì cả."
+visual_intent = "Chọn cảnh mưa tĩnh, cột đèn, tán cây hoặc khung hình ít chuyển động để giữ cảm giác tự vấn nhưng dịu lại."
+mood = "buon-ba yen-tinh thao-go"
+preferred_shot_types = ["medium shot"]
+asset_requirements = ["cột đèn", "tán cây", "mưa", "sad-vibe", "body-content", "tĩnh lặng"]
+
+[[scene_intents]]
+id = "SC_04"
+start_hint = 24.18
+end_hint = 31.72
+narrative_role = "ap-luc-so-sanh"
+spoken_text = "Sai lầm duy nhất của chúng ta là đem thước đo của người khác để đo cuộc đời của chính mình. Chúng ta đang sống trong một thời đại mà thành công bị đóng gói thành những công thức."
+visual_intent = "Dùng cảnh giao thông, xe cộ, đường phố thành thị trong mưa để diễn tả áp lực xã hội và sự so sánh."
+mood = "hoi-ha ap-luc do-thi"
+preferred_shot_types = ["wide shot", "medium shot"]
+asset_requirements = ["giao-thông", "đường phố", "thành phố", "daily-life", "b-roll-giao-thong", "troi-mua"]
+
+[[scene_intents]]
+id = "SC_05"
+start_hint = 31.72
+end_hint = 39.48
+narrative_role = "pha-vo-cong-thuc"
+spoken_text = "20 tuổi phải có gì, 30 tuổi phải là ai. Nhưng cuộc đời đâu phải là một bài kiểm tra trắc nghiệm để có đáp án đúng duy nhất. Bạn biết không..."
+visual_intent = "Chuyển sang cảnh trạm dừng xe buýt, graffiti và góc phố mưa để gợi cảm giác cuộc đời không đi theo một đáp án cố định."
+mood = "nghe-thuat duong-pho suy-tu"
+preferred_shot_types = ["wide shot"]
+asset_requirements = ["street-art", "urban-vibe", "b-roll", "trạm xe buýt", "graffiti", "góc phố"]
+
+[[scene_intents]]
+id = "SC_06"
+start_hint = 39.48
+end_hint = 47.44
+narrative_role = "an-du-hoa-no"
+spoken_text = "Hoa sen nở mùa hạ, hoa cúc nở mùa thu và hoa mận chỉ nở khi mùa đông buốt giá nhất tràn về. Nếu hoa hồng nở vào tháng 5, không có nghĩa là hoa mận đã thất bại vì chưa nở vào tháng 6."
+visual_intent = "Không có cảnh hoa nên dùng mưa qua cửa kính, nến, trà hoặc ánh sáng ấm để thay cho ẩn dụ mỗi mùa có vẻ đẹp riêng."
+mood = "am-ap chap-nhan diu-lai"
+preferred_shot_types = ["wide shot"]
+asset_requirements = ["cozy-living", "home-decor", "vibe-setting", "lifestyle-intro", "cửa kính", "mưa"]
+
+[[scene_intents]]
+id = "SC_07"
+start_hint = 47.44
+end_hint = 55.26
+narrative_role = "mui-gio-rieng"
+spoken_text = "Mỗi loài hoa đều có thời điểm rực rỡ của riêng nó và bạn cũng vậy. Bạn không chậm, bạn chỉ đang ở múi giờ của riêng mình thôi."
+visual_intent = "Chọn cảnh đường mưa có hướng đi rõ, xe di chuyển chậm hoặc bầu trời mờ để diễn tả mỗi người có hành trình riêng."
+mood = "binh-yen rieng-tu hy-vong"
+preferred_shot_types = ["wide shot"]
+asset_requirements = ["canh-di-chuyen", "leading lines", "ending-shot", "fade-out", "đường phố"]
+
+[[scene_intents]]
+id = "SC_08"
+start_hint = 55.26
+end_hint = 62.46
+narrative_role = "giu-anh-sang-ben-trong"
+spoken_text = "Đừng để áp lực của thời gian làm tắt đi ngọn đèn bên trong bạn. Miễn là bạn vẫn đang nỗ lực, vẫn đang tử tế và không bỏ cuộc."
+visual_intent = "Ưu tiên ánh đèn đường trong mưa, tán lá rung và luồng sáng vàng để bám với hình ảnh ngọn đèn bên trong."
+mood = "tram-lang kien-tri dong-vien"
+preferred_shot_types = ["medium shot"]
+asset_requirements = ["đèn đường", "ánh sáng", "tán lá", "mưa", "b-roll-chi-tiet", "transition-beat"]
+
+[[scene_intents]]
+id = "SC_09"
+start_hint = 62.46
+end_hint = 68.4
+narrative_role = "tam-nhin-rong"
+spoken_text = "Thì việc bạn đi chậm hơn người khác một chút chẳng có vấn đề gì cả. Có những đỉnh núi cần nhiều thời gian hơn để leo nhưng tầm nhìn từ đó cũng sẽ bao la hơn rất nhiều."
+visual_intent = "Dùng cảnh đường phố rộng dưới cầu vượt, mặt đường ướt và các đường dẫn thị giác để tạo cảm giác tầm nhìn mở rộng sau nỗ lực dài."
+mood = "tinh-lang hy-vong sau-lang"
+preferred_shot_types = ["wide shot"]
+asset_requirements = ["wide shot", "cầu vượt", "đường phố", "leading lines", "b-roll-duong-pho", "mặt đường ướt"]
+
+[[scene_intents]]
+id = "SC_10"
+start_hint = 68.4
+end_hint = 74.8
+narrative_role = "ket-luan-an-ui"
+spoken_text = "Hãy hít một hơi thật sâu, bạn đang làm rất tốt rồi. Chỉ cần hôm nay bạn tốt hơn chính mình của ngày hôm qua, đó đã là một thành công vĩ đại."
+visual_intent = "Kết bằng không gian ấm bên cửa sổ mưa, người ngồi yên trong phòng và nhịp sống chậm để tạo cảm giác được vỗ về và hoàn tất."
+mood = "an-ui am-ap thanh-than"
+preferred_shot_types = ["wide shot"]
+asset_requirements = ["cozy-living", "home-decor", "vibe-setting", "lifestyle-intro", "cửa kính", "người phụ nữ"]

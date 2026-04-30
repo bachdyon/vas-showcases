@@ -1,0 +1,1009 @@
+[render]
+fps = 30
+width = 1080
+height = 1920
+duration_seconds = 93.0
+background = "black"
+
+[style]
+template = "podcast-karaoke-frame"
+frame_shape = "square"
+subtitle_max_words = 2
+
+[audio.voice]
+file_path = "source/voice.wav"
+start = 0.0
+end = 93.0
+gain_db = 0.0
+
+[[clips]]
+id = "CLIP_001"
+mapping_id = "MAP_001"
+file_path = "assets/refined_07_portrait_reel.mp4"
+type = "video"
+timeline_start = 0.0
+timeline_end = 1.45
+source_start = 0.0
+source_end = 1.53
+fit = "cover"
+crop_anchor = "50% 45%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_002"
+mapping_id = "MAP_002"
+file_path = "assets/refined_02_best_world.mp4"
+type = "video"
+timeline_start = 1.45
+timeline_end = 3.0
+source_start = 0.0
+source_end = 1.63
+fit = "cover"
+crop_anchor = "48% 47%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_003"
+mapping_id = "MAP_003"
+file_path = "assets/refined_04_magic_real.mp4"
+type = "video"
+timeline_start = 3.0
+timeline_end = 4.4
+source_start = 6.0
+source_end = 7.48
+fit = "cover"
+crop_anchor = "50% 50%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_004"
+mapping_id = "MAP_004"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+type = "video"
+timeline_start = 4.4
+timeline_end = 5.95
+source_start = 6.0
+source_end = 7.63
+fit = "cover"
+crop_anchor = "50% 44%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_005"
+mapping_id = "MAP_005"
+file_path = "assets/refined_05_juve_suit.mp4"
+type = "video"
+timeline_start = 5.95
+timeline_end = 7.3
+source_start = 9.0
+source_end = 10.43
+fit = "cover"
+crop_anchor = "50% 45%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_006"
+mapping_id = "MAP_006"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+type = "video"
+timeline_start = 7.3
+timeline_end = 8.9
+source_start = 12.0
+source_end = 13.68
+fit = "cover"
+crop_anchor = "50% 50%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_007"
+mapping_id = "MAP_007"
+file_path = "assets/refined_01_net_break.mp4"
+type = "video"
+timeline_start = 8.9
+timeline_end = 10.25
+source_start = 0.0
+source_end = 1.43
+fit = "cover"
+crop_anchor = "50% 43%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_008"
+mapping_id = "MAP_008"
+file_path = "assets/refined_08_life_story.mp4"
+type = "video"
+timeline_start = 10.25
+timeline_end = 11.8
+source_start = 30.0
+source_end = 31.63
+fit = "cover"
+crop_anchor = "50% 43%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_009"
+mapping_id = "MAP_009"
+file_path = "assets/refined_04_magic_real.mp4"
+type = "video"
+timeline_start = 11.8
+timeline_end = 13.25
+source_start = 12.0
+source_end = 13.53
+fit = "cover"
+crop_anchor = "52% 54%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_010"
+mapping_id = "MAP_010"
+file_path = "assets/refined_07_portrait_reel.mp4"
+type = "video"
+timeline_start = 13.25
+timeline_end = 14.8
+source_start = 3.0
+source_end = 4.63
+fit = "cover"
+crop_anchor = "50% 44%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_011"
+mapping_id = "MAP_011"
+file_path = "assets/refined_02_best_world.mp4"
+type = "video"
+timeline_start = 14.8
+timeline_end = 16.15
+source_start = 3.0
+source_end = 4.43
+fit = "cover"
+crop_anchor = "50% 56%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_012"
+mapping_id = "MAP_012"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+type = "video"
+timeline_start = 16.15
+timeline_end = 17.7
+source_start = 9.0
+source_end = 10.63
+fit = "cover"
+crop_anchor = "50% 53%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_013"
+mapping_id = "MAP_013"
+file_path = "assets/refined_05_juve_suit.mp4"
+type = "video"
+timeline_start = 17.7
+timeline_end = 19.15
+source_start = 0.0
+source_end = 1.53
+fit = "cover"
+crop_anchor = "48% 46%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_014"
+mapping_id = "MAP_014"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+type = "video"
+timeline_start = 19.15
+timeline_end = 20.7
+source_start = 18.0
+source_end = 19.63
+fit = "cover"
+crop_anchor = "50% 50%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_015"
+mapping_id = "MAP_015"
+file_path = "assets/refined_01_net_break.mp4"
+type = "video"
+timeline_start = 20.7
+timeline_end = 22.05
+source_start = 3.0
+source_end = 4.43
+fit = "cover"
+crop_anchor = "50% 52%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_016"
+mapping_id = "MAP_016"
+file_path = "assets/refined_04_magic_real.mp4"
+type = "video"
+timeline_start = 22.05
+timeline_end = 23.65
+source_start = 18.0
+source_end = 19.68
+fit = "cover"
+crop_anchor = "50% 40%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_017"
+mapping_id = "MAP_017"
+file_path = "assets/refined_07_portrait_reel.mp4"
+type = "video"
+timeline_start = 23.65
+timeline_end = 25.1
+source_start = 9.0
+source_end = 10.53
+fit = "cover"
+crop_anchor = "50% 47%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_018"
+mapping_id = "MAP_018"
+file_path = "assets/refined_02_best_world.mp4"
+type = "video"
+timeline_start = 25.1
+timeline_end = 26.65
+source_start = 9.0
+source_end = 10.63
+fit = "cover"
+crop_anchor = "50% 54%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_019"
+mapping_id = "MAP_019"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+type = "video"
+timeline_start = 26.65
+timeline_end = 28.05
+source_start = 12.0
+source_end = 13.48
+fit = "cover"
+crop_anchor = "52% 48%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_020"
+mapping_id = "MAP_020"
+file_path = "assets/refined_05_juve_suit.mp4"
+type = "video"
+timeline_start = 28.05
+timeline_end = 29.6
+source_start = 15.0
+source_end = 16.63
+fit = "cover"
+crop_anchor = "48% 45%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_021"
+mapping_id = "MAP_021"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+type = "video"
+timeline_start = 29.6
+timeline_end = 31.05
+source_start = 6.0
+source_end = 7.53
+fit = "cover"
+crop_anchor = "50% 50%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_022"
+mapping_id = "MAP_022"
+file_path = "assets/refined_01_net_break.mp4"
+type = "video"
+timeline_start = 31.05
+timeline_end = 32.55
+source_start = 6.0
+source_end = 7.58
+fit = "cover"
+crop_anchor = "50% 44%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_023"
+mapping_id = "MAP_023"
+file_path = "assets/refined_04_magic_real.mp4"
+type = "video"
+timeline_start = 32.55
+timeline_end = 33.9
+source_start = 21.0
+source_end = 22.43
+fit = "cover"
+crop_anchor = "50% 49%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_024"
+mapping_id = "MAP_024"
+file_path = "assets/refined_07_portrait_reel.mp4"
+type = "video"
+timeline_start = 33.9
+timeline_end = 35.45
+source_start = 12.0
+source_end = 13.63
+fit = "cover"
+crop_anchor = "50% 44%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_025"
+mapping_id = "MAP_025"
+file_path = "assets/refined_02_best_world.mp4"
+type = "video"
+timeline_start = 35.45
+timeline_end = 36.9
+source_start = 12.0
+source_end = 13.53
+fit = "cover"
+crop_anchor = "52% 54%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_026"
+mapping_id = "MAP_026"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+type = "video"
+timeline_start = 36.9
+timeline_end = 38.5
+source_start = 18.0
+source_end = 19.68
+fit = "cover"
+crop_anchor = "50% 45%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_027"
+mapping_id = "MAP_027"
+file_path = "assets/refined_05_juve_suit.mp4"
+type = "video"
+timeline_start = 38.5
+timeline_end = 39.85
+source_start = 18.0
+source_end = 19.43
+fit = "cover"
+crop_anchor = "50% 42%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_028"
+mapping_id = "MAP_028"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+type = "video"
+timeline_start = 39.85
+timeline_end = 41.4
+source_start = 21.0
+source_end = 22.63
+fit = "cover"
+crop_anchor = "50% 50%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_029"
+mapping_id = "MAP_029"
+file_path = "assets/refined_01_net_break.mp4"
+type = "video"
+timeline_start = 41.4
+timeline_end = 42.85
+source_start = 9.0
+source_end = 10.53
+fit = "cover"
+crop_anchor = "51% 54%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_030"
+mapping_id = "MAP_030"
+file_path = "assets/refined_08_life_story.mp4"
+type = "video"
+timeline_start = 42.85
+timeline_end = 44.35
+source_start = 33.0
+source_end = 34.58
+fit = "cover"
+crop_anchor = "50% 45%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_031"
+mapping_id = "MAP_031"
+file_path = "assets/refined_04_magic_real.mp4"
+type = "video"
+timeline_start = 44.35
+timeline_end = 45.7
+source_start = 24.0
+source_end = 25.43
+fit = "cover"
+crop_anchor = "50% 44%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_032"
+mapping_id = "MAP_032"
+file_path = "assets/refined_07_portrait_reel.mp4"
+type = "video"
+timeline_start = 45.7
+timeline_end = 47.25
+source_start = 18.0
+source_end = 19.63
+fit = "cover"
+crop_anchor = "50% 45%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_033"
+mapping_id = "MAP_033"
+file_path = "assets/refined_02_best_world.mp4"
+type = "video"
+timeline_start = 47.25
+timeline_end = 48.7
+source_start = 15.0
+source_end = 16.53
+fit = "cover"
+crop_anchor = "52% 50%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_034"
+mapping_id = "MAP_034"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+type = "video"
+timeline_start = 48.7
+timeline_end = 50.25
+source_start = 21.0
+source_end = 22.63
+fit = "cover"
+crop_anchor = "50% 52%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_035"
+mapping_id = "MAP_035"
+file_path = "assets/refined_05_juve_suit.mp4"
+type = "video"
+timeline_start = 50.25
+timeline_end = 51.6
+source_start = 21.0
+source_end = 22.43
+fit = "cover"
+crop_anchor = "50% 45%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_036"
+mapping_id = "MAP_036"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+type = "video"
+timeline_start = 51.6
+timeline_end = 53.15
+source_start = 24.0
+source_end = 25.63
+fit = "cover"
+crop_anchor = "50% 48%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_037"
+mapping_id = "MAP_037"
+file_path = "assets/refined_01_net_break.mp4"
+type = "video"
+timeline_start = 53.15
+timeline_end = 54.5
+source_start = 12.0
+source_end = 13.43
+fit = "cover"
+crop_anchor = "54% 50%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_038"
+mapping_id = "MAP_038"
+file_path = "assets/refined_04_magic_real.mp4"
+type = "video"
+timeline_start = 54.5
+timeline_end = 56.0
+source_start = 3.0
+source_end = 4.58
+fit = "cover"
+crop_anchor = "50% 52%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_039"
+mapping_id = "MAP_039"
+file_path = "assets/refined_07_portrait_reel.mp4"
+type = "video"
+timeline_start = 56.0
+timeline_end = 57.45
+source_start = 24.0
+source_end = 25.53
+fit = "cover"
+crop_anchor = "50% 44%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_040"
+mapping_id = "MAP_040"
+file_path = "assets/refined_02_best_world.mp4"
+type = "video"
+timeline_start = 57.45
+timeline_end = 59.05
+source_start = 21.0
+source_end = 22.68
+fit = "cover"
+crop_anchor = "50% 50%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_041"
+mapping_id = "MAP_041"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+type = "video"
+timeline_start = 59.05
+timeline_end = 60.4
+source_start = 24.0
+source_end = 25.43
+fit = "cover"
+crop_anchor = "50% 45%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_042"
+mapping_id = "MAP_042"
+file_path = "assets/refined_05_juve_suit.mp4"
+type = "video"
+timeline_start = 60.4
+timeline_end = 61.95
+source_start = 24.0
+source_end = 25.63
+fit = "cover"
+crop_anchor = "50% 45%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_043"
+mapping_id = "MAP_043"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+type = "video"
+timeline_start = 61.95
+timeline_end = 63.4
+source_start = 3.0
+source_end = 4.53
+fit = "cover"
+crop_anchor = "51% 55%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_044"
+mapping_id = "MAP_044"
+file_path = "assets/refined_04_magic_real.mp4"
+type = "video"
+timeline_start = 63.4
+timeline_end = 64.9
+source_start = 15.0
+source_end = 16.58
+fit = "cover"
+crop_anchor = "50% 51%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_045"
+mapping_id = "MAP_045"
+file_path = "assets/refined_07_portrait_reel.mp4"
+type = "video"
+timeline_start = 64.9
+timeline_end = 66.25
+source_start = 15.0
+source_end = 16.43
+fit = "cover"
+crop_anchor = "50% 44%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_046"
+mapping_id = "MAP_046"
+file_path = "assets/refined_02_best_world.mp4"
+type = "video"
+timeline_start = 66.25
+timeline_end = 67.8
+source_start = 18.0
+source_end = 19.63
+fit = "cover"
+crop_anchor = "50% 54%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_047"
+mapping_id = "MAP_047"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+type = "video"
+timeline_start = 67.8
+timeline_end = 69.25
+source_start = 3.0
+source_end = 4.53
+fit = "cover"
+crop_anchor = "50% 56%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_048"
+mapping_id = "MAP_048"
+file_path = "assets/refined_05_juve_suit.mp4"
+type = "video"
+timeline_start = 69.25
+timeline_end = 70.85
+source_start = 12.0
+source_end = 13.68
+fit = "cover"
+crop_anchor = "50% 45%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_049"
+mapping_id = "MAP_049"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+type = "video"
+timeline_start = 70.85
+timeline_end = 72.2
+source_start = 15.0
+source_end = 16.43
+fit = "cover"
+crop_anchor = "50% 50%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_050"
+mapping_id = "MAP_050"
+file_path = "assets/refined_01_net_break.mp4"
+type = "video"
+timeline_start = 72.2
+timeline_end = 73.75
+source_start = 1.5
+source_end = 3.13
+fit = "cover"
+crop_anchor = "50% 52%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_051"
+mapping_id = "MAP_051"
+file_path = "assets/refined_04_magic_real.mp4"
+type = "video"
+timeline_start = 73.75
+timeline_end = 75.2
+source_start = 9.0
+source_end = 10.53
+fit = "cover"
+crop_anchor = "50% 50%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_052"
+mapping_id = "MAP_052"
+file_path = "assets/refined_07_portrait_reel.mp4"
+type = "video"
+timeline_start = 75.2
+timeline_end = 76.7
+source_start = 6.0
+source_end = 7.58
+fit = "cover"
+crop_anchor = "50% 47%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_053"
+mapping_id = "MAP_053"
+file_path = "assets/refined_02_best_world.mp4"
+type = "video"
+timeline_start = 76.7
+timeline_end = 78.05
+source_start = 6.0
+source_end = 7.43
+fit = "cover"
+crop_anchor = "48% 50%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_054"
+mapping_id = "MAP_054"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+type = "video"
+timeline_start = 78.05
+timeline_end = 79.6
+source_start = 15.0
+source_end = 16.63
+fit = "cover"
+crop_anchor = "50% 45%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_055"
+mapping_id = "MAP_055"
+file_path = "assets/refined_05_juve_suit.mp4"
+type = "video"
+timeline_start = 79.6
+timeline_end = 81.05
+source_start = 6.0
+source_end = 7.53
+fit = "cover"
+crop_anchor = "50% 47%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_056"
+mapping_id = "MAP_056"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+type = "video"
+timeline_start = 81.05
+timeline_end = 82.55
+source_start = 9.0
+source_end = 10.58
+fit = "cover"
+crop_anchor = "50% 47%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_057"
+mapping_id = "MAP_057"
+file_path = "assets/refined_01_net_break.mp4"
+type = "video"
+timeline_start = 82.55
+timeline_end = 83.9
+source_start = 7.5
+source_end = 8.93
+fit = "cover"
+crop_anchor = "50% 48%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_058"
+mapping_id = "MAP_058"
+file_path = "assets/refined_04_magic_real.mp4"
+type = "video"
+timeline_start = 83.9
+timeline_end = 85.45
+source_start = 27.0
+source_end = 28.63
+fit = "cover"
+crop_anchor = "50% 43%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_059"
+mapping_id = "MAP_059"
+file_path = "assets/refined_07_portrait_reel.mp4"
+type = "video"
+timeline_start = 85.45
+timeline_end = 86.9
+source_start = 21.0
+source_end = 22.53
+fit = "cover"
+crop_anchor = "50% 45%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_060"
+mapping_id = "MAP_060"
+file_path = "assets/refined_02_best_world.mp4"
+type = "video"
+timeline_start = 86.9
+timeline_end = 88.35
+source_start = 1.5
+source_end = 3.03
+fit = "cover"
+crop_anchor = "50% 51%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_061"
+mapping_id = "MAP_061"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+type = "video"
+timeline_start = 88.35
+timeline_end = 91.45
+source_start = 27.0
+source_end = 30.18
+fit = "cover"
+crop_anchor = "50% 51%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"
+
+[[clips]]
+id = "CLIP_062"
+mapping_id = "MAP_062"
+file_path = "assets/refined_04_magic_real.mp4"
+type = "video"
+timeline_start = 91.45
+timeline_end = 93.0
+source_start = 27.0
+source_end = 28.63
+fit = "cover"
+crop_anchor = "50% 42%"
+speed = 1.0
+transition_in = "cut"
+transition_out = "cut"
+color = "match_reference"

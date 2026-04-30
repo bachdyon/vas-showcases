@@ -1,0 +1,189 @@
+[[mappings]]
+id = "MAP_001"
+scene_id = "SC_01"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_01"
+start = 0.0
+end = 8.76
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc.mp4"
+source_start = 0.0
+source_end = 8.76
+fit_score = 0.522
+fit_labels = ["semantic", "mood", "shot_type"]
+reason = "Khớp tốt nhất theo ngữ nghĩa, tâm trạng và shot type: mở đầu bằng mưa, đường phố hoặc đèn đường trong không khí trầm mặc, gợi cảm giác cô đơn và bị bỏ lại phía sau."
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_002"
+scene_id = "SC_02"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_002"
+asset_scene_id = "AST_002_SC_04"
+start = 8.76
+end = 16.9
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh.mp4"
+source_start = 24.0
+source_end = 32.14
+fit_score = 0.484
+fit_labels = ["semantic", "mood", "shot_type"]
+reason = "Khớp tốt nhất theo ngữ nghĩa, tâm trạng và shot type: dùng cảnh đời thường ngày mưa, phòng ấm hoặc dòng người ngoài phố để đối chiếu giữa nhịp sống của người khác và cảm giác riêng của nhân vật."
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_003"
+scene_id = "SC_03"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_003"
+asset_scene_id = "AST_003_SC_02"
+start = 16.9
+end = 24.18
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7502707018302590215_sad-rain-tamtrang-sadvibes-sadstory-sadsong.mp4"
+source_start = 8.0
+source_end = 16.0
+fit_score = 0.546
+fit_labels = ["semantic", "mood", "shot_type"]
+reason = "Khớp tốt nhất theo ngữ nghĩa, tâm trạng và shot type: chọn cảnh mưa tĩnh, cột đèn, tán cây hoặc khung hình ít chuyển động để giữ cảm giác tự vấn nhưng dịu lại."
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_004"
+scene_id = "SC_04"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_004"
+asset_scene_id = "AST_004_SC_02"
+start = 24.18
+end = 31.72
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7512005405996895496_là-khi-cơn-mưa-chợt-đến-xhuong-xuhuongtiktok-cau2-68868-sàigòn-sg-mưag.mp4"
+source_start = 8.0
+source_end = 16.0
+fit_score = 0.526
+fit_labels = ["semantic", "mood", "shot_type"]
+reason = "Khớp tốt nhất theo ngữ nghĩa, tâm trạng và shot type: dùng cảnh giao thông, xe cộ, đường phố thành thị trong mưa để diễn tả áp lực xã hội và sự so sánh."
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_005"
+scene_id = "SC_05"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_002"
+asset_scene_id = "AST_002_SC_05"
+start = 31.72
+end = 39.48
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh.mp4"
+source_start = 32.0
+source_end = 40.0
+fit_score = 0.567
+fit_labels = ["semantic", "mood", "shot_type"]
+reason = "Khớp tốt nhất theo ngữ nghĩa, tâm trạng và shot type: chuyển sang cảnh trạm dừng xe buýt, graffiti và góc phố mưa để gợi cảm giác cuộc đời không đi theo một đáp án cố định."
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_006"
+scene_id = "SC_06"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_005"
+asset_scene_id = "AST_005_SC_01"
+start = 39.48
+end = 47.44
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays.mp4"
+source_start = 0.0
+source_end = 8.0
+fit_score = 0.507
+fit_labels = ["semantic", "mood", "shot_type"]
+reason = "Khớp tốt nhất theo ngữ nghĩa, tâm trạng và shot type: không có cảnh hoa nên dùng mưa qua cửa kính, nến, trà hoặc ánh sáng ấm để thay cho ẩn dụ mỗi mùa có vẻ đẹp riêng."
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_007"
+scene_id = "SC_07"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_002"
+asset_scene_id = "AST_002_SC_02"
+start = 47.44
+end = 55.26
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh.mp4"
+source_start = 8.0
+source_end = 16.0
+fit_score = 0.503
+fit_labels = ["semantic", "mood", "shot_type"]
+reason = "Khớp tốt nhất theo ngữ nghĩa, tâm trạng và shot type: chọn cảnh đường mưa có hướng đi rõ, xe di chuyển chậm hoặc bầu trời mờ để diễn tả mỗi người có hành trình riêng."
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_008"
+scene_id = "SC_08"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_02"
+start = 55.26
+end = 62.46
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7368221259357818128_thế-là-đêm-nay---trời-lại-mưaa-mưa-mưagióbãobùng-chill-slowmotion-capc.mp4"
+source_start = 8.0
+source_end = 16.0
+fit_score = 0.566
+fit_labels = ["semantic", "mood", "shot_type"]
+reason = "Khớp tốt nhất theo ngữ nghĩa, tâm trạng và shot type: ưu tiên ánh đèn đường trong mưa, tán lá rung và luồng sáng vàng để bám với hình ảnh ngọn đèn bên trong."
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_009"
+scene_id = "SC_09"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_002"
+asset_scene_id = "AST_002_SC_01"
+start = 62.46
+end = 68.4
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7477029236662947079_hà-nội-ngày-cuối-tuần-mưa-gió..-langthanghanoi-chill-cuoituan-hanoi-xh.mp4"
+source_start = 0.0
+source_end = 8.0
+fit_score = 0.586
+fit_labels = ["semantic", "mood", "shot_type"]
+reason = "Khớp tốt nhất theo ngữ nghĩa, tâm trạng và shot type: dùng cảnh đường phố rộng dưới cầu vượt, mặt đường ướt và các đường dẫn thị giác để tạo cảm giác tầm nhìn mở rộng sau nỗ lực dài."
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_010"
+scene_id = "SC_10"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_005"
+asset_scene_id = "AST_005_SC_01"
+start = 68.4
+end = 74.8
+file_path = "jobs/2026-04-29_004_s-p-x-p-footage-theo-audio-ng-l-c/input/raw_assets/videos/downloaded/7551004233227701524_cuộc-sống-ngày-mưa.-nhiên-chillvibes-rainydays.mp4"
+source_start = 0.0
+source_end = 8.0
+fit_score = 0.573
+fit_labels = ["semantic", "mood", "shot_type"]
+reason = "Khớp tốt nhất theo ngữ nghĩa, tâm trạng và shot type: kết bằng không gian ấm bên cửa sổ mưa, người ngồi yên trong phòng và nhịp sống chậm để tạo cảm giác được vỗ về và hoàn tất."
+fallback = false
+warnings = []

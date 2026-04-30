@@ -1,0 +1,21 @@
+[metadata]
+generated_at = "2026-04-30T00:17:39.223639+00:00"
+provider = "tikwm"
+mode = "video"
+hd = true
+total_assets = 1
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://www.tiktok.com/@bongdapodcast/video/7626790576083520789?_r=1&_t=ZS-95wM5ksCgOT"
+asset_id = "7626790576083520789"
+title = "Tập 11. Cuộc đời ... cre content:@Highest 2 Lowest  #xuhuong#motivation#noluc#kyluatbanthan#thaydoibanthan"
+author = "bongdapodcast"
+output_path = "jobs/2026-04-30_001_podcast-karaoke-frame-bongdapodcast/input/audio/source_video/7626790576083520789_tập-11.-cuộc-đời-...-cre-contenthighest-2-lowest-xuhuongmotivationnolu.mp4"
+downloaded = true
+size_bytes = 18298400
+duration_seconds = 95.945
+width = 1080
+height = 1920
+direct_url_hash = "86e7fa4a496f"

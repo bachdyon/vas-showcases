@@ -1,0 +1,750 @@
+[metadata]
+duration_seconds = 93.0
+strategy = "refined_unique_scene_fast_cut"
+clip_count = 62
+avoids_like_share = true
+ends_with = "happy close-up"
+
+[[mappings]]
+id = "MAP_001"
+scene_intent_id = "REFINED_CUT_001"
+file_path = "assets/refined_07_portrait_reel.mp4"
+start = 0.0
+end = 1.45
+source_start = 0.0
+source_end = 1.53
+crop_x_pct = 50
+crop_y_pct = 45
+reason = "tight Portugal face centered; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_002"
+scene_intent_id = "REFINED_CUT_002"
+file_path = "assets/refined_02_best_world.mp4"
+start = 1.45
+end = 3.0
+source_start = 0.0
+source_end = 1.63
+crop_x_pct = 48
+crop_y_pct = 47
+reason = "red kit ball control full body; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_003"
+scene_intent_id = "REFINED_CUT_003"
+file_path = "assets/refined_04_magic_real.mp4"
+start = 3.0
+end = 4.4
+source_start = 6.0
+source_end = 7.48
+crop_x_pct = 50
+crop_y_pct = 50
+reason = "Real Madrid dribble centered; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_004"
+scene_intent_id = "REFINED_CUT_004"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+start = 4.4
+end = 5.95
+source_start = 6.0
+source_end = 7.63
+crop_x_pct = 50
+crop_y_pct = 44
+reason = "blue jacket tunnel look; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_005"
+scene_intent_id = "REFINED_CUT_005"
+file_path = "assets/refined_05_juve_suit.mp4"
+start = 5.95
+end = 7.3
+source_start = 9.0
+source_end = 10.43
+crop_x_pct = 50
+crop_y_pct = 45
+reason = "Juventus close-up; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_006"
+scene_intent_id = "REFINED_CUT_006"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+start = 7.3
+end = 8.9
+source_start = 12.0
+source_end = 13.68
+crop_x_pct = 50
+crop_y_pct = 50
+reason = "yellow kit walkout centered; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_007"
+scene_intent_id = "REFINED_CUT_007"
+file_path = "assets/refined_01_net_break.mp4"
+start = 8.9
+end = 10.25
+source_start = 0.0
+source_end = 1.43
+crop_x_pct = 50
+crop_y_pct = 43
+reason = "United close-up serious; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_008"
+scene_intent_id = "REFINED_CUT_008"
+file_path = "assets/refined_08_life_story.mp4"
+start = 10.25
+end = 11.8
+source_start = 30.0
+source_end = 31.63
+crop_x_pct = 50
+crop_y_pct = 43
+reason = "young Ronaldo proud smile, before like/share; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_009"
+scene_intent_id = "REFINED_CUT_009"
+file_path = "assets/refined_04_magic_real.mp4"
+start = 11.8
+end = 13.25
+source_start = 12.0
+source_end = 13.53
+crop_x_pct = 52
+crop_y_pct = 54
+reason = "white kit run, torso centered; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_010"
+scene_intent_id = "REFINED_CUT_010"
+file_path = "assets/refined_07_portrait_reel.mp4"
+start = 13.25
+end = 14.8
+source_start = 3.0
+source_end = 4.63
+crop_x_pct = 50
+crop_y_pct = 44
+reason = "Portugal tunnel red side profile; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_011"
+scene_intent_id = "REFINED_CUT_011"
+file_path = "assets/refined_02_best_world.mp4"
+start = 14.8
+end = 16.15
+source_start = 3.0
+source_end = 4.43
+crop_x_pct = 50
+crop_y_pct = 56
+reason = "red kit chest touch; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_012"
+scene_intent_id = "REFINED_CUT_012"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+start = 16.15
+end = 17.7
+source_start = 9.0
+source_end = 10.63
+crop_x_pct = 50
+crop_y_pct = 53
+reason = "walkout with child, full body; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_013"
+scene_intent_id = "REFINED_CUT_013"
+file_path = "assets/refined_05_juve_suit.mp4"
+start = 17.7
+end = 19.15
+source_start = 0.0
+source_end = 1.53
+crop_x_pct = 48
+crop_y_pct = 46
+reason = "Madrid stairs close subject; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_014"
+scene_intent_id = "REFINED_CUT_014"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+start = 19.15
+end = 20.7
+source_start = 18.0
+source_end = 19.63
+crop_x_pct = 50
+crop_y_pct = 50
+reason = "yellow kit mascot pose; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_015"
+scene_intent_id = "REFINED_CUT_015"
+file_path = "assets/refined_01_net_break.mp4"
+start = 20.7
+end = 22.05
+source_start = 3.0
+source_end = 4.43
+crop_x_pct = 50
+crop_y_pct = 52
+reason = "header jump subject high; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_016"
+scene_intent_id = "REFINED_CUT_016"
+file_path = "assets/refined_04_magic_real.mp4"
+start = 22.05
+end = 23.65
+source_start = 18.0
+source_end = 19.68
+crop_x_pct = 50
+crop_y_pct = 40
+reason = "blue warmup smile; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_017"
+scene_intent_id = "REFINED_CUT_017"
+file_path = "assets/refined_07_portrait_reel.mp4"
+start = 23.65
+end = 25.1
+source_start = 9.0
+source_end = 10.53
+crop_x_pct = 50
+crop_y_pct = 47
+reason = "Madrid formal headphones; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_018"
+scene_intent_id = "REFINED_CUT_018"
+file_path = "assets/refined_02_best_world.mp4"
+start = 25.1
+end = 26.65
+source_start = 9.0
+source_end = 10.63
+crop_x_pct = 50
+crop_y_pct = 54
+reason = "wide pitch play, ball action; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_019"
+scene_intent_id = "REFINED_CUT_019"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+start = 26.65
+end = 28.05
+source_start = 12.0
+source_end = 13.48
+crop_x_pct = 52
+crop_y_pct = 48
+reason = "Ronaldo back number 7; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_020"
+scene_intent_id = "REFINED_CUT_020"
+file_path = "assets/refined_05_juve_suit.mp4"
+start = 28.05
+end = 29.6
+source_start = 15.0
+source_end = 16.63
+crop_x_pct = 48
+crop_y_pct = 45
+reason = "suit portrait confident; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_021"
+scene_intent_id = "REFINED_CUT_021"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+start = 29.6
+end = 31.05
+source_start = 6.0
+source_end = 7.53
+crop_x_pct = 50
+crop_y_pct = 50
+reason = "Al Nassr black jacket; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_022"
+scene_intent_id = "REFINED_CUT_022"
+file_path = "assets/refined_01_net_break.mp4"
+start = 31.05
+end = 32.55
+source_start = 6.0
+source_end = 7.58
+crop_x_pct = 50
+crop_y_pct = 44
+reason = "United overlay close face; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_023"
+scene_intent_id = "REFINED_CUT_023"
+file_path = "assets/refined_04_magic_real.mp4"
+start = 32.55
+end = 33.9
+source_start = 21.0
+source_end = 22.43
+crop_x_pct = 50
+crop_y_pct = 49
+reason = "pitch walk red opponent; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_024"
+scene_intent_id = "REFINED_CUT_024"
+file_path = "assets/refined_07_portrait_reel.mp4"
+start = 33.9
+end = 35.45
+source_start = 12.0
+source_end = 13.63
+crop_x_pct = 50
+crop_y_pct = 44
+reason = "blue kit looking down; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_025"
+scene_intent_id = "REFINED_CUT_025"
+file_path = "assets/refined_02_best_world.mp4"
+start = 35.45
+end = 36.9
+source_start = 12.0
+source_end = 13.53
+crop_x_pct = 52
+crop_y_pct = 54
+reason = "orange keeper duel; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_026"
+scene_intent_id = "REFINED_CUT_026"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+start = 36.9
+end = 38.5
+source_start = 18.0
+source_end = 19.68
+crop_x_pct = 50
+crop_y_pct = 45
+reason = "celebration angry face; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_027"
+scene_intent_id = "REFINED_CUT_027"
+file_path = "assets/refined_05_juve_suit.mp4"
+start = 38.5
+end = 39.85
+source_start = 18.0
+source_end = 19.43
+crop_x_pct = 50
+crop_y_pct = 42
+reason = "Madrid portrait half body; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_028"
+scene_intent_id = "REFINED_CUT_028"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+start = 39.85
+end = 41.4
+source_start = 21.0
+source_end = 22.63
+crop_x_pct = 50
+crop_y_pct = 50
+reason = "yellow kit stadium walk; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_029"
+scene_intent_id = "REFINED_CUT_029"
+file_path = "assets/refined_01_net_break.mp4"
+start = 41.4
+end = 42.85
+source_start = 9.0
+source_end = 10.53
+crop_x_pct = 51
+crop_y_pct = 54
+reason = "goal net action; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_030"
+scene_intent_id = "REFINED_CUT_030"
+file_path = "assets/refined_08_life_story.mp4"
+start = 42.85
+end = 44.35
+source_start = 33.0
+source_end = 34.58
+crop_x_pct = 50
+crop_y_pct = 45
+reason = "trophy celebration before outro buttons; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_031"
+scene_intent_id = "REFINED_CUT_031"
+file_path = "assets/refined_04_magic_real.mp4"
+start = 44.35
+end = 45.7
+source_start = 24.0
+source_end = 25.43
+crop_x_pct = 50
+crop_y_pct = 44
+reason = "happy white kit close-up; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_032"
+scene_intent_id = "REFINED_CUT_032"
+file_path = "assets/refined_07_portrait_reel.mp4"
+start = 45.7
+end = 47.25
+source_start = 18.0
+source_end = 19.63
+crop_x_pct = 50
+crop_y_pct = 45
+reason = "white kit face lit; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_033"
+scene_intent_id = "REFINED_CUT_033"
+file_path = "assets/refined_02_best_world.mp4"
+start = 47.25
+end = 48.7
+source_start = 15.0
+source_end = 16.53
+crop_x_pct = 52
+crop_y_pct = 50
+reason = "stadium shot goal moment; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_034"
+scene_intent_id = "REFINED_CUT_034"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+start = 48.7
+end = 50.25
+source_start = 21.0
+source_end = 22.63
+crop_x_pct = 50
+crop_y_pct = 52
+reason = "blue jacket walk; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_035"
+scene_intent_id = "REFINED_CUT_035"
+file_path = "assets/refined_05_juve_suit.mp4"
+start = 50.25
+end = 51.6
+source_start = 21.0
+source_end = 22.43
+crop_x_pct = 50
+crop_y_pct = 45
+reason = "close face intense; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_036"
+scene_intent_id = "REFINED_CUT_036"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+start = 51.6
+end = 53.15
+source_start = 24.0
+source_end = 25.63
+crop_x_pct = 50
+crop_y_pct = 48
+reason = "yellow kit expression; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_037"
+scene_intent_id = "REFINED_CUT_037"
+file_path = "assets/refined_01_net_break.mp4"
+start = 53.15
+end = 54.5
+source_start = 12.0
+source_end = 13.43
+crop_x_pct = 54
+crop_y_pct = 50
+reason = "United run to ball; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_038"
+scene_intent_id = "REFINED_CUT_038"
+file_path = "assets/refined_04_magic_real.mp4"
+start = 54.5
+end = 56.0
+source_start = 3.0
+source_end = 4.58
+crop_x_pct = 50
+crop_y_pct = 52
+reason = "white kit ball touch; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_039"
+scene_intent_id = "REFINED_CUT_039"
+file_path = "assets/refined_07_portrait_reel.mp4"
+start = 56.0
+end = 57.45
+source_start = 24.0
+source_end = 25.53
+crop_x_pct = 50
+crop_y_pct = 44
+reason = "blue kit portrait; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_040"
+scene_intent_id = "REFINED_CUT_040"
+file_path = "assets/refined_02_best_world.mp4"
+start = 57.45
+end = 59.05
+source_start = 21.0
+source_end = 22.68
+crop_x_pct = 50
+crop_y_pct = 50
+reason = "goal net finish; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_041"
+scene_intent_id = "REFINED_CUT_041"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+start = 59.05
+end = 60.4
+source_start = 24.0
+source_end = 25.43
+crop_x_pct = 50
+crop_y_pct = 45
+reason = "AIG fierce celebration; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_042"
+scene_intent_id = "REFINED_CUT_042"
+file_path = "assets/refined_05_juve_suit.mp4"
+start = 60.4
+end = 61.95
+source_start = 24.0
+source_end = 25.63
+crop_x_pct = 50
+crop_y_pct = 45
+reason = "formal Ronaldo close; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_043"
+scene_intent_id = "REFINED_CUT_043"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+start = 61.95
+end = 63.4
+source_start = 3.0
+source_end = 4.53
+crop_x_pct = 51
+crop_y_pct = 55
+reason = "goalkeeper save, ball centered; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_044"
+scene_intent_id = "REFINED_CUT_044"
+file_path = "assets/refined_04_magic_real.mp4"
+start = 63.4
+end = 64.9
+source_start = 15.0
+source_end = 16.58
+crop_x_pct = 50
+crop_y_pct = 51
+reason = "Madrid celebration shoulder; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_045"
+scene_intent_id = "REFINED_CUT_045"
+file_path = "assets/refined_07_portrait_reel.mp4"
+start = 64.9
+end = 66.25
+source_start = 15.0
+source_end = 16.43
+crop_x_pct = 50
+crop_y_pct = 44
+reason = "dark blue kit looking down; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_046"
+scene_intent_id = "REFINED_CUT_046"
+file_path = "assets/refined_02_best_world.mp4"
+start = 66.25
+end = 67.8
+source_start = 18.0
+source_end = 19.63
+crop_x_pct = 50
+crop_y_pct = 54
+reason = "stadium goal line; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_047"
+scene_intent_id = "REFINED_CUT_047"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+start = 67.8
+end = 69.25
+source_start = 3.0
+source_end = 4.53
+crop_x_pct = 50
+crop_y_pct = 56
+reason = "walking feet/body in tunnel; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_048"
+scene_intent_id = "REFINED_CUT_048"
+file_path = "assets/refined_05_juve_suit.mp4"
+start = 69.25
+end = 70.85
+source_start = 12.0
+source_end = 13.68
+crop_x_pct = 50
+crop_y_pct = 45
+reason = "business suit confident; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_049"
+scene_intent_id = "REFINED_CUT_049"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+start = 70.85
+end = 72.2
+source_start = 15.0
+source_end = 16.43
+crop_x_pct = 50
+crop_y_pct = 50
+reason = "yellow kit full body; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_050"
+scene_intent_id = "REFINED_CUT_050"
+file_path = "assets/refined_01_net_break.mp4"
+start = 72.2
+end = 73.75
+source_start = 1.5
+source_end = 3.13
+crop_x_pct = 50
+crop_y_pct = 52
+reason = "header follow-through; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_051"
+scene_intent_id = "REFINED_CUT_051"
+file_path = "assets/refined_04_magic_real.mp4"
+start = 73.75
+end = 75.2
+source_start = 9.0
+source_end = 10.53
+crop_x_pct = 50
+crop_y_pct = 50
+reason = "Madrid run low angle; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_052"
+scene_intent_id = "REFINED_CUT_052"
+file_path = "assets/refined_07_portrait_reel.mp4"
+start = 75.2
+end = 76.7
+source_start = 6.0
+source_end = 7.58
+crop_x_pct = 50
+crop_y_pct = 47
+reason = "red kit locker-room glance; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_053"
+scene_intent_id = "REFINED_CUT_053"
+file_path = "assets/refined_02_best_world.mp4"
+start = 76.7
+end = 78.05
+source_start = 6.0
+source_end = 7.43
+crop_x_pct = 48
+crop_y_pct = 50
+reason = "wide pitch pass; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_054"
+scene_intent_id = "REFINED_CUT_054"
+file_path = "assets/refined_03_tunnel_wink.mp4"
+start = 78.05
+end = 79.6
+source_start = 15.0
+source_end = 16.63
+crop_x_pct = 50
+crop_y_pct = 45
+reason = "white kit tunnel close; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_055"
+scene_intent_id = "REFINED_CUT_055"
+file_path = "assets/refined_05_juve_suit.mp4"
+start = 79.6
+end = 81.05
+source_start = 6.0
+source_end = 7.53
+crop_x_pct = 50
+crop_y_pct = 47
+reason = "Juve shirt close-up; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_056"
+scene_intent_id = "REFINED_CUT_056"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+start = 81.05
+end = 82.55
+source_start = 9.0
+source_end = 10.58
+crop_x_pct = 50
+crop_y_pct = 47
+reason = "yellow kit cheek puff; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_057"
+scene_intent_id = "REFINED_CUT_057"
+file_path = "assets/refined_01_net_break.mp4"
+start = 82.55
+end = 83.9
+source_start = 7.5
+source_end = 8.93
+crop_x_pct = 50
+crop_y_pct = 48
+reason = "United face transition; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_058"
+scene_intent_id = "REFINED_CUT_058"
+file_path = "assets/refined_04_magic_real.mp4"
+start = 83.9
+end = 85.45
+source_start = 27.0
+source_end = 28.63
+crop_x_pct = 50
+crop_y_pct = 43
+reason = "happy close-up; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_059"
+scene_intent_id = "REFINED_CUT_059"
+file_path = "assets/refined_07_portrait_reel.mp4"
+start = 85.45
+end = 86.9
+source_start = 21.0
+source_end = 22.53
+crop_x_pct = 50
+crop_y_pct = 45
+reason = "headphones walk-in; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_060"
+scene_intent_id = "REFINED_CUT_060"
+file_path = "assets/refined_02_best_world.mp4"
+start = 86.9
+end = 88.35
+source_start = 1.5
+source_end = 3.03
+crop_x_pct = 50
+crop_y_pct = 51
+reason = "red kit action alternate; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_061"
+scene_intent_id = "REFINED_CUT_061"
+file_path = "assets/refined_06_alnassr_yellow.mp4"
+start = 88.35
+end = 91.45
+source_start = 27.0
+source_end = 30.18
+crop_x_pct = 50
+crop_y_pct = 51
+reason = "extended final yellow kit stance, subject centered before ending wink; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."
+
+[[mappings]]
+id = "MAP_062"
+scene_intent_id = "REFINED_CUT_062"
+file_path = "assets/refined_04_magic_real.mp4"
+start = 91.45
+end = 93.0
+source_start = 27.0
+source_end = 28.63
+crop_x_pct = 50
+crop_y_pct = 42
+reason = "ending happy close-up with subject fully inside square crop; crop center đặt vào chủ thể để tránh cắt người khi vào khung vuông."

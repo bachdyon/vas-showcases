@@ -1,0 +1,22 @@
+[render]
+status = "success"
+output_path = "output/final_video.mp4"
+duration_seconds = 75.392
+width = 1080
+height = 1920
+fps = 30
+has_audio = true
+renderer = "remotion"
+remotion_project_path = "remotion"
+composition_id = "MainVideo"
+
+[[checks]]
+name = "visual_still"
+status = "passed"
+file_path = "output/final_check_6s.jpg"
+message = "Frame kiểm tra có nền đen, khung video bo góc, subtitle karaoke trắng-vàng và brand lockup ở đáy."
+
+[[checks]]
+name = "ffprobe"
+status = "passed"
+message = "Video xuất đúng 1080x1920, 30 fps, có audio AAC."

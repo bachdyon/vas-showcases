@@ -1,0 +1,87 @@
+[job]
+id = "2026-04-30_001_podcast-karaoke-frame-bongdapodcast"
+title = "Podcast karaoke frame bongdapodcast"
+status = "done"
+created_at = "2026-04-30T07:16:23+07:00"
+updated_at = "2026-04-30T08:22:04+07:00"
+
+[request]
+brief = "Tạo video TikTok 9:16 dùng template podcast-karaoke-frame theo ảnh reference: nền đen, khung video vuông đặt chính giữa 50%:50%, mép khung fade mềm vào bên trong, subtitle karaoke tối đa 2 chữ đặt ở đáy bên trong khung, nhịp cắt nhanh 1-2 giây/cảnh. Audio lấy từ link bongdapodcast, footage lấy từ danh sách TikTok user cung cấp."
+platform = "tiktok"
+language = "vi"
+target_duration_seconds = 60.0
+
+[paths]
+job_dir = "jobs/2026-04-30_001_podcast-karaoke-frame-bongdapodcast"
+input_dir = "input"
+reference_dir = "input/reference"
+raw_assets_dir = "input/raw_assets"
+audio_dir = "input/audio"
+brand_dir = "input/brand"
+source_dir = "source"
+remotion_dir = "remotion"
+output_dir = "output"
+logs_dir = "logs"
+
+[[stages]]
+name = "request"
+status = "done"
+output = "job.toml"
+updated_at = "2026-04-30T07:16:23+07:00"
+reason = ""
+
+[[stages]]
+name = "reference_style"
+status = "pending"
+output = "source/vds.md"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "creative_plan"
+status = "pending"
+output = "source/creative_plan.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "voice"
+status = "done"
+output = "source/voice.wav"
+updated_at = "2026-04-30T07:24:52+07:00"
+reason = ""
+
+[[stages]]
+name = "transcript"
+status = "done"
+output = "source/transcript_word_level.toml"
+updated_at = "2026-04-30T07:24:52+07:00"
+reason = ""
+
+[[stages]]
+name = "asset_semantics"
+status = "pending"
+output = "source/asset_semantics.toml"
+updated_at = ""
+reason = ""
+
+[[stages]]
+name = "semantic_mapping"
+status = "done"
+output = "source/semantic_mapping.toml"
+updated_at = "2026-04-30T07:24:52+07:00"
+reason = ""
+
+[[stages]]
+name = "render_plan"
+status = "done"
+output = "source/render_plan.toml"
+updated_at = "2026-04-30T07:43:21+07:00"
+reason = ""
+
+[[stages]]
+name = "render"
+status = "done"
+output = "output/final_video.mp4"
+updated_at = "2026-04-30T08:22:04+07:00"
+reason = ""
