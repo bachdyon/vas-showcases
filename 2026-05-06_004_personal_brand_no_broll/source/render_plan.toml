@@ -6,13 +6,13 @@ duration_seconds = 39.253
 background = "black"
 
 [style]
-vds_path = "jobs/2026-05-06_004_style-caption-chest-zone/source/vds.md"
+vds_path = "jobs/2026-05-06_004_personal_brand_no_broll/source/vds.md"
 subtitle_style = "SUBTITLES"
 title_style = "MAIN_TITLE"
 color_treatment = "match_vds"
 
 [audio.voice]
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/source/voice.wav"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/source/voice.wav"
 start = 0.0
 gain_db = 0.0
 
@@ -25,7 +25,7 @@ duck_under_voice = true
 [[clips]]
 id = "CLIP_001"
 mapping_id = "MAP_001"
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/input/raw_assets/final_video_2026-05-06_003.mp4"
 type = "video"
 timeline_start = 0.0
 timeline_end = 3.56
@@ -47,7 +47,7 @@ color = "match_vds"
 [[clips]]
 id = "CLIP_002"
 mapping_id = "MAP_002"
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/input/raw_assets/final_video_2026-05-06_003.mp4"
 type = "video"
 timeline_start = 3.56
 timeline_end = 7.42
@@ -69,7 +69,7 @@ color = "match_vds"
 [[clips]]
 id = "CLIP_003"
 mapping_id = "MAP_003"
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/input/raw_assets/final_video_2026-05-06_003.mp4"
 type = "video"
 timeline_start = 7.42
 timeline_end = 10.84
@@ -91,7 +91,7 @@ color = "match_vds"
 [[clips]]
 id = "CLIP_004"
 mapping_id = "MAP_004"
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/input/raw_assets/final_video_2026-05-06_003.mp4"
 type = "video"
 timeline_start = 10.84
 timeline_end = 14.22
@@ -113,7 +113,7 @@ color = "match_vds"
 [[clips]]
 id = "CLIP_005"
 mapping_id = "MAP_005"
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/input/raw_assets/final_video_2026-05-06_003.mp4"
 type = "video"
 timeline_start = 14.22
 timeline_end = 18.0
@@ -135,7 +135,7 @@ color = "match_vds"
 [[clips]]
 id = "CLIP_006"
 mapping_id = "MAP_006"
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/input/raw_assets/final_video_2026-05-06_003.mp4"
 type = "video"
 timeline_start = 18.0
 timeline_end = 21.6
@@ -157,7 +157,7 @@ color = "match_vds"
 [[clips]]
 id = "CLIP_007"
 mapping_id = "MAP_007"
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/input/raw_assets/final_video_2026-05-06_003.mp4"
 type = "video"
 timeline_start = 21.6
 timeline_end = 25.56
@@ -179,7 +179,7 @@ color = "match_vds"
 [[clips]]
 id = "CLIP_008"
 mapping_id = "MAP_008"
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/input/raw_assets/final_video_2026-05-06_003.mp4"
 type = "video"
 timeline_start = 25.56
 timeline_end = 28.7
@@ -201,7 +201,7 @@ color = "match_vds"
 [[clips]]
 id = "CLIP_009"
 mapping_id = "MAP_009"
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/input/raw_assets/final_video_2026-05-06_003.mp4"
 type = "video"
 timeline_start = 28.7
 timeline_end = 32.38
@@ -223,7 +223,7 @@ color = "match_vds"
 [[clips]]
 id = "CLIP_010"
 mapping_id = "MAP_010"
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/input/raw_assets/final_video_2026-05-06_003.mp4"
 type = "video"
 timeline_start = 32.38
 timeline_end = 36.06
@@ -245,7 +245,7 @@ color = "match_vds"
 [[clips]]
 id = "CLIP_011"
 mapping_id = "MAP_011"
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/input/raw_assets/final_video_2026-05-06_003.mp4"
 type = "video"
 timeline_start = 36.06
 timeline_end = 38.8

@@ -1,5 +1,5 @@
 [metadata]
-audio_path = "jobs/2026-05-06_004_style-caption-chest-zone/source/voice.wav"
+audio_path = "jobs/2026-05-06_004_personal_brand_no_broll/source/voice.wav"
 language = "vi"
 duration_seconds = 39.253
 model = "whisper-1"

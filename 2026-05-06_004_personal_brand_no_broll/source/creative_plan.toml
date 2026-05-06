@@ -4,7 +4,7 @@ language = "vi"
 platform = "tiktok"
 target_duration_seconds = 39
 aspect_ratio = "9:16"
-source_vds = "jobs/2026-05-06_004_style-caption-chest-zone/source/vds.md"
+source_vds = "jobs/2026-05-06_004_personal_brand_no_broll/source/vds.md"
 
 [creative]
 audience = "Người đang làm nội dung và muốn kiếm tiền bền vững"

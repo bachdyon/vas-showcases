@@ -1,6 +1,6 @@
 [[assets]]
 id = "AST_001"
-file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+file_path = "jobs/2026-05-06_004_personal_brand_no_broll/input/raw_assets/final_video_2026-05-06_003.mp4"
 type = "video"
 duration_seconds = 39.28
 width = 1080
@@ -30,7 +30,7 @@ mood = ["tu-tin", "dan-dat"]
 semantic_tags = ["hook", "intro", "talking-head"]
 recommended_uses = ["hook", "intro"]
 avoid_uses = ["b-roll-only"]
-sample_frames = ["jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
+sample_frames = ["jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
 
 [[asset_scenes]]
 id = "AST_001_SC_02"
@@ -48,7 +48,7 @@ mood = ["nhiet-huyet", "chia-se"]
 semantic_tags = ["body-content", "storytelling"]
 recommended_uses = ["narrative-beat"]
 avoid_uses = ["ending-scene"]
-sample_frames = ["jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
+sample_frames = ["jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
 
 [[asset_scenes]]
 id = "AST_001_SC_03"
@@ -66,7 +66,7 @@ mood = ["nghiem-tuc", "thuyet-phuc"]
 semantic_tags = ["key-point", "storytelling"]
 recommended_uses = ["insight-beat"]
 avoid_uses = ["fast-cut-action"]
-sample_frames = ["jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
+sample_frames = ["jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
 
 [[asset_scenes]]
 id = "AST_001_SC_04"
@@ -84,7 +84,7 @@ mood = ["phong-cach", "tu-nhien"]
 semantic_tags = ["character-focus", "body-content"]
 recommended_uses = ["personality-showcase"]
 avoid_uses = ["intro-scene"]
-sample_frames = ["jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
+sample_frames = ["jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
 
 [[asset_scenes]]
 id = "AST_001_SC_05"
@@ -102,4 +102,4 @@ mood = ["than-thien", "ket-thuc"]
 semantic_tags = ["outro", "cta", "payoff"]
 recommended_uses = ["outro", "cta"]
 avoid_uses = ["hook"]
-sample_frames = ["jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
+sample_frames = ["jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_personal_brand_no_broll/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]

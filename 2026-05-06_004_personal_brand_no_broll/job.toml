@@ -1,18 +1,18 @@
 [job]
-id = "2026-05-06_004_style-caption-chest-zone"
-title = "Style caption chest-zone"
+id = "2026-05-06_004_personal_brand_no_broll"
+title = "Personal brand (no B-roll) — caption ngực + PUNCH"
 status = "done"
 created_at = "2026-05-06T17:41:00+07:00"
 updated_at = "2026-05-06T18:00:37+07:00"
 
 [request]
-brief = "Tạo video theo style caption 2 tầng: context trắng + emphasis vàng/đỏ, motion flash/typewriter/fly-in, đặt text vùng ngực trên."
+brief = "Video nhân hiệu (không B-roll): caption vùng ngực — normal trắng + PUNCH vàng/đỏ, đồng bộ word-level, icon quỹ đạo quanh PUNCH."
 platform = "tiktok"
 language = "vi"
 target_duration_seconds = 0.0
 
 [paths]
-job_dir = "jobs/2026-05-06_004_style-caption-chest-zone"
+job_dir = "jobs/2026-05-06_004_personal_brand_no_broll"
 input_dir = "input"
 reference_dir = "input/reference"
 raw_assets_dir = "input/raw_assets"
