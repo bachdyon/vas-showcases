@@ -1,0 +1,31 @@
+[render]
+width = 1080
+height = 1920
+fps = 30
+duration_seconds = 39.172993
+
+[audio.voice]
+file_path = "showcases/2026-05-06_001_podcast-dong-phuong/input/audio/tiktok_audio.m4a"
+start = 0.0
+end = 39.172993
+volume = 1.0
+
+[[clips]]
+id = "hook_qin_cat_demon"
+file_path = "showcases/2026-05-06_001_podcast-dong-phuong/input/raw_assets/snapwc.com-东方奇谭｜秦俑猫妖.mp4"
+timeline_start = 0.0
+timeline_end = 20.766667
+source_start = 0.0
+source_end = 20.766667
+fit = "full_width_crop_bottom"
+audio = "muted"
+
+[[clips]]
+id = "ancient_yi_sunrise"
+file_path = "showcases/2026-05-06_001_podcast-dong-phuong/input/raw_assets/snapwc.com-东方奇谭｜古彝天籁.mp4"
+timeline_start = 20.766667
+timeline_end = 39.172993
+source_start = 0.0
+source_end = 18.406326
+fit = "full_width_crop_bottom"
+audio = "muted"

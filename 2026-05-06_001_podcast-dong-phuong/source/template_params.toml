@@ -1,0 +1,19 @@
+[template]
+id = "podcast-karaoke-frame"
+name = "Podcast Karaoke Rounded Frame"
+
+[pipeline_boundary]
+semantic_mapping_stage = "upstream_job_specific"
+template_stage = "render_only"
+does_not_run_semantic_mapper = true
+does_not_choose_assets = true
+
+[style]
+brand = ""
+subtitle_top_pct = 45.0
+highlight_color = "#f3dd3d"
+
+[inputs]
+clips = 2
+words = 0
+voice_src = "assets/voice.m4a"

@@ -1,0 +1,21 @@
+[metadata]
+generated_at = "2026-05-06T04:20:55.993687+00:00"
+provider = "tikwm"
+mode = "video"
+hd = true
+total_assets = 1
+
+[[assets]]
+provider = "tikwm"
+media_type = "video"
+source_url = "https://vt.tiktok.com/ZS9qS9DmK/"
+asset_id = "7622856147539643669"
+title = "Nguyên lý cốt lõi của việc kiếm tiền#baihoccuocsong #trietlycuocsong #xuhuong #viral #fyp #thanhcong"
+author = "cuocsongmuonmau626"
+output_path = "showcases/2026-05-06_001_podcast-dong-phuong/input/raw_assets/videos/downloaded/7622856147539643669_nguyên-lý-cốt-lõi-của-việc-kiếm-tiềnbaihoccuocsong-trietlycuocsong-xuh.mp4"
+downloaded = true
+size_bytes = 4693485
+duration_seconds = 0.0
+width = 0
+height = 0
+direct_url_hash = "37fee9d91a0d"
