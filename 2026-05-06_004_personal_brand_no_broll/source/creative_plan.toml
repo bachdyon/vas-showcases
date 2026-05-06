@@ -1,0 +1,379 @@
+[metadata]
+title = "Nguyên lý cốt lõi tạo giá trị"
+language = "vi"
+platform = "tiktok"
+target_duration_seconds = 39
+aspect_ratio = "9:16"
+source_vds = "jobs/2026-05-06_004_style-caption-chest-zone/source/vds.md"
+
+[creative]
+audience = "Người đang làm nội dung và muốn kiếm tiền bền vững"
+goal = "Nhấn mạnh tư duy tạo giá trị thay vì bán sức lao động"
+emotional_arc = ["hook", "tension", "turn", "resolution"]
+tone = "thẳng, sắc, truyền động lực"
+cta = "Lưu video để áp dụng cho dự án tiếp theo."
+
+[voiceover]
+script = """
+Mọi người hãy nhớ, nguyên lý cốt lõi của việc kiếm tiền không phải là bán thời gian, mà là tạo ra giá trị.
+Nguyên lý cốt lõi của việc tạo ra giá trị không phải là cung cấp sức lao động, mà là giải quyết vấn đề.
+Nguyên lý cốt lõi của việc giải quyết vấn đề là nhận diện nhu cầu thực sự của đám đông, không phải là tự thỏa mãn bản thân.
+Nguyên lý cốt lõi của việc nhận diện nhu cầu thực sự là phản hồi từ thực tiễn, không phải chỉ trên lý thuyết.
+Nguyên lý cốt lõi của phản hồi từ thực tiễn là lặp lại và cải tiến nhanh chóng, không phải là mài giũa tỉ mỉ.
+Nguyên lý cốt lõi của việc lặp lại nhanh chóng là kiểm chứng mô hình, không phải chỉ để bán giao.
+Nguyên lý cốt lõi của việc kiểm chứng mô hình là để sao chép thành hệ thống, chứ không phải là cá nhân làm việc cật lực.
+Nguyên lý cốt lõi của sao chép hệ thống là tư duy đòn bẩy, không phải là tích lũy theo đường thẳng.
+"""
+delivery = "dứt khoát, tốc độ vừa, nhấn mạnh từ khóa"
+
+[[scene_intents]]
+id = "SC_01"
+start_hint = 0.0
+end_hint = 3.56
+narrative_role = "hook"
+spoken_text = "Mọi người hãy nhớ nguyên lý cốt lõi của việc kiếm tiền không phải là bán thời gian"
+visual_intent = "Nói thẳng vào camera, mở vấn đề"
+mood = "urgent"
+preferred_shot_types = ["medium shot", "close-up"]
+asset_requirements = ["talking-head", "studio-portrait"]
+
+[[scene_intents]]
+id = "SC_02"
+start_hint = 3.56
+end_hint = 7.42
+narrative_role = "turn"
+spoken_text = "mà là tạo ra giá trị"
+visual_intent = "Đảo vế đối lập để nhấn mạnh thông điệp"
+mood = "confident"
+preferred_shot_types = ["medium shot"]
+asset_requirements = ["talking-head"]
+
+[[scene_intents]]
+id = "SC_03"
+start_hint = 7.42
+end_hint = 10.84
+narrative_role = "tension"
+spoken_text = "không phải cung cấp sức lao động mà là giải quyết vấn đề"
+visual_intent = "Đẩy cảm giác mâu thuẫn giữa hai hướng làm việc"
+mood = "intense"
+preferred_shot_types = ["close-up"]
+asset_requirements = ["talking-head"]
+
+[[scene_intents]]
+id = "SC_04"
+start_hint = 10.84
+end_hint = 14.22
+narrative_role = "tension"
+spoken_text = "nhận diện nhu cầu thực sự của đám đông"
+visual_intent = "Nhấn vào chữ nhu cầu thực sự"
+mood = "serious"
+preferred_shot_types = ["medium shot"]
+asset_requirements = ["talking-head"]
+
+[[scene_intents]]
+id = "SC_05"
+start_hint = 14.22
+end_hint = 18.0
+narrative_role = "tension"
+spoken_text = "không phải tự thỏa mãn bản thân"
+visual_intent = "Tăng tính cảnh báo"
+mood = "warning"
+preferred_shot_types = ["close-up"]
+asset_requirements = ["talking-head"]
+
+[[scene_intents]]
+id = "SC_06"
+start_hint = 18.0
+end_hint = 21.6
+narrative_role = "turn"
+spoken_text = "phản hồi từ thực tiễn không phải chỉ trên lý thuyết"
+visual_intent = "Chuyển từ suy nghĩ sang hành động"
+mood = "grounded"
+preferred_shot_types = ["medium shot"]
+asset_requirements = ["talking-head"]
+
+[[scene_intents]]
+id = "SC_07"
+start_hint = 21.6
+end_hint = 25.56
+narrative_role = "turn"
+spoken_text = "lặp lại và cải tiến nhanh chóng"
+visual_intent = "Gia tốc nhịp nói và nhịp chữ"
+mood = "energetic"
+preferred_shot_types = ["close-up"]
+asset_requirements = ["talking-head"]
+
+[[scene_intents]]
+id = "SC_08"
+start_hint = 25.56
+end_hint = 28.7
+narrative_role = "turn"
+spoken_text = "kiểm chứng mô hình"
+visual_intent = "Nêu nguyên tắc vận hành"
+mood = "focused"
+preferred_shot_types = ["medium shot"]
+asset_requirements = ["talking-head"]
+
+[[scene_intents]]
+id = "SC_09"
+start_hint = 28.7
+end_hint = 32.38
+narrative_role = "resolution"
+spoken_text = "để sao chép thành hệ thống"
+visual_intent = "Nâng tầm từ cá nhân lên hệ thống"
+mood = "confident"
+preferred_shot_types = ["medium shot"]
+asset_requirements = ["talking-head"]
+
+[[scene_intents]]
+id = "SC_10"
+start_hint = 32.38
+end_hint = 36.06
+narrative_role = "resolution"
+spoken_text = "không phải cá nhân làm việc cật lực"
+visual_intent = "Đập tan hiểu lầm phổ biến"
+mood = "warning"
+preferred_shot_types = ["close-up"]
+asset_requirements = ["talking-head"]
+
+[[scene_intents]]
+id = "SC_11"
+start_hint = 36.06
+end_hint = 38.8
+narrative_role = "resolution"
+spoken_text = "tư duy đòn bẩy không phải tích lũy tuyến tính"
+visual_intent = "Kết luận đanh, ngắn, dễ nhớ"
+mood = "strong"
+preferred_shot_types = ["close-up"]
+asset_requirements = ["talking-head"]
+
+[[text_overlays]]
+id = "TXT_001"
+start = 0.2
+end = 2.0
+text = "mọi người hãy nhớ"
+role = "hook"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "flash_in"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_002"
+start = 1.3
+end = 4.1
+text = "nguyên lý cốt lõi"
+role = "tension"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "typewriter_cursor"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_003"
+start = 2.0
+end = 4.1
+text = "KIẾM TIỀN"
+role = "hook"
+style_ref = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_bottom"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_004"
+start = 4.1
+end = 6.3
+text = "không bán thời gian"
+role = "tension"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "fast_fly_in_left"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_005"
+start = 6.3
+end = 8.6
+text = "mà là"
+role = "turn"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "flash_in"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_006"
+start = 6.3
+end = 8.6
+text = "TẠO GIÁ TRỊ"
+role = "turn"
+style_ref = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_right"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_007"
+start = 7.7
+end = 11.0
+text = "cung cấp sức lao động"
+role = "tension"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "typewriter_cursor"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_008"
+start = 11.0
+end = 13.4
+text = "trọng tâm là"
+role = "turn"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "fast_fly_in_bottom"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_009"
+start = 11.0
+end = 13.4
+text = "GIẢI VẤN ĐỀ"
+role = "turn"
+style_ref = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_left"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_010"
+start = 13.4
+end = 16.0
+text = "nhu cầu của đám đông"
+role = "turn"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "flash_in"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_011"
+start = 13.7
+end = 18.6
+text = "không phải là tự"
+role = "warning"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "typewriter_cursor"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_012"
+start = 16.0
+end = 18.6
+text = "BẢN NGÃ"
+role = "warning"
+style_ref = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_right"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_013"
+start = 18.6
+end = 21.4
+text = "phản hồi từ thực tiễn"
+role = "turn"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "fast_fly_in_left"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_014"
+start = 21.4
+end = 24.4
+text = "lặp lại thật nhanh"
+role = "turn"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "flash_in"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_015"
+start = 21.4
+end = 24.4
+text = "CẢI TIẾN"
+role = "turn"
+style_ref = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_right"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_016"
+start = 24.4
+end = 27.6
+text = "kiểm chứng mô hình"
+role = "resolution"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "typewriter_cursor"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_017"
+start = 27.6
+end = 31.2
+text = "để"
+role = "resolution"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "fast_fly_in_bottom"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_018"
+start = 27.6
+end = 31.2
+text = "SAO CHÉP HỆ THỐNG"
+role = "resolution"
+style_ref = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_left"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_019"
+start = 31.2
+end = 34.8
+text = "đừng cày cật lực"
+role = "warning"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "flash_in"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_020"
+start = 34.8
+end = 38.8
+text = "hệ thống là"
+role = "resolution"
+style_ref = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "typewriter_cursor"
+animation_out = "fade"
+
+[[text_overlays]]
+id = "TXT_021"
+start = 34.8
+end = 38.8
+text = "TƯ DUY ĐÒN BẨY"
+role = "resolution"
+style_ref = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_right"
+animation_out = "fade"

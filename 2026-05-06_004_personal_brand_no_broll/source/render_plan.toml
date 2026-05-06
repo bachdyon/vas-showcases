@@ -1,0 +1,552 @@
+[render]
+fps = 30
+width = 1080
+height = 1920
+duration_seconds = 39.253
+background = "black"
+
+[style]
+vds_path = "jobs/2026-05-06_004_style-caption-chest-zone/source/vds.md"
+subtitle_style = "SUBTITLES"
+title_style = "MAIN_TITLE"
+color_treatment = "match_vds"
+
+[audio.voice]
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/source/voice.wav"
+start = 0.0
+gain_db = 0.0
+
+[audio.music]
+file_path = "."
+start = 0.0
+gain_db = -18.0
+duck_under_voice = true
+
+[[clips]]
+id = "CLIP_001"
+mapping_id = "MAP_001"
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+type = "video"
+timeline_start = 0.0
+timeline_end = 3.56
+source_start = 0.0
+source_end = 8.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_002"
+mapping_id = "MAP_002"
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+type = "video"
+timeline_start = 3.56
+timeline_end = 7.42
+source_start = 16.0
+source_end = 24.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_003"
+mapping_id = "MAP_003"
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+type = "video"
+timeline_start = 7.42
+timeline_end = 10.84
+source_start = 8.0
+source_end = 16.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_004"
+mapping_id = "MAP_004"
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+type = "video"
+timeline_start = 10.84
+timeline_end = 14.22
+source_start = 0.0
+source_end = 8.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_005"
+mapping_id = "MAP_005"
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+type = "video"
+timeline_start = 14.22
+timeline_end = 18.0
+source_start = 24.0
+source_end = 32.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_006"
+mapping_id = "MAP_006"
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+type = "video"
+timeline_start = 18.0
+timeline_end = 21.6
+source_start = 8.0
+source_end = 16.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_007"
+mapping_id = "MAP_007"
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+type = "video"
+timeline_start = 21.6
+timeline_end = 25.56
+source_start = 32.0
+source_end = 39.28
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_008"
+mapping_id = "MAP_008"
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+type = "video"
+timeline_start = 25.56
+timeline_end = 28.7
+source_start = 24.0
+source_end = 32.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_009"
+mapping_id = "MAP_009"
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+type = "video"
+timeline_start = 28.7
+timeline_end = 32.38
+source_start = 32.0
+source_end = 39.28
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_010"
+mapping_id = "MAP_010"
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+type = "video"
+timeline_start = 32.38
+timeline_end = 36.06
+source_start = 16.0
+source_end = 24.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[clips]]
+id = "CLIP_011"
+mapping_id = "MAP_011"
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+type = "video"
+timeline_start = 36.06
+timeline_end = 38.8
+source_start = 24.0
+source_end = 32.0
+fit = "cover"
+crop_anchor = "center"
+speed = 1.0
+playback_rate = 1.0
+motion = "match_vds"
+coverage_strategy = "exact"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+transition_in = "soft_cut"
+transition_out = "soft_cut"
+color = "match_vds"
+
+[[subtitles]]
+start = 0.0
+end = 3.56
+text = "Mọi người hãy nhớ nguyên lý cốt lõi của việc kiếm tiền không phải là bán thời gian"
+words_ref = ["W_0001", "W_0002", "W_0003", "W_0004", "W_0005", "W_0006", "W_0007", "W_0008", "W_0009", "W_0010", "W_0011", "W_0012", "W_0013", "W_0014", "W_0015", "W_0016", "W_0017", "W_0018"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 3.82
+end = 7.42
+text = "mà là tạo ra giá trị Nguyên lý cốt lõi của việc tạo ra giá trị không phải"
+words_ref = ["W_0019", "W_0020", "W_0021", "W_0022", "W_0023", "W_0024", "W_0025", "W_0026", "W_0027", "W_0028", "W_0029", "W_0030", "W_0031", "W_0032", "W_0033", "W_0034", "W_0035", "W_0036"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 7.42
+end = 10.84
+text = "là cung cấp sức lao động mà là giải quyết vấn đề Nguyên lý cốt lõi của việc"
+words_ref = ["W_0037", "W_0038", "W_0039", "W_0040", "W_0041", "W_0042", "W_0043", "W_0044", "W_0045", "W_0046", "W_0047", "W_0048", "W_0049", "W_0050", "W_0051", "W_0052", "W_0053", "W_0054"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 10.84
+end = 14.22
+text = "giải quyết vấn đề là nhận diện nhu cầu thực sự của đám đông không phải là tự"
+words_ref = ["W_0055", "W_0056", "W_0057", "W_0058", "W_0059", "W_0060", "W_0061", "W_0062", "W_0063", "W_0064", "W_0065", "W_0066", "W_0067", "W_0068", "W_0069", "W_0070", "W_0071", "W_0072"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 14.22
+end = 18.0
+text = "thoả mãn bản thân Nguyên lý cốt lõi của việc nhận diện nhu cầu thực sự là phản"
+words_ref = ["W_0073", "W_0074", "W_0075", "W_0076", "W_0077", "W_0078", "W_0079", "W_0080", "W_0081", "W_0082", "W_0083", "W_0084", "W_0085", "W_0086", "W_0087", "W_0088", "W_0089", "W_0090"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 18.0
+end = 21.6
+text = "hồi từ thực tiễn không phải chỉ trên lý thuyết Nguyên lý cốt lõi của phản hồi từ"
+words_ref = ["W_0091", "W_0092", "W_0093", "W_0094", "W_0095", "W_0096", "W_0097", "W_0098", "W_0099", "W_0100", "W_0101", "W_0102", "W_0103", "W_0104", "W_0105", "W_0106", "W_0107", "W_0108"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 21.6
+end = 25.56
+text = "thực tiễn là lặp lại và cải tiến nhanh chóng không phải là mái rũa tỉ mỉ Nguyên"
+words_ref = ["W_0109", "W_0110", "W_0111", "W_0112", "W_0113", "W_0114", "W_0115", "W_0116", "W_0117", "W_0118", "W_0119", "W_0120", "W_0121", "W_0122", "W_0123", "W_0124", "W_0125", "W_0126"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 25.56
+end = 28.7
+text = "lý cốt lõi của việc lặp lại nhanh chóng là kiểm chứng mô hình không phải chỉ để"
+words_ref = ["W_0127", "W_0128", "W_0129", "W_0130", "W_0131", "W_0132", "W_0133", "W_0134", "W_0135", "W_0136", "W_0137", "W_0138", "W_0139", "W_0140", "W_0141", "W_0142", "W_0143", "W_0144"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 28.7
+end = 32.38
+text = "bán giao Nguyên lý cốt lõi của việc kiểm chứng mô hình là để sao chép thành hệ"
+words_ref = ["W_0145", "W_0146", "W_0147", "W_0148", "W_0149", "W_0150", "W_0151", "W_0152", "W_0153", "W_0154", "W_0155", "W_0156", "W_0157", "W_0158", "W_0159", "W_0160", "W_0161", "W_0162"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 32.38
+end = 36.06
+text = "thống chứ không phải là cá nhân làm việc cất lực Nguyên lý cốt lõi của sao chép"
+words_ref = ["W_0163", "W_0164", "W_0165", "W_0166", "W_0167", "W_0168", "W_0169", "W_0170", "W_0171", "W_0172", "W_0173", "W_0174", "W_0175", "W_0176", "W_0177", "W_0178", "W_0179", "W_0180"]
+style = "SUBTITLES"
+
+[[subtitles]]
+start = 36.06
+end = 38.8
+text = "hệ thống là tư duy đòn bẩy không phải là tích lũy theo đường thẳng"
+words_ref = ["W_0181", "W_0182", "W_0183", "W_0184", "W_0185", "W_0186", "W_0187", "W_0188", "W_0189", "W_0190", "W_0191", "W_0192", "W_0193", "W_0194", "W_0195"]
+style = "SUBTITLES"
+
+[[overlays]]
+id = "TXT_001"
+start = 0.2
+end = 2.0
+text = "mọi người hãy nhớ"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "flash_in"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_002"
+start = 1.3
+end = 4.1
+text = "nguyên lý cốt lõi"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "typewriter_cursor"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_003"
+start = 2.0
+end = 4.1
+text = "KIẾM TIỀN"
+style = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_bottom"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_004"
+start = 4.1
+end = 6.3
+text = "không bán thời gian"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "fast_fly_in_left"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_005"
+start = 6.3
+end = 8.6
+text = "mà là"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "flash_in"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_006"
+start = 6.3
+end = 8.6
+text = "TẠO GIÁ TRỊ"
+style = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_right"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_007"
+start = 7.7
+end = 11.0
+text = "cung cấp sức lao động"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "typewriter_cursor"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_008"
+start = 11.0
+end = 13.4
+text = "trọng tâm là"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "fast_fly_in_bottom"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_009"
+start = 11.0
+end = 13.4
+text = "GIẢI VẤN ĐỀ"
+style = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_left"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_010"
+start = 13.4
+end = 16.0
+text = "nhu cầu của đám đông"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "flash_in"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_011"
+start = 13.7
+end = 18.6
+text = "không phải là tự"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "typewriter_cursor"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_012"
+start = 16.0
+end = 18.6
+text = "BẢN NGÃ"
+style = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_right"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_013"
+start = 18.6
+end = 21.4
+text = "phản hồi từ thực tiễn"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "fast_fly_in_left"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_014"
+start = 21.4
+end = 24.4
+text = "lặp lại thật nhanh"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "flash_in"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_015"
+start = 21.4
+end = 24.4
+text = "CẢI TIẾN"
+style = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_right"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_016"
+start = 24.4
+end = 27.6
+text = "kiểm chứng mô hình"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "typewriter_cursor"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_017"
+start = 27.6
+end = 31.2
+text = "để"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "fast_fly_in_bottom"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_018"
+start = 27.6
+end = 31.2
+text = "SAO CHÉP HỆ THỐNG"
+style = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_left"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_019"
+start = 31.2
+end = 34.8
+text = "đừng cày cật lực"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "flash_in"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_020"
+start = 34.8
+end = 38.8
+text = "hệ thống là"
+style = "SUBTITLE_BOLD"
+position = "upper_chest"
+animation_in = "typewriter_cursor"
+animation_out = "fade"
+
+[[overlays]]
+id = "TXT_021"
+start = 34.8
+end = 38.8
+text = "TƯ DUY ĐÒN BẨY"
+style = "PUNCH_TAG"
+position = "upper_chest"
+animation_in = "fast_fly_in_right"
+animation_out = "fade"

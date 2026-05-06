@@ -1,0 +1,1643 @@
+[metadata]
+audio_path = "jobs/2026-05-06_004_style-caption-chest-zone/source/voice.wav"
+language = "vi"
+duration_seconds = 39.253
+model = "whisper-1"
+text = "Mọi người hãy nhớ, nguyên lý cốt lõi của việc kiếm tiền không phải là bán thời gian, mà là tạo ra giá trị. Nguyên lý cốt lõi của việc tạo ra giá trị không phải là cung cấp sức lao động, mà là giải quyết vấn đề. Nguyên lý cốt lõi của việc giải quyết vấn đề là nhận diện nhu cầu thực sự của đám đông, không phải là tự thoả mãn bản thân. Nguyên lý cốt lõi của việc nhận diện nhu cầu thực sự là phản hồi từ thực tiễn, không phải chỉ trên lý thuyết. Nguyên lý cốt lõi của phản hồi từ thực tiễn là lặp lại và cải tiến nhanh chóng, không phải là mái rũa tỉ mỉ. Nguyên lý cốt lõi của việc lặp lại nhanh chóng là kiểm chứng mô hình, không phải chỉ để bán giao. Nguyên lý cốt lõi của việc kiểm chứng mô hình là để sao chép thành hệ thống, chứ không phải là cá nhân làm việc cất lực. Nguyên lý cốt lõi của sao chép hệ thống là tư duy đòn bẩy, không phải là tích lũy theo đường thẳng."
+
+[[sentences]]
+id = "S_001"
+start = 0.0
+end = 3.56
+sentence = "Mọi người hãy nhớ nguyên lý cốt lõi của việc kiếm tiền không phải là bán thời gian"
+word_ids = ["W_0001", "W_0002", "W_0003", "W_0004", "W_0005", "W_0006", "W_0007", "W_0008", "W_0009", "W_0010", "W_0011", "W_0012", "W_0013", "W_0014", "W_0015", "W_0016", "W_0017", "W_0018"]
+
+[[sentences]]
+id = "S_002"
+start = 3.82
+end = 7.42
+sentence = "mà là tạo ra giá trị Nguyên lý cốt lõi của việc tạo ra giá trị không phải"
+word_ids = ["W_0019", "W_0020", "W_0021", "W_0022", "W_0023", "W_0024", "W_0025", "W_0026", "W_0027", "W_0028", "W_0029", "W_0030", "W_0031", "W_0032", "W_0033", "W_0034", "W_0035", "W_0036"]
+
+[[sentences]]
+id = "S_003"
+start = 7.42
+end = 10.84
+sentence = "là cung cấp sức lao động mà là giải quyết vấn đề Nguyên lý cốt lõi của việc"
+word_ids = ["W_0037", "W_0038", "W_0039", "W_0040", "W_0041", "W_0042", "W_0043", "W_0044", "W_0045", "W_0046", "W_0047", "W_0048", "W_0049", "W_0050", "W_0051", "W_0052", "W_0053", "W_0054"]
+
+[[sentences]]
+id = "S_004"
+start = 10.84
+end = 14.22
+sentence = "giải quyết vấn đề là nhận diện nhu cầu thực sự của đám đông không phải là tự"
+word_ids = ["W_0055", "W_0056", "W_0057", "W_0058", "W_0059", "W_0060", "W_0061", "W_0062", "W_0063", "W_0064", "W_0065", "W_0066", "W_0067", "W_0068", "W_0069", "W_0070", "W_0071", "W_0072"]
+
+[[sentences]]
+id = "S_005"
+start = 14.22
+end = 18.0
+sentence = "thoả mãn bản thân Nguyên lý cốt lõi của việc nhận diện nhu cầu thực sự là phản"
+word_ids = ["W_0073", "W_0074", "W_0075", "W_0076", "W_0077", "W_0078", "W_0079", "W_0080", "W_0081", "W_0082", "W_0083", "W_0084", "W_0085", "W_0086", "W_0087", "W_0088", "W_0089", "W_0090"]
+
+[[sentences]]
+id = "S_006"
+start = 18.0
+end = 21.6
+sentence = "hồi từ thực tiễn không phải chỉ trên lý thuyết Nguyên lý cốt lõi của phản hồi từ"
+word_ids = ["W_0091", "W_0092", "W_0093", "W_0094", "W_0095", "W_0096", "W_0097", "W_0098", "W_0099", "W_0100", "W_0101", "W_0102", "W_0103", "W_0104", "W_0105", "W_0106", "W_0107", "W_0108"]
+
+[[sentences]]
+id = "S_007"
+start = 21.6
+end = 25.56
+sentence = "thực tiễn là lặp lại và cải tiến nhanh chóng không phải là mái rũa tỉ mỉ Nguyên"
+word_ids = ["W_0109", "W_0110", "W_0111", "W_0112", "W_0113", "W_0114", "W_0115", "W_0116", "W_0117", "W_0118", "W_0119", "W_0120", "W_0121", "W_0122", "W_0123", "W_0124", "W_0125", "W_0126"]
+
+[[sentences]]
+id = "S_008"
+start = 25.56
+end = 28.7
+sentence = "lý cốt lõi của việc lặp lại nhanh chóng là kiểm chứng mô hình không phải chỉ để"
+word_ids = ["W_0127", "W_0128", "W_0129", "W_0130", "W_0131", "W_0132", "W_0133", "W_0134", "W_0135", "W_0136", "W_0137", "W_0138", "W_0139", "W_0140", "W_0141", "W_0142", "W_0143", "W_0144"]
+
+[[sentences]]
+id = "S_009"
+start = 28.7
+end = 32.38
+sentence = "bán giao Nguyên lý cốt lõi của việc kiểm chứng mô hình là để sao chép thành hệ"
+word_ids = ["W_0145", "W_0146", "W_0147", "W_0148", "W_0149", "W_0150", "W_0151", "W_0152", "W_0153", "W_0154", "W_0155", "W_0156", "W_0157", "W_0158", "W_0159", "W_0160", "W_0161", "W_0162"]
+
+[[sentences]]
+id = "S_010"
+start = 32.38
+end = 36.06
+sentence = "thống chứ không phải là cá nhân làm việc cất lực Nguyên lý cốt lõi của sao chép"
+word_ids = ["W_0163", "W_0164", "W_0165", "W_0166", "W_0167", "W_0168", "W_0169", "W_0170", "W_0171", "W_0172", "W_0173", "W_0174", "W_0175", "W_0176", "W_0177", "W_0178", "W_0179", "W_0180"]
+
+[[sentences]]
+id = "S_011"
+start = 36.06
+end = 38.8
+sentence = "hệ thống là tư duy đòn bẩy không phải là tích lũy theo đường thẳng"
+word_ids = ["W_0181", "W_0182", "W_0183", "W_0184", "W_0185", "W_0186", "W_0187", "W_0188", "W_0189", "W_0190", "W_0191", "W_0192", "W_0193", "W_0194", "W_0195"]
+
+[[words]]
+id = "W_0001"
+word = "Mọi"
+start = 0.0
+end = 0.2
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0002"
+word = "người"
+start = 0.2
+end = 0.3
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0003"
+word = "hãy"
+start = 0.3
+end = 0.62
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0004"
+word = "nhớ"
+start = 0.62
+end = 0.98
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0005"
+word = "nguyên"
+start = 1.3
+end = 1.3
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0006"
+word = "lý"
+start = 1.3
+end = 1.3
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0007"
+word = "cốt"
+start = 1.3
+end = 1.56
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0008"
+word = "lõi"
+start = 1.56
+end = 1.7
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0009"
+word = "của"
+start = 1.7
+end = 1.86
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0010"
+word = "việc"
+start = 1.86
+end = 2.08
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0011"
+word = "kiếm"
+start = 2.08
+end = 2.26
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0012"
+word = "tiền"
+start = 2.26
+end = 2.44
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0013"
+word = "không"
+start = 2.44
+end = 2.7
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0014"
+word = "phải"
+start = 2.7
+end = 2.88
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0015"
+word = "là"
+start = 2.88
+end = 3.1
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0016"
+word = "bán"
+start = 3.1
+end = 3.12
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0017"
+word = "thời"
+start = 3.12
+end = 3.36
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0018"
+word = "gian"
+start = 3.36
+end = 3.56
+sentence_id = "S_001"
+confidence = 0.0
+
+[[words]]
+id = "W_0019"
+word = "mà"
+start = 3.82
+end = 3.9
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0020"
+word = "là"
+start = 3.9
+end = 4.18
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0021"
+word = "tạo"
+start = 4.18
+end = 4.2
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0022"
+word = "ra"
+start = 4.2
+end = 4.54
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0023"
+word = "giá"
+start = 4.54
+end = 4.54
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0024"
+word = "trị"
+start = 4.54
+end = 4.72
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0025"
+word = "Nguyên"
+start = 5.4
+end = 5.4
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0026"
+word = "lý"
+start = 5.4
+end = 5.4
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0027"
+word = "cốt"
+start = 5.4
+end = 5.62
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0028"
+word = "lõi"
+start = 5.62
+end = 5.84
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0029"
+word = "của"
+start = 5.84
+end = 5.98
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0030"
+word = "việc"
+start = 5.98
+end = 6.22
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0031"
+word = "tạo"
+start = 6.22
+end = 6.4
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0032"
+word = "ra"
+start = 6.4
+end = 6.78
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0033"
+word = "giá"
+start = 6.78
+end = 6.8
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0034"
+word = "trị"
+start = 6.8
+end = 7.0
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0035"
+word = "không"
+start = 7.0
+end = 7.26
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0036"
+word = "phải"
+start = 7.26
+end = 7.42
+sentence_id = "S_002"
+confidence = 0.0
+
+[[words]]
+id = "W_0037"
+word = "là"
+start = 7.42
+end = 7.7
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0038"
+word = "cung"
+start = 7.7
+end = 7.7
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0039"
+word = "cấp"
+start = 7.7
+end = 7.8
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0040"
+word = "sức"
+start = 7.8
+end = 8.0
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0041"
+word = "lao"
+start = 8.0
+end = 8.2
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0042"
+word = "động"
+start = 8.2
+end = 8.44
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0043"
+word = "mà"
+start = 8.52
+end = 8.62
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0044"
+word = "là"
+start = 8.62
+end = 8.9
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0045"
+word = "giải"
+start = 8.9
+end = 8.9
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0046"
+word = "quyết"
+start = 8.9
+end = 9.06
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0047"
+word = "vấn"
+start = 9.06
+end = 9.2
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0048"
+word = "đề"
+start = 9.2
+end = 9.42
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0049"
+word = "Nguyên"
+start = 10.06
+end = 10.06
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0050"
+word = "lý"
+start = 10.06
+end = 10.06
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0051"
+word = "cốt"
+start = 10.06
+end = 10.24
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0052"
+word = "lõi"
+start = 10.24
+end = 10.46
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0053"
+word = "của"
+start = 10.46
+end = 10.6
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0054"
+word = "việc"
+start = 10.6
+end = 10.84
+sentence_id = "S_003"
+confidence = 0.0
+
+[[words]]
+id = "W_0055"
+word = "giải"
+start = 10.84
+end = 11.0
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0056"
+word = "quyết"
+start = 11.0
+end = 11.18
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0057"
+word = "vấn"
+start = 11.18
+end = 11.36
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0058"
+word = "đề"
+start = 11.36
+end = 11.52
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0059"
+word = "là"
+start = 11.52
+end = 11.72
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0060"
+word = "nhận"
+start = 11.72
+end = 11.88
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0061"
+word = "diện"
+start = 11.88
+end = 12.08
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0062"
+word = "nhu"
+start = 12.08
+end = 12.36
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0063"
+word = "cầu"
+start = 12.36
+end = 12.44
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0064"
+word = "thực"
+start = 12.44
+end = 12.76
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0065"
+word = "sự"
+start = 12.76
+end = 12.86
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0066"
+word = "của"
+start = 12.86
+end = 13.04
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0067"
+word = "đám"
+start = 13.04
+end = 13.2
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0068"
+word = "đông"
+start = 13.2
+end = 13.32
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0069"
+word = "không"
+start = 13.74
+end = 13.74
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0070"
+word = "phải"
+start = 13.74
+end = 13.9
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0071"
+word = "là"
+start = 13.9
+end = 14.16
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0072"
+word = "tự"
+start = 14.16
+end = 14.22
+sentence_id = "S_004"
+confidence = 0.0
+
+[[words]]
+id = "W_0073"
+word = "thoả"
+start = 14.22
+end = 14.4
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0074"
+word = "mãn"
+start = 14.4
+end = 14.64
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0075"
+word = "bản"
+start = 14.64
+end = 14.82
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0076"
+word = "thân"
+start = 14.82
+end = 14.94
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0077"
+word = "Nguyên"
+start = 15.56
+end = 15.56
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0078"
+word = "lý"
+start = 15.56
+end = 15.56
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0079"
+word = "cốt"
+start = 15.56
+end = 15.78
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0080"
+word = "lõi"
+start = 15.78
+end = 16.0
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0081"
+word = "của"
+start = 16.0
+end = 16.14
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0082"
+word = "việc"
+start = 16.14
+end = 16.38
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0083"
+word = "nhận"
+start = 16.38
+end = 16.5
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0084"
+word = "diện"
+start = 16.5
+end = 16.7
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0085"
+word = "nhu"
+start = 16.7
+end = 16.9
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0086"
+word = "cầu"
+start = 16.9
+end = 17.06
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0087"
+word = "thực"
+start = 17.06
+end = 17.38
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0088"
+word = "sự"
+start = 17.38
+end = 17.54
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0089"
+word = "là"
+start = 17.54
+end = 17.76
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0090"
+word = "phản"
+start = 17.76
+end = 18.0
+sentence_id = "S_005"
+confidence = 0.0
+
+[[words]]
+id = "W_0091"
+word = "hồi"
+start = 18.0
+end = 18.12
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0092"
+word = "từ"
+start = 18.12
+end = 18.34
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0093"
+word = "thực"
+start = 18.34
+end = 18.52
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0094"
+word = "tiễn"
+start = 18.52
+end = 18.74
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0095"
+word = "không"
+start = 19.02
+end = 19.02
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0096"
+word = "phải"
+start = 19.02
+end = 19.24
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0097"
+word = "chỉ"
+start = 19.24
+end = 19.42
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0098"
+word = "trên"
+start = 19.42
+end = 19.6
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0099"
+word = "lý"
+start = 19.6
+end = 19.74
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0100"
+word = "thuyết"
+start = 19.74
+end = 19.9
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0101"
+word = "Nguyên"
+start = 19.9
+end = 20.34
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0102"
+word = "lý"
+start = 20.34
+end = 20.48
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0103"
+word = "cốt"
+start = 20.48
+end = 20.7
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0104"
+word = "lõi"
+start = 20.7
+end = 20.84
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0105"
+word = "của"
+start = 20.84
+end = 21.0
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0106"
+word = "phản"
+start = 21.0
+end = 21.18
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0107"
+word = "hồi"
+start = 21.18
+end = 21.36
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0108"
+word = "từ"
+start = 21.36
+end = 21.6
+sentence_id = "S_006"
+confidence = 0.0
+
+[[words]]
+id = "W_0109"
+word = "thực"
+start = 21.6
+end = 21.8
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0110"
+word = "tiễn"
+start = 21.8
+end = 22.04
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0111"
+word = "là"
+start = 22.04
+end = 22.2
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0112"
+word = "lặp"
+start = 22.2
+end = 22.38
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0113"
+word = "lại"
+start = 22.38
+end = 22.62
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0114"
+word = "và"
+start = 22.62
+end = 22.94
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0115"
+word = "cải"
+start = 22.94
+end = 22.98
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0116"
+word = "tiến"
+start = 22.98
+end = 23.22
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0117"
+word = "nhanh"
+start = 23.22
+end = 23.44
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0118"
+word = "chóng"
+start = 23.44
+end = 23.66
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0119"
+word = "không"
+start = 24.08
+end = 24.08
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0120"
+word = "phải"
+start = 24.08
+end = 24.24
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0121"
+word = "là"
+start = 24.24
+end = 24.4
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0122"
+word = "mái"
+start = 24.4
+end = 24.54
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0123"
+word = "rũa"
+start = 24.54
+end = 24.86
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0124"
+word = "tỉ"
+start = 24.86
+end = 24.92
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0125"
+word = "mỉ"
+start = 24.92
+end = 25.04
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0126"
+word = "Nguyên"
+start = 25.56
+end = 25.56
+sentence_id = "S_007"
+confidence = 0.0
+
+[[words]]
+id = "W_0127"
+word = "lý"
+start = 25.56
+end = 25.56
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0128"
+word = "cốt"
+start = 25.56
+end = 25.74
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0129"
+word = "lõi"
+start = 25.74
+end = 25.96
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0130"
+word = "của"
+start = 25.96
+end = 26.1
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0131"
+word = "việc"
+start = 26.1
+end = 26.28
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0132"
+word = "lặp"
+start = 26.28
+end = 26.42
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0133"
+word = "lại"
+start = 26.42
+end = 26.64
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0134"
+word = "nhanh"
+start = 26.64
+end = 26.8
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0135"
+word = "chóng"
+start = 26.8
+end = 27.0
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0136"
+word = "là"
+start = 27.0
+end = 27.2
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0137"
+word = "kiểm"
+start = 27.2
+end = 27.38
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0138"
+word = "chứng"
+start = 27.38
+end = 27.52
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0139"
+word = "mô"
+start = 27.52
+end = 27.78
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0140"
+word = "hình"
+start = 27.78
+end = 27.86
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0141"
+word = "không"
+start = 28.28
+end = 28.28
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0142"
+word = "phải"
+start = 28.28
+end = 28.42
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0143"
+word = "chỉ"
+start = 28.42
+end = 28.58
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0144"
+word = "để"
+start = 28.58
+end = 28.7
+sentence_id = "S_008"
+confidence = 0.0
+
+[[words]]
+id = "W_0145"
+word = "bán"
+start = 28.7
+end = 28.92
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0146"
+word = "giao"
+start = 28.92
+end = 29.02
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0147"
+word = "Nguyên"
+start = 29.58
+end = 29.58
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0148"
+word = "lý"
+start = 29.58
+end = 29.58
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0149"
+word = "cốt"
+start = 29.58
+end = 29.78
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0150"
+word = "lõi"
+start = 29.78
+end = 30.02
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0151"
+word = "của"
+start = 30.02
+end = 30.16
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0152"
+word = "việc"
+start = 30.16
+end = 30.36
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0153"
+word = "kiểm"
+start = 30.36
+end = 30.52
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0154"
+word = "chứng"
+start = 30.52
+end = 30.64
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0155"
+word = "mô"
+start = 30.64
+end = 30.9
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0156"
+word = "hình"
+start = 30.9
+end = 31.06
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0157"
+word = "là"
+start = 31.06
+end = 31.46
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0158"
+word = "để"
+start = 31.46
+end = 31.68
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0159"
+word = "sao"
+start = 31.68
+end = 31.94
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0160"
+word = "chép"
+start = 31.94
+end = 32.02
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0161"
+word = "thành"
+start = 32.02
+end = 32.22
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0162"
+word = "hệ"
+start = 32.22
+end = 32.38
+sentence_id = "S_009"
+confidence = 0.0
+
+[[words]]
+id = "W_0163"
+word = "thống"
+start = 32.38
+end = 32.58
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0164"
+word = "chứ"
+start = 32.9
+end = 33.02
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0165"
+word = "không"
+start = 33.02
+end = 33.18
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0166"
+word = "phải"
+start = 33.18
+end = 33.36
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0167"
+word = "là"
+start = 33.36
+end = 33.56
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0168"
+word = "cá"
+start = 33.56
+end = 33.64
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0169"
+word = "nhân"
+start = 33.64
+end = 33.82
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0170"
+word = "làm"
+start = 33.82
+end = 34.0
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0171"
+word = "việc"
+start = 34.0
+end = 34.18
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0172"
+word = "cất"
+start = 34.18
+end = 34.38
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0173"
+word = "lực"
+start = 34.38
+end = 34.48
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0174"
+word = "Nguyên"
+start = 35.02
+end = 35.02
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0175"
+word = "lý"
+start = 35.02
+end = 35.12
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0176"
+word = "cốt"
+start = 35.12
+end = 35.3
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0177"
+word = "lõi"
+start = 35.3
+end = 35.54
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0178"
+word = "của"
+start = 35.54
+end = 35.74
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0179"
+word = "sao"
+start = 35.74
+end = 35.9
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0180"
+word = "chép"
+start = 35.9
+end = 36.06
+sentence_id = "S_010"
+confidence = 0.0
+
+[[words]]
+id = "W_0181"
+word = "hệ"
+start = 36.06
+end = 36.18
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0182"
+word = "thống"
+start = 36.18
+end = 36.18
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0183"
+word = "là"
+start = 36.18
+end = 36.64
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0184"
+word = "tư"
+start = 36.64
+end = 36.8
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0185"
+word = "duy"
+start = 36.8
+end = 36.9
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0186"
+word = "đòn"
+start = 36.9
+end = 37.12
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0187"
+word = "bẩy"
+start = 37.12
+end = 37.36
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0188"
+word = "không"
+start = 37.7
+end = 37.74
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0189"
+word = "phải"
+start = 37.74
+end = 37.9
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0190"
+word = "là"
+start = 37.9
+end = 38.14
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0191"
+word = "tích"
+start = 38.14
+end = 38.18
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0192"
+word = "lũy"
+start = 38.18
+end = 38.38
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0193"
+word = "theo"
+start = 38.38
+end = 38.52
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0194"
+word = "đường"
+start = 38.52
+end = 38.66
+sentence_id = "S_011"
+confidence = 0.0
+
+[[words]]
+id = "W_0195"
+word = "thẳng"
+start = 38.66
+end = 38.8
+sentence_id = "S_011"
+confidence = 0.0

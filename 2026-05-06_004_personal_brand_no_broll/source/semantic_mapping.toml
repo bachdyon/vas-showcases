@@ -1,0 +1,208 @@
+[[mappings]]
+id = "MAP_001"
+scene_id = "SC_01"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_01"
+start = 0.0
+end = 3.56
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+source_start = 0.0
+source_end = 8.0
+fit_score = 0.34
+fit_labels = ["semantic", "shot_type"]
+reason = "Best available semantic match by semantic, shot_type for: Nói thẳng vào camera, mở vấn đề"
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_002"
+scene_id = "SC_02"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_03"
+start = 3.56
+end = 7.42
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+source_start = 16.0
+source_end = 24.0
+fit_score = 0.3
+fit_labels = ["semantic", "shot_type"]
+reason = "Best available semantic match by semantic, shot_type for: Đảo vế đối lập để nhấn mạnh thông điệp"
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_003"
+scene_id = "SC_03"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_02"
+start = 7.42
+end = 10.84
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+source_start = 8.0
+source_end = 16.0
+fit_score = 0.145
+fit_labels = ["semantic"]
+reason = "Best available semantic match by semantic for: Đẩy cảm giác mâu thuẫn giữa hai hướng làm việc"
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_004"
+scene_id = "SC_04"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_01"
+start = 10.84
+end = 14.22
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+source_start = 0.0
+source_end = 8.0
+fit_score = 0.372
+fit_labels = ["semantic", "shot_type"]
+reason = "Best available semantic match by semantic, shot_type for: Nhấn vào chữ nhu cầu thực sự"
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_005"
+scene_id = "SC_05"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_04"
+start = 14.22
+end = 18.0
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+source_start = 24.0
+source_end = 32.0
+fit_score = 0.206
+fit_labels = ["semantic"]
+reason = "Best available semantic match by semantic for: Tăng tính cảnh báo"
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_006"
+scene_id = "SC_06"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_02"
+start = 18.0
+end = 21.6
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+source_start = 8.0
+source_end = 16.0
+fit_score = 0.313
+fit_labels = ["semantic", "shot_type"]
+reason = "Best available semantic match by semantic, shot_type for: Chuyển từ suy nghĩ sang hành động"
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_007"
+scene_id = "SC_07"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_05"
+start = 21.6
+end = 25.56
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+source_start = 32.0
+source_end = 39.28
+fit_score = 0.117
+fit_labels = ["semantic"]
+reason = "Best available semantic match by semantic for: Gia tốc nhịp nói và nhịp chữ"
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_008"
+scene_id = "SC_08"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_04"
+start = 25.56
+end = 28.7
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+source_start = 24.0
+source_end = 32.0
+fit_score = 0.333
+fit_labels = ["semantic", "shot_type"]
+reason = "Best available semantic match by semantic, shot_type for: Nêu nguyên tắc vận hành"
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_009"
+scene_id = "SC_09"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_05"
+start = 28.7
+end = 32.38
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+source_start = 32.0
+source_end = 39.28
+fit_score = 0.294
+fit_labels = ["semantic", "shot_type"]
+reason = "Best available semantic match by semantic, shot_type for: Nâng tầm từ cá nhân lên hệ thống"
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_010"
+scene_id = "SC_10"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_03"
+start = 32.38
+end = 36.06
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+source_start = 16.0
+source_end = 24.0
+fit_score = 0.14
+fit_labels = ["semantic"]
+reason = "Best available semantic match by semantic for: Đập tan hiểu lầm phổ biến"
+fallback = false
+warnings = []
+
+[[mappings]]
+id = "MAP_011"
+scene_id = "SC_11"
+subdivision_role = "primary"
+subdivision_index = 1
+subdivision_total = 1
+asset_id = "AST_001"
+asset_scene_id = "AST_001_SC_04"
+start = 36.06
+end = 38.8
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+source_start = 24.0
+source_end = 32.0
+fit_score = 0.223
+fit_labels = ["semantic"]
+reason = "Best available semantic match by semantic for: Kết luận đanh, ngắn, dễ nhớ"
+fallback = false
+warnings = []

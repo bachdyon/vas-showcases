@@ -1,0 +1,105 @@
+[[assets]]
+id = "AST_001"
+file_path = "jobs/2026-05-06_004_style-caption-chest-zone/input/raw_assets/final_video_2026-05-06_003.mp4"
+type = "video"
+duration_seconds = 39.28
+width = 1080
+height = 1920
+fps = 25.0
+has_audio = true
+summary = "Một người đàn ông với phong cách retro ấn tượng trong bộ suit nhung màu vàng mù tạt đang ngồi chia sẻ câu chuyện tại một không gian quán cà phê ngoài trời."
+visual_style = "cinematic vlog, retro style, ánh sáng tự nhiên, tông màu ấm"
+mood = ["tu-tin", "hoai-co", "cuon-hut"]
+tags = ["thoi-trang-retro", "vlog-chia-se", "cafe-ngoai-troi", "phong-cach-quy-ong", "mustard-suit", "talking-head"]
+privacy_notes = ["khuôn mặt nam chính nhìn rõ"]
+quality_notes = []
+
+[[asset_scenes]]
+id = "AST_001_SC_01"
+start = 0.0
+end = 8.0
+description = "Người đàn ông mặc bộ suit nhung kẻ màu vàng bắt đầu nhìn thẳng vào ống kính và mở lời dẫn dắt câu chuyện. Chủ thể ngồi chính diện trên ghế xếp, tạo sự kết nối trực tiếp với người xem ngay từ đầu."
+subjects = ["người đàn ông", "bộ suit nhung", "micro"]
+actions = ["nhìn vào camera", "mở lời"]
+environment = "quán cà phê ngoài trời"
+shot_type = "medium shot"
+camera_motion = "handheld static"
+composition = "subject centered"
+colors = ["vàng mù tạt", "xanh lá"]
+mood = ["tu-tin", "dan-dat"]
+semantic_tags = ["hook", "intro", "talking-head"]
+recommended_uses = ["hook", "intro"]
+avoid_uses = ["b-roll-only"]
+sample_frames = ["jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_001_SC_02"
+start = 8.0
+end = 16.0
+description = "Chủ thể tiếp tục nói chuyện, tay phải cầm micro nhỏ đưa sát miệng trong khi tay trái bắt đầu có những cử động minh họa nhẹ nhàng. Ánh mắt tập trung và biểu cảm gương mặt thay đổi theo nhịp điệu lời nói."
+subjects = ["người đàn ông", "micro", "bàn tay"]
+actions = ["nói chuyện", "cử động tay"]
+environment = "quán cà phê ngoài trời"
+shot_type = "medium shot"
+camera_motion = "handheld static"
+composition = "subject centered"
+colors = ["vàng mù tạt", "nâu"]
+mood = ["nhiet-huyet", "chia-se"]
+semantic_tags = ["body-content", "storytelling"]
+recommended_uses = ["narrative-beat"]
+avoid_uses = ["ending-scene"]
+sample_frames = ["jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_001_SC_03"
+start = 16.0
+end = 24.0
+description = "Người đàn ông đang diễn đạt một ý quan trọng, khuôn mặt hơi nghiêng nhẹ nhưng vẫn giữ micro ổn định ở vị trí thu âm tốt nhất. Bối cảnh phía sau mờ nhẹ làm nổi bật chất liệu vải nhung kẻ đặc trưng của trang phục."
+subjects = ["người đàn ông", "bộ suit nhung"]
+actions = ["nhấn mạnh lời nói", "giữ micro"]
+environment = "quán cà phê ngoài trời"
+shot_type = "medium shot"
+camera_motion = "handheld static"
+composition = "rule-of-thirds"
+colors = ["vàng mù tạt", "xanh lá"]
+mood = ["nghiem-tuc", "thuyet-phuc"]
+semantic_tags = ["key-point", "storytelling"]
+recommended_uses = ["insight-beat"]
+avoid_uses = ["fast-cut-action"]
+sample_frames = ["jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_001_SC_04"
+start = 24.0
+end = 32.0
+description = "Người đàn ông thay đổi tư thế ngồi nhẹ nhàng trong khi vẫn duy trì mạch kể chuyện một cách tự nhiên. Sự kết hợp giữa bộ suit cổ điển, mái tóc xoăn dài và ria mép tạo nên một hình ảnh cá tính độc đáo trên khung hình."
+subjects = ["người đàn ông", "ria mép", "tóc xoăn"]
+actions = ["thay đổi tư thế", "duy trì lời nói"]
+environment = "quán cà phê ngoài trời"
+shot_type = "medium shot"
+camera_motion = "handheld static"
+composition = "subject centered"
+colors = ["vàng mù tạt", "trắng"]
+mood = ["phong-cach", "tu-nhien"]
+semantic_tags = ["character-focus", "body-content"]
+recommended_uses = ["personality-showcase"]
+avoid_uses = ["intro-scene"]
+sample_frames = ["jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]
+
+[[asset_scenes]]
+id = "AST_001_SC_05"
+start = 32.0
+end = 39.28
+description = "Kết thúc phần chia sẻ, người đàn ông gật đầu nhẹ hoặc mỉm cười trước khi clip dừng lại. Tông màu vàng chủ đạo của trang phục hòa quyện với không gian ấm áp của quán cà phê, để lại ấn tượng thị giác mạnh mẽ."
+subjects = ["người đàn ông", "tách cà phê"]
+actions = ["gật đầu", "mỉm cười"]
+environment = "quán cà phê ngoài trời"
+shot_type = "medium shot"
+camera_motion = "handheld static"
+composition = "subject centered"
+colors = ["vàng mù tạt", "nâu gỗ"]
+mood = ["than-thien", "ket-thuc"]
+semantic_tags = ["outro", "cta", "payoff"]
+recommended_uses = ["outro", "cta"]
+avoid_uses = ["hook"]
+sample_frames = ["jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_01.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_02.jpg", "jobs/2026-05-06_004_style-caption-chest-zone/source/asset_samples/final_video_2026-05-06_003_sample_03.jpg"]

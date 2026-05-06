@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "chunk_word_size": 7,
+  "note": "Punch do phán đoán ngữ nghĩa theo từng cụm ~7 từ; normal = các word_id trong cụm trừ punch, không lặp.",
+  "chunks": [
+    {
+      "id": "C01",
+      "word_ids": ["W_0001", "W_0002", "W_0003", "W_0004", "W_0005", "W_0006", "W_0007"],
+      "punch_word_ids": ["W_0005", "W_0006", "W_0007"],
+      "punch_rationale": "Khái niệm trụ cột của cả bài — câu mở phải đập vào “nguyên lý cốt lõi”."
+    },
+    {
+      "id": "C02",
+      "word_ids": ["W_0008", "W_0009", "W_0010", "W_0011", "W_0012", "W_0013", "W_0014"],
+      "punch_word_ids": ["W_0011", "W_0012"],
+      "punch_rationale": "Ý trung tâm “kiếm tiền” là chủ đề cả câu."
+    },
+    {
+      "id": "C03",
+      "word_ids": ["W_0015", "W_0016", "W_0017", "W_0018", "W_0019", "W_0020", "W_0021"],
+      "punch_word_ids": ["W_0016", "W_0017", "W_0018"],
+      "punch_rationale": "Đối lập làm rõ: nhầm lẫn phổ biến là đổi thời gian lấy tiền — punch “bán thời gian”."
+    },
+    {
+      "id": "C04",
+      "word_ids": ["W_0022", "W_0023", "W_0024", "W_0025", "W_0026", "W_0027", "W_0028"],
+      "punch_word_ids": ["W_0023", "W_0024"],
+      "punch_rationale": "Câu trả lời đúng sau “mà là tạo…” — nhấn “giá trị”."
+    },
+    {
+      "id": "C05",
+      "word_ids": ["W_0029", "W_0030", "W_0031", "W_0032", "W_0033", "W_0034", "W_0035"],
+      "punch_word_ids": ["W_0031", "W_0032", "W_0033", "W_0034"],
+      "punch_rationale": "Lặp lại hoạt động tạo giá trị, cần đọc rõ cánh “tạo ra giá trị” trước khi đảo “không phải”."
+    },
+    {
+      "id": "C06",
+      "word_ids": ["W_0036", "W_0037", "W_0038", "W_0039", "W_0040", "W_0041", "W_0042"],
+      "punch_word_ids": ["W_0038", "W_0039", "W_0040", "W_0041", "W_0042"],
+      "punch_rationale": "Ẩn dụ lao động thô là nhánh cần phủ nhận — cả cụm “cung cấp sức lao động” nổi nhất."
+    },
+    {
+      "id": "C07",
+      "word_ids": ["W_0043", "W_0044", "W_0045", "W_0046", "W_0047", "W_0048", "W_0049"],
+      "punch_word_ids": ["W_0045", "W_0046", "W_0047", "W_0048"],
+      "punch_rationale": "Định nghĩa tạo giá trị thực: “giải quyết vấn đề” là điểm sáng."
+    },
+    {
+      "id": "C08",
+      "word_ids": ["W_0050", "W_0051", "W_0052", "W_0053", "W_0054", "W_0055", "W_0056"],
+      "punch_word_ids": ["W_0055", "W_0056"],
+      "punch_rationale": "Cụm filler “Nguyên lý…” lặp lại; punch gọn “giải quyết” để không bị ngợp."
+    },
+    {
+      "id": "C09",
+      "word_ids": ["W_0057", "W_0058", "W_0059", "W_0060", "W_0061", "W_0062", "W_0063"],
+      "punch_word_ids": ["W_0062", "W_0063"],
+      "punch_rationale": "Nhu cầu thị trường — “nhu cầu” là từ khóa."
+    },
+    {
+      "id": "C10",
+      "word_ids": ["W_0064", "W_0065", "W_0066", "W_0067", "W_0068", "W_0069", "W_0070"],
+      "punch_word_ids": ["W_0067", "W_0068"],
+      "punch_rationale": "Đối tượng cần phục vụ — “đám đông” mang tính gợi hình mạnh."
+    },
+    {
+      "id": "C11",
+      "word_ids": ["W_0071", "W_0072", "W_0073", "W_0074", "W_0075", "W_0076", "W_0077"],
+      "punch_word_ids": ["W_0073", "W_0074", "W_0075", "W_0076"],
+      "punch_rationale": "Cảnh báo sai lệch — “thoả mãn bản thân” là mặt trái cần tránh."
+    },
+    {
+      "id": "C12",
+      "word_ids": ["W_0078", "W_0079", "W_0080", "W_0081", "W_0082", "W_0083", "W_0084"],
+      "punch_word_ids": ["W_0083", "W_0084"],
+      "punch_rationale": "Hành động cốt lõi: nhận diện nhu cầu — nhấn động từ “nhận diện”."
+    },
+    {
+      "id": "C13",
+      "word_ids": ["W_0085", "W_0086", "W_0087", "W_0088", "W_0089", "W_0090", "W_0091"],
+      "punch_word_ids": ["W_0090", "W_0091"],
+      "punch_rationale": "Bằng chứng thực tế — “phản hồi” mở sang thực tiễn."
+    },
+    {
+      "id": "C14",
+      "word_ids": ["W_0092", "W_0093", "W_0094", "W_0095", "W_0096", "W_0097", "W_0098"],
+      "punch_word_ids": ["W_0093", "W_0094"],
+      "punch_rationale": "Đối lập với lý thuyết — “thực tiễn” là punch."
+    },
+    {
+      "id": "C15",
+      "word_ids": ["W_0099", "W_0100", "W_0101", "W_0102", "W_0103", "W_0104", "W_0105"],
+      "punch_word_ids": ["W_0099", "W_0100"],
+      "punch_rationale": "Cảnh báo trật — “lý thuyết” là từ đối lập thực tiễn."
+    },
+    {
+      "id": "C16",
+      "word_ids": ["W_0106", "W_0107", "W_0108", "W_0109", "W_0110", "W_0111", "W_0112"],
+      "punch_word_ids": ["W_0109", "W_0110"],
+      "punch_rationale": "Lặp khẳng định môi trường thử — “thực tiễn” lần hai vẫn là điểm nóng."
+    },
+    {
+      "id": "C17",
+      "word_ids": ["W_0113", "W_0114", "W_0115", "W_0116", "W_0117", "W_0118", "W_0119"],
+      "punch_word_ids": ["W_0115", "W_0116", "W_0117", "W_0118"],
+      "punch_rationale": "Phương pháp lean — “cải tiến nhanh chóng” là cụm có lực."
+    },
+    {
+      "id": "C18",
+      "word_ids": ["W_0120", "W_0121", "W_0122", "W_0123", "W_0124", "W_0125", "W_0126"],
+      "punch_word_ids": ["W_0122", "W_0123", "W_0124", "W_0125"],
+      "punch_rationale": "Ẩn dụ chậm — transcript Whisper viết “mái rũa” nhưng ngữ cảnh là cày detial; vẫn lấy cụm 4 từ làm punch nhịp."
+    },
+    {
+      "id": "C19",
+      "word_ids": ["W_0127", "W_0128", "W_0129", "W_0130", "W_0131", "W_0132", "W_0133"],
+      "punch_word_ids": ["W_0132", "W_0133"],
+      "punch_rationale": "Tốc độ vòng lặp — “lặp lại” gọn và nhớ."
+    },
+    {
+      "id": "C20",
+      "word_ids": ["W_0134", "W_0135", "W_0136", "W_0137", "W_0138", "W_0139", "W_0140"],
+      "punch_word_ids": ["W_0137", "W_0138", "W_0139", "W_0140"],
+      "punch_rationale": "Bước khoa học — “kiểm chứng mô hình” là cụm khóa."
+    },
+    {
+      "id": "C21",
+      "word_ids": ["W_0141", "W_0142", "W_0143", "W_0144", "W_0145", "W_0146", "W_0147"],
+      "punch_word_ids": ["W_0145", "W_0146"],
+      "punch_rationale": "Cạm bẫy giao việc — “bán giao” mang sắc thách thức."
+    },
+    {
+      "id": "C22",
+      "word_ids": ["W_0148", "W_0149", "W_0150", "W_0151", "W_0152", "W_0153", "W_0154"],
+      "punch_word_ids": ["W_0153", "W_0154"],
+      "punch_rationale": "Giữa đoạn lặp cấu trúc, “kiểm chứng” vẫn là ý đậm nhất."
+    },
+    {
+      "id": "C23",
+      "word_ids": ["W_0155", "W_0156", "W_0157", "W_0158", "W_0159", "W_0160", "W_0161"],
+      "punch_word_ids": ["W_0159", "W_0160"],
+      "punch_rationale": "Mục tiêu scale — “sao chép” (nhân bản) là punch."
+    },
+    {
+      "id": "C24",
+      "word_ids": ["W_0162", "W_0163", "W_0164", "W_0165", "W_0166", "W_0167", "W_0168"],
+      "punch_word_ids": ["W_0162", "W_0163"],
+      "punch_rationale": "Kết quả mong muốn — “hệ thống”."
+    },
+    {
+      "id": "C25",
+      "word_ids": ["W_0169", "W_0170", "W_0171", "W_0172", "W_0173", "W_0174", "W_0175"],
+      "punch_word_ids": ["W_0172", "W_0173"],
+      "punch_rationale": "Ảnh hưởng cật lực — “cật lực” gọn và gắt."
+    },
+    {
+      "id": "C26",
+      "word_ids": ["W_0176", "W_0177", "W_0178", "W_0179", "W_0180", "W_0181", "W_0182"],
+      "punch_word_ids": ["W_0179", "W_0180", "W_0181", "W_0182"],
+      "punch_rationale": "Chốt lại lớp trên — “sao chép hệ thống” đủ mạnh cho punch 4 từ."
+    },
+    {
+      "id": "C27",
+      "word_ids": ["W_0183", "W_0184", "W_0185", "W_0186", "W_0187", "W_0188", "W_0189"],
+      "punch_word_ids": ["W_0186", "W_0187"],
+      "punch_rationale": "Framework tư duy — “đòn bẩy” là từ khóa cuối."
+    },
+    {
+      "id": "C28",
+      "word_ids": ["W_0190", "W_0191", "W_0192", "W_0193", "W_0194", "W_0195"],
+      "punch_word_ids": ["W_0194", "W_0195"],
+      "punch_rationale": "Đối lập cuối — “đường thẳng” (tích lũy tuyến tính) là hình ảnh dễ nhớ."
+    }
+  ]
+}

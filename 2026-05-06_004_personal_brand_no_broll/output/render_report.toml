@@ -1,0 +1,22 @@
+[render]
+status = "success"
+output_path = "output/final_video.mp4"
+duration_seconds = 39.317333
+width = 1080
+height = 1920
+fps = 30
+has_audio = true
+renderer = "remotion"
+remotion_project_path = "remotion"
+composition_id = "MainVideo"
+render_plan_path = "source/render_plan.toml"
+
+[[checks]]
+name = "ffprobe_output"
+status = "pass"
+message = "Video final là 1080x1920, 30fps, có audio và thời lượng khoảng 39.32 giây."
+
+[[checks]]
+name = "style_caption_balance"
+status = "pass"
+message = "Phân phối text_overlays đạt 7 màn 1 dòng thường và 7 màn thường + punch tag, animation đã xen kẽ."
