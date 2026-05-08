@@ -1,0 +1,89 @@
+[[voices]]
+id = 1909872
+name = "Podcast"
+language = "vi"
+gender = "MALE"
+age = "YOUNG"
+use_case = "CASUAL"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/voice-audio/42e8f496-49c1-11f1-93aa-eebc479a9134-2eb16c3b-4f8b-4b30-953a-860e043e05c3.wav"
+
+[[voices]]
+id = 1907231
+name = "Thế Anh - Nữ"
+language = "vi"
+gender = "MALE"
+age = "YOUNG"
+use_case = "ADVERTISEMENT"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/voice-audio/feae2fe8-42a5-11f1-946d-0a72e221ac7b-4f5fc04f-163e-4b2a-8c27-99070d1dcdef.wav"
+
+[[voices]]
+id = 1903274
+name = "Giọng Nam đọc TVC"
+language = "vi"
+gender = "MALE"
+age = "YOUNG"
+use_case = "ADVERTISEMENT"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/voice-audio/361c20cc-2148-11f1-af91-d2e5a449a71f-33a63449-8904-45f5-927c-06d7dd17cd5d.wav"
+
+[[voices]]
+id = 1903273
+name = "Voice Quang Sang"
+language = "vi"
+gender = "MALE"
+age = "YOUNG"
+use_case = "TEACHING"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/voice-audio/478f6bd8-e46d-11f0-9cbf-5ee727f698a3-b1ad163e-f854-4366-b947-c75d54f2fc19.wav"
+
+[[voices]]
+id = 1903272
+name = "Tuấn Tú"
+language = "vi"
+gender = "MALE"
+age = "YOUNG"
+use_case = "CASUAL"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/voice-audio/1773292381060447739-ttv-voice-2026031213125226-bmj7QJTW.wav"
+
+[[voices]]
+id = 1903270
+name = "Hữu Tài"
+language = "vi"
+gender = "MALE"
+age = "YOUNG"
+use_case = "NARRATION"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/voice-audio/1773240793753071489-ttv-voice-2026031122530426-n8sDRv5k.wav"
+
+[[voices]]
+id = 1903269
+name = "Đăng Khoa"
+language = "vi"
+gender = "MALE"
+age = "YOUNG"
+use_case = "CASUAL"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/voice-audio/1773213822869581004-ttv-voice-2026031115233526-0AGDFAJV.wav"
+
+[[voices]]
+id = 1903268
+name = "Quang Bảo"
+language = "vi"
+gender = "MALE"
+age = "YOUNG"
+use_case = "CASUAL"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/voice-audio/1773210112765373598-ttv-voice-2026031114213726-moSueAQh.wav"
+
+[[voices]]
+id = 1903266
+name = "Minh Triết"
+language = "vi"
+gender = "MALE"
+age = "MIDDLE_AGED"
+use_case = "REPORTING"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/voice-audio/1773159535098681762-ttv-voice-2026031100184626-pwksr1Z7_1.wav"
+
+[[voices]]
+id = 1903265
+name = "Hải Phong"
+language = "vi"
+gender = "MALE"
+age = "MIDDLE_AGED"
+use_case = "NARRATION"
+audio_url = "https://ausync-h8f7gketarb6a2dt.z01.azurefd.net/voice-audio/d21a0a2af8974eccae455f4636916b75.wav"
