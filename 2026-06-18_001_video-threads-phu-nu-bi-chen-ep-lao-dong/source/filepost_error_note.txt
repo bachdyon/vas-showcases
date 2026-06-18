@@ -1,2 +1,0 @@
-Full-quality FilePost upload failed with HTTP 413 because the updated render is 126 MB. Compressed delivery copy was uploaded successfully instead:
-https://cdn.filepost.dev/file/filepost/uploads/6a/6af47746311b48c6b4514cd2e4cae6a8.mp4
