@@ -1,0 +1,49 @@
+[render]
+template_id = "comment-screens-gameplay"
+composition_id = "CommentScreensVideo"
+fps = 30
+width = 1080
+height = 1920
+duration_seconds = 113.967
+props_path = "remotion/public/template-props.json"
+
+[style]
+background_fit = "cover"
+background_muted = true
+overlay_width_formula = "canvas_width - 2 * overlay_horizontal_margin"
+transition = "hard_cut_at_audio_end"
+
+[[clips]]
+id = "SCENE_001"
+image_path = "input/raw_assets/images/template/001.png"
+audio_path = "source/scene_001.mp3"
+timeline_start_seconds = 0.0
+duration_seconds = 35.1
+
+[[clips]]
+id = "SCENE_002"
+image_path = "input/raw_assets/images/template/002.png"
+audio_path = "source/scene_002.mp3"
+timeline_start_seconds = 35.1
+duration_seconds = 22.9
+
+[[clips]]
+id = "SCENE_003"
+image_path = "input/raw_assets/images/template/003.png"
+audio_path = "source/scene_003.mp3"
+timeline_start_seconds = 58.0
+duration_seconds = 21.133
+
+[[clips]]
+id = "SCENE_004"
+image_path = "input/raw_assets/images/template/004.png"
+audio_path = "source/scene_004.mp3"
+timeline_start_seconds = 79.133
+duration_seconds = 22.233
+
+[[clips]]
+id = "SCENE_005"
+image_path = "input/raw_assets/images/template/005.png"
+audio_path = "source/scene_005.mp3"
+timeline_start_seconds = 101.367
+duration_seconds = 12.6

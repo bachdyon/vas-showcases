@@ -1,0 +1,18 @@
+[template]
+id = "comment-screens-gameplay"
+name = "Threads Video"
+source_template = "templates/comment-screens-gameplay"
+generated_at = "2026-06-18T14:12:55+07:00"
+
+[input]
+background_video = "input/raw_assets/videos/template/background.mp4"
+default_background_url = "https://www.tiktok.com/@bloxutt/video/7609404828703395093"
+scene_count = 5
+
+[layout]
+width = 1080
+height = 1920
+fps = 30
+overlay_horizontal_margin = 100
+overlay_width = 880
+alignment = "center center"
