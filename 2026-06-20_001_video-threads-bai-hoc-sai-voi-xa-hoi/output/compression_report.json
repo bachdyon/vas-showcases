@@ -1,0 +1,81 @@
+{
+  "input": {
+    "path": "jobs/2026-06-20_001_video-threads-bai-hoc-sai-voi-xa-hoi/output/final_video_cut_after_trai_giam.mp4",
+    "size_bytes": 91180568,
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1",
+          "bit_rate": "6052836",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "bit_rate": "192601"
+        }
+      ],
+      "format": {
+        "duration": "116.633333",
+        "size": "91180568",
+        "bit_rate": "6254168"
+      }
+    }
+  },
+  "output": {
+    "path": "jobs/2026-06-20_001_video-threads-bai-hoc-sai-voi-xa-hoi/output/final_video_cut_after_trai_giam_under25mb_h264.mp4",
+    "size_bytes": 25019829,
+    "size_mib": 23.861,
+    "under_max_size": true,
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1",
+          "bit_rate": "1612724",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "bit_rate": "94688"
+        }
+      ],
+      "format": {
+        "duration": "116.650000",
+        "size": "25019829",
+        "bit_rate": "1715890"
+      }
+    },
+    "preview_path": "jobs/2026-06-20_001_video-threads-bai-hoc-sai-voi-xa-hoi/output/final_video_cut_after_trai_giam_under25mb_h264.preview.jpg"
+  },
+  "settings": {
+    "codec": "h264",
+    "target_mib": 24.0,
+    "max_mib": 25.0,
+    "computed_video_bitrate_kbps": 1595,
+    "audio_bitrate_kbps": 96,
+    "preset": "medium"
+  }
+}
