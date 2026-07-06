@@ -1,0 +1,19 @@
+job_id = "2026-07-05_001_buddha-poster-tiktok-voice"
+format = "vertical_2_3"
+width = 1024
+height = 1536
+fps = 30
+duration_seconds = 55.722667
+final_video = "final_video.mp4"
+preview = "preview.jpg"
+
+[skills]
+used = ["video-downloader", "word-timestamps-extractor", "overlay-video-preparer", "remotion-best-practices"]
+
+[overlay_video_preparer]
+strategy = "black_background_screen_blend"
+real_alpha_detected = false
+compositor = "Remotion OffthreadVideo"
+dust_playback_rate = 0.42
+petals_playback_rate = 0.55
+loop_to_end = true
