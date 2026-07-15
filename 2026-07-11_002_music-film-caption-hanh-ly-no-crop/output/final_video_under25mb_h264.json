@@ -1,0 +1,81 @@
+{
+  "input": {
+    "path": "jobs/2026-07-11_002_music-film-caption-hanh-ly-no-crop/output/final_video.mp4",
+    "size_bytes": 100105729,
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "r_frame_rate": "60/1",
+          "bit_rate": "8681491",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "bit_rate": "317375"
+        }
+      ],
+      "format": {
+        "duration": "88.917333",
+        "size": "100105729",
+        "bit_rate": "9006633"
+      }
+    }
+  },
+  "output": {
+    "path": "jobs/2026-07-11_002_music-film-caption-hanh-ly-no-crop/output/final_video_under25mb_h264.mp4",
+    "size_bytes": 24782099,
+    "size_mib": 23.634,
+    "under_max_size": true,
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "r_frame_rate": "60/1",
+          "bit_rate": "2089247",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "bit_rate": "128808"
+        }
+      ],
+      "format": {
+        "duration": "88.917000",
+        "size": "24782099",
+        "bit_rate": "2229683"
+      }
+    },
+    "preview_path": "jobs/2026-07-11_002_music-film-caption-hanh-ly-no-crop/output/final_video_under25mb_h264.preview.jpg"
+  },
+  "settings": {
+    "codec": "h264",
+    "target_mib": 24.0,
+    "max_mib": 25.0,
+    "computed_video_bitrate_kbps": 2090,
+    "audio_bitrate_kbps": 128,
+    "preset": "medium"
+  }
+}
