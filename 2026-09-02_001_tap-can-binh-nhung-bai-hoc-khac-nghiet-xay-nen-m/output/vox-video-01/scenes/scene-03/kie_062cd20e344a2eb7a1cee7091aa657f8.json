@@ -1,0 +1,23 @@
+{
+  "taskId": "062cd20e344a2eb7a1cee7091aa657f8",
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "062cd20e344a2eb7a1cee7091aa657f8",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":7,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/76/76774bff9c9349f896a1c24fc8513dfc\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 show only empty plate: no foreground paper, prop, person, text, hand, shadow, or collage element. In one locked straight-on shot, settle a faded family photo layer, city silhouette, and shadow layers with tactile stepped stop-motion paper assembly. No redesign or replacement. At final exactly match Reference Image 2 and hold 0.25 seconds. No camera movement, cuts, transition, morph, live action, hybrid overlay, narration, music or intelligible voices; only paper rustle and room tone.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/30d6f04b-7368-4f6c-a43d-66c9ac7dc17c/generated/dc942739-eb32-4850-8a71-f3288679e98b/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 47,
+      "completeTime": 1788353153947,
+      "createTime": 1788353106339,
+      "creditsConsumed": 16.8
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-01/scenes/scene-03/kie_062cd20e344a2eb7a1cee7091aa657f8_1.mp4"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "taskId": "e70c9df45d6d69af5783790ad147b8d3",
+  "model": "grok-imagine-video-1-5-preview",
+  "createResponse": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "e70c9df45d6d69af5783790ad147b8d3",
+      "recordId": "e70c9df45d6d69af5783790ad147b8d3"
+    }
+  },
+  "request": {
+    "model": "grok-imagine-video-1-5-preview",
+    "input": {
+      "aspect_ratio": "9:16",
+      "resolution": "480p",
+      "duration": 7,
+      "nsfw_checker": true,
+      "prompt": "Use Reference Image 1 as the literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as the literal FINAL FRAME and last frame. At 0.00, show only the empty plate: no foreground paper, prop, person, text, hand, shadow, or collage element. In one locked, straight-on shot, assemble the final collage from back to front with tactile stepped stop-motion paper movement: a faint divided-world paper shape settles first, then the small boy and restrained red thread appear. No redesign or replacement. At final, exactly match Reference Image 2 and hold it motionless for at least 0.25 seconds. No camera motion, cut, transition, morph, live action, or hybrid overlay. Generate only paper rustle and room tone; no narration, music, or intelligible voices.",
+      "generate_audio": false,
+      "image_urls": [
+        "https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921",
+        "https://cdn.filepost.dev/file/filepost/uploads/8d/8d2cbd25fd7c4b5d84a45ab7982eb7e2"
+      ]
+    }
+  },
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "e70c9df45d6d69af5783790ad147b8d3",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":7,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/8d/8d2cbd25fd7c4b5d84a45ab7982eb7e2\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as the literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as the literal FINAL FRAME and last frame. At 0.00, show only the empty plate: no foreground paper, prop, person, text, hand, shadow, or collage element. In one locked, straight-on shot, assemble the final collage from back to front with tactile stepped stop-motion paper movement: a faint divided-world paper shape settles first, then the small boy and restrained red thread appear. No redesign or replacement. At final, exactly match Reference Image 2 and hold it motionless for at least 0.25 seconds. No camera motion, cut, transition, morph, live action, or hybrid overlay. Generate only paper rustle and room tone; no narration, music, or intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/017577f5-ed11-46ce-9b0e-825a8c023086/generated/8774ae44-92cc-4833-a46f-aa54c83fa61a/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 45,
+      "completeTime": 1788353044629,
+      "createTime": 1788352999297,
+      "creditsConsumed": 16.8
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-01/scenes/scene-01/kie_e70c9df45d6d69af5783790ad147b8d3_1.mp4"
+    ]
+  }
+}

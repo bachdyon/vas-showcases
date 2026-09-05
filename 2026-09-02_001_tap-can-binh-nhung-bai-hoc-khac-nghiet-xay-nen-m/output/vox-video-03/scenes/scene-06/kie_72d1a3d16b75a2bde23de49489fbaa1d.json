@@ -1,0 +1,47 @@
+{
+  "taskId": "72d1a3d16b75a2bde23de49489fbaa1d",
+  "model": "grok-imagine-video-1-5-preview",
+  "createResponse": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "72d1a3d16b75a2bde23de49489fbaa1d",
+      "recordId": "72d1a3d16b75a2bde23de49489fbaa1d"
+    }
+  },
+  "request": {
+    "model": "grok-imagine-video-1-5-preview",
+    "input": {
+      "aspect_ratio": "9:16",
+      "resolution": "480p",
+      "duration": 9,
+      "nsfw_checker": true,
+      "prompt": "Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 only empty plate. In one locked straight-on shot build move to Xiamen in 1985 with tactile stepped stop-motion paper collage. Preserve the supplied age-appropriate face. At final exactly match Reference Image 2 and hold 0.25 seconds. No zoom, pan, cut, transition, morph, narration, music, intelligible voices.",
+      "generate_audio": false,
+      "image_urls": [
+        "https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921",
+        "https://cdn.filepost.dev/file/filepost/uploads/33/33e09a90d30f4dfdae25dfae0fef6b01"
+      ]
+    }
+  },
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "72d1a3d16b75a2bde23de49489fbaa1d",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":9,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/33/33e09a90d30f4dfdae25dfae0fef6b01\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 only empty plate. In one locked straight-on shot build move to Xiamen in 1985 with tactile stepped stop-motion paper collage. Preserve the supplied age-appropriate face. At final exactly match Reference Image 2 and hold 0.25 seconds. No zoom, pan, cut, transition, morph, narration, music, intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/a0c84e2e-04b8-412d-b8a3-3f241b48aa82/generated/62e43882-0e49-44e1-802b-f5e2a4ea8989/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 32,
+      "completeTime": 1788420472550,
+      "createTime": 1788420439843,
+      "creditsConsumed": 21.6
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-03/scenes/scene-06/kie_72d1a3d16b75a2bde23de49489fbaa1d_1.mp4"
+    ]
+  }
+}

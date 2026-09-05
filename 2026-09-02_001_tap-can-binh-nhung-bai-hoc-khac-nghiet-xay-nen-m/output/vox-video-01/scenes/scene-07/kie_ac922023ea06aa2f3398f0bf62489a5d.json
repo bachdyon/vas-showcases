@@ -1,0 +1,23 @@
+{
+  "taskId": "ac922023ea06aa2f3398f0bf62489a5d",
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "ac922023ea06aa2f3398f0bf62489a5d",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":6,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/54/5444305eb7404acb8d3672e731be77b0\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as the literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as the literal FINAL FRAME and last frame. At 0.00 show only the empty plate: no foreground paper, prop, person, text, hand, shadow, or collage element. In one locked straight-on shot, a tied stack of blank manuscript papers, evidence folder, wax-seal shape and margin shadows settle in with tactile stepped stop-motion paper assembly. No redesign or replacement. At final exactly match Reference Image 2 and hold it motionless for at least 0.25 seconds. No zoom, pan, cuts, transition, morph, live action or hybrid overlay. Generate only paper rustle and room tone; no narration, music, or intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/a7fe0c6e-825d-4080-88b4-c09d65ebc5ee/generated/c8fb3377-a0a4-4c32-91d0-0ab6b29565eb/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 58,
+      "completeTime": 1788353870880,
+      "createTime": 1788353811989,
+      "creditsConsumed": 14.4
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-01/scenes/scene-07/kie_ac922023ea06aa2f3398f0bf62489a5d_1.mp4"
+    ]
+  }
+}

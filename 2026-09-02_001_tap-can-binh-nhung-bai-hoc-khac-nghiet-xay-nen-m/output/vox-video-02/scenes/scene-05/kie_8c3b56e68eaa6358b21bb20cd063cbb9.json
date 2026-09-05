@@ -1,0 +1,23 @@
+{
+  "taskId": "8c3b56e68eaa6358b21bb20cd063cbb9",
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "8c3b56e68eaa6358b21bb20cd063cbb9",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":11,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/f3/f39db1f9486e41839a70172c821ca15f\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 show only empty plate, no foreground paper, prop, person, text, hand, shadow or collage layer. In one locked straight-on shot, build outsider proving he can carry, share labor and stay back to front with tactile stepped stop-motion paper movement. No redesign or replacement. At final exactly match Reference Image 2 and hold unchanged at least 0.25 seconds. No zoom, pan, cut, transition, morph, live action or hybrid overlay. Generate only paper rustle and room tone; no narration, music or intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/81ab604d-c595-4987-a19d-826e0aae572b/generated/0fc39620-dacd-435a-ba85-53b0da949620/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 74,
+      "completeTime": 1788360424570,
+      "createTime": 1788360349550,
+      "creditsConsumed": 26.4
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-02/scenes/scene-05/kie_8c3b56e68eaa6358b21bb20cd063cbb9_1.mp4"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "taskId": "34da32e04f55c4a97a507b53a4bccaf8",
+  "model": "grok-imagine-video-1-5-preview",
+  "createResponse": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "34da32e04f55c4a97a507b53a4bccaf8",
+      "recordId": "34da32e04f55c4a97a507b53a4bccaf8"
+    }
+  },
+  "request": {
+    "model": "grok-imagine-video-1-5-preview",
+    "input": {
+      "aspect_ratio": "9:16",
+      "resolution": "480p",
+      "duration": 14,
+      "nsfw_checker": true,
+      "prompt": "Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 only empty plate. In one locked straight-on shot build two decades of patient accumulation before power with tactile stepped stop-motion paper collage. Preserve the supplied age-appropriate face. At final exactly match Reference Image 2 and hold 0.25 seconds. No zoom, pan, cut, transition, morph, narration, music, intelligible voices.",
+      "generate_audio": false,
+      "image_urls": [
+        "https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921",
+        "https://cdn.filepost.dev/file/filepost/uploads/ce/ce692af4e5b942798dd84b402a1dbee0"
+      ]
+    }
+  },
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "34da32e04f55c4a97a507b53a4bccaf8",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":14,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/ce/ce692af4e5b942798dd84b402a1dbee0\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 only empty plate. In one locked straight-on shot build two decades of patient accumulation before power with tactile stepped stop-motion paper collage. Preserve the supplied age-appropriate face. At final exactly match Reference Image 2 and hold 0.25 seconds. No zoom, pan, cut, transition, morph, narration, music, intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/6abb61cd-9c86-4f7d-adf0-d0d3e313dbb1/generated/d329822e-0a1c-4088-a558-09bab440dc1a/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 49,
+      "completeTime": 1788420489064,
+      "createTime": 1788420439884,
+      "creditsConsumed": 33.6
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-03/scenes/scene-10/kie_34da32e04f55c4a97a507b53a4bccaf8_1.mp4"
+    ]
+  }
+}

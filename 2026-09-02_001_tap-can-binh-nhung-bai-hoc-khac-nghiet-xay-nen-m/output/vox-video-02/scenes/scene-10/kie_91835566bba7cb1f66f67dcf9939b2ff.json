@@ -1,0 +1,23 @@
+{
+  "taskId": "91835566bba7cb1f66f67dcf9939b2ff",
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "91835566bba7cb1f66f67dcf9939b2ff",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":13,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/08/08dfec4ac2704d85a40c3e4a276f0e15\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 show only empty plate, no foreground paper, prop, person, text, hand, shadow or collage layer. In one locked straight-on shot, build three paths: resist, leave, or enter; he chooses the path inward back to front with tactile stepped stop-motion paper movement. No redesign or replacement. At final exactly match Reference Image 2 and hold unchanged at least 0.25 seconds. No zoom, pan, cut, transition, morph, live action or hybrid overlay. Generate only paper rustle and room tone; no narration, music or intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/f72ea887-8416-4195-acd8-af6948a7460e/generated/0e66e586-71f0-4d27-a96c-68fe27cb2a1c/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 34,
+      "completeTime": 1788360384380,
+      "createTime": 1788360349645,
+      "creditsConsumed": 31.2
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-02/scenes/scene-10/kie_91835566bba7cb1f66f67dcf9939b2ff_1.mp4"
+    ]
+  }
+}

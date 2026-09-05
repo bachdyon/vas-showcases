@@ -1,0 +1,47 @@
+{
+  "taskId": "e6983a606e23d4b1304fb07c18dcb27d",
+  "model": "grok-imagine-video-1-5-preview",
+  "createResponse": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "e6983a606e23d4b1304fb07c18dcb27d",
+      "recordId": "e6983a606e23d4b1304fb07c18dcb27d"
+    }
+  },
+  "request": {
+    "model": "grok-imagine-video-1-5-preview",
+    "input": {
+      "aspect_ratio": "9:16",
+      "resolution": "480p",
+      "duration": 8,
+      "nsfw_checker": true,
+      "prompt": "Use Reference Image 1 as the literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as the literal FINAL FRAME and last frame. At 0.00 show only empty plate: no foreground paper, prop, person, text, hand, shadow, or collage layer. In one locked straight-on shot, assemble a remote Loess Plateau village: ochre gullies, cave-dwelling shapes, and a lone teenage figure approaching, with tactile stepped stop-motion paper movement. No redesign or replacement. At final exactly match Reference Image 2 and hold it unchanged at least 0.25 seconds. No zoom, pan, cut, transition, morph, live action or hybrid overlay. Generate only paper rustle and room tone; no narration, music, or intelligible voices.",
+      "generate_audio": false,
+      "image_urls": [
+        "https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921",
+        "https://cdn.filepost.dev/file/filepost/uploads/cc/cc04e6c3ed154c86b6f835c12bc36c67"
+      ]
+    }
+  },
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "e6983a606e23d4b1304fb07c18dcb27d",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":8,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/cc/cc04e6c3ed154c86b6f835c12bc36c67\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as the literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as the literal FINAL FRAME and last frame. At 0.00 show only empty plate: no foreground paper, prop, person, text, hand, shadow, or collage layer. In one locked straight-on shot, assemble a remote Loess Plateau village: ochre gullies, cave-dwelling shapes, and a lone teenage figure approaching, with tactile stepped stop-motion paper movement. No redesign or replacement. At final exactly match Reference Image 2 and hold it unchanged at least 0.25 seconds. No zoom, pan, cut, transition, morph, live action or hybrid overlay. Generate only paper rustle and room tone; no narration, music, or intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/62dc6242-125e-4f93-9444-7818273eef63/generated/f39dd851-bf6f-42e9-bbc0-a7c47e13688f/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 177,
+      "completeTime": 1788359238903,
+      "createTime": 1788359060593,
+      "creditsConsumed": 19.2
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-02/scenes/scene-02/kie_e6983a606e23d4b1304fb07c18dcb27d_1.mp4"
+    ]
+  }
+}

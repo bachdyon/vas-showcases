@@ -1,0 +1,23 @@
+{
+  "taskId": "d158d34baf31047e0147ab7fbcec8bc9",
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "d158d34baf31047e0147ab7fbcec8bc9",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":11,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/8c/8c2bd1499aa340a09452be61502986ac\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 show only empty plate, no foreground paper, prop, person, text, hand, shadow or collage layer. In one locked straight-on shot, build rejection applications, family dossier, then accepted local party role back to front with tactile stepped stop-motion paper movement. No redesign or replacement. At final exactly match Reference Image 2 and hold unchanged at least 0.25 seconds. No zoom, pan, cut, transition, morph, live action or hybrid overlay. Generate only paper rustle and room tone; no narration, music or intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/31a04880-acfc-4a41-9c66-f0ffd2c4f70c/generated/01652648-c991-45b1-a6d9-26f7b662321d/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 78,
+      "completeTime": 1788360428852,
+      "createTime": 1788360349788,
+      "creditsConsumed": 26.4
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-02/scenes/scene-09/kie_d158d34baf31047e0147ab7fbcec8bc9_1.mp4"
+    ]
+  }
+}

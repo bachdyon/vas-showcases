@@ -1,0 +1,23 @@
+{
+  "taskId": "7d7b7c139ab81ef12ef4d6862869143b",
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "7d7b7c139ab81ef12ef4d6862869143b",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":6,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/7a/7ac3ad7223f1400fb5db9afe22b0a108\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 show only empty plate, no foreground paper, prop, person, text, hand, shadow or collage layer. In one locked straight-on shot, build departure from Beijing toward the Loess Plateau back to front with tactile stepped stop-motion paper movement. No redesign or replacement. At final exactly match Reference Image 2 and hold unchanged at least 0.25 seconds. No zoom, pan, cut, transition, morph, live action or hybrid overlay. Generate only paper rustle and room tone; no narration, music or intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/0fb08541-db14-4112-bce9-ad9408b9bfcf/generated/5032689b-91b2-4178-bf92-f4c23d885b45/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 40,
+      "completeTime": 1788360388368,
+      "createTime": 1788360347994,
+      "creditsConsumed": 14.4
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-02/scenes/scene-01/kie_7d7b7c139ab81ef12ef4d6862869143b_1.mp4"
+    ]
+  }
+}

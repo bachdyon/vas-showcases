@@ -1,0 +1,23 @@
+{
+  "taskId": "e6b345be48b51d8c34f863314b823cec",
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "e6b345be48b51d8c34f863314b823cec",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":9,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/6b/6bd9657ba7b14548a4ffb27f7568373c\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 show only empty plate, no foreground paper, prop, person, text, hand, shadow or collage layer. In one locked straight-on shot, build resilience: endurance, presence and not giving up back to front with tactile stepped stop-motion paper movement. No redesign or replacement. At final exactly match Reference Image 2 and hold unchanged at least 0.25 seconds. No zoom, pan, cut, transition, morph, live action or hybrid overlay. Generate only paper rustle and room tone; no narration, music or intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/e828b4d5-9afd-4305-8259-1cbdef309094/generated/6efffa8a-b503-4d36-8a33-203c29f9c220/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 47,
+      "completeTime": 1788360397199,
+      "createTime": 1788360349661,
+      "creditsConsumed": 21.6
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-02/scenes/scene-07/kie_e6b345be48b51d8c34f863314b823cec_1.mp4"
+    ]
+  }
+}

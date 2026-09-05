@@ -1,0 +1,23 @@
+{
+  "taskId": "8742786e372028a0df7464cc8b0601db",
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "8742786e372028a0df7464cc8b0601db",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":7,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/e9/e9542e29113949999b018b13ad39b6c0\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 show only empty plate, no foreground paper, prop, person, text, hand, shadow or collage layer. In one locked straight-on shot, build hard farm labor: shoulder yoke, hoe, trench and earth dam back to front with tactile stepped stop-motion paper movement. No redesign or replacement. At final exactly match Reference Image 2 and hold unchanged at least 0.25 seconds. No zoom, pan, cut, transition, morph, live action or hybrid overlay. Generate only paper rustle and room tone; no narration, music or intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/f1df71b7-356a-4940-b6bc-beb652c486dd/generated/87fb07ed-2538-469d-a6da-709eaec68ce3/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 31,
+      "completeTime": 1788360381443,
+      "createTime": 1788360349757,
+      "creditsConsumed": 16.8
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-02/scenes/scene-06/kie_8742786e372028a0df7464cc8b0601db_1.mp4"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "taskId": "5d1efa23c2052989721c5f910d2e1685",
+  "model": "grok-imagine-video-1-5-preview",
+  "createResponse": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "5d1efa23c2052989721c5f910d2e1685",
+      "recordId": "5d1efa23c2052989721c5f910d2e1685"
+    }
+  },
+  "request": {
+    "model": "grok-imagine-video-1-5-preview",
+    "input": {
+      "aspect_ratio": "9:16",
+      "resolution": "480p",
+      "duration": 6,
+      "nsfw_checker": true,
+      "prompt": "Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 only empty plate. In one locked straight-on shot build young Fujian official years with tactile stepped stop-motion paper collage. Preserve the supplied age-appropriate face. At final exactly match Reference Image 2 and hold 0.25 seconds. No zoom, pan, cut, transition, morph, narration, music, intelligible voices.",
+      "generate_audio": false,
+      "image_urls": [
+        "https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921",
+        "https://cdn.filepost.dev/file/filepost/uploads/11/115c92e716a840c2b1fb28d8aff6821a"
+      ]
+    }
+  },
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "5d1efa23c2052989721c5f910d2e1685",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":6,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/11/115c92e716a840c2b1fb28d8aff6821a\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 only empty plate. In one locked straight-on shot build young Fujian official years with tactile stepped stop-motion paper collage. Preserve the supplied age-appropriate face. At final exactly match Reference Image 2 and hold 0.25 seconds. No zoom, pan, cut, transition, morph, narration, music, intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/f8cb76b6-c62e-478f-9b6f-56e48c1457f1/generated/9deba108-970e-44e1-8b32-d8daf7afd541/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 79,
+      "completeTime": 1788420519944,
+      "createTime": 1788420439637,
+      "creditsConsumed": 14.4
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-03/scenes/scene-07/kie_5d1efa23c2052989721c5f910d2e1685_1.mp4"
+    ]
+  }
+}

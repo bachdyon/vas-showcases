@@ -1,0 +1,23 @@
+{
+  "taskId": "d4dab31729c0243393eac98e3cae1aec",
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "d4dab31729c0243393eac98e3cae1aec",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":4,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/2a/2ae0ab471702472886a5173f718c362d\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as literal FINAL FRAME and last frame. At 0.00 show only empty plate, no foreground paper, prop, person, text, hand, shadow or collage layer. In one locked straight-on shot, build anonymity: family status fades away in a village back to front with tactile stepped stop-motion paper movement. No redesign or replacement. At final exactly match Reference Image 2 and hold unchanged at least 0.25 seconds. No zoom, pan, cut, transition, morph, live action or hybrid overlay. Generate only paper rustle and room tone; no narration, music or intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/39cd3b06-522e-4b00-a22c-02653a3904ce/generated/0bbe9835-5f03-4ec9-97c1-19e09e1f261c/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 62,
+      "completeTime": 1788360410303,
+      "createTime": 1788360347953,
+      "creditsConsumed": 9.6
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-02/scenes/scene-03/kie_d4dab31729c0243393eac98e3cae1aec_1.mp4"
+    ]
+  }
+}

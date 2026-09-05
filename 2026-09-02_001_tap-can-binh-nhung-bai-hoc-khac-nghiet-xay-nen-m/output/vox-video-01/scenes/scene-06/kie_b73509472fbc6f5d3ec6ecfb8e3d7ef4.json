@@ -1,0 +1,23 @@
+{
+  "taskId": "b73509472fbc6f5d3ec6ecfb8e3d7ef4",
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "b73509472fbc6f5d3ec6ecfb8e3d7ef4",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":5,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://cdn.filepost.dev/file/filepost/uploads/a2/a2ce0a6fd78940df8c81781ca9505921\\\",\\\"https://cdn.filepost.dev/file/filepost/uploads/9c/9ce8636578ac4fb49b9ec6ea1068f3a8\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as the literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as the literal FINAL FRAME and last frame. At 0.00 show only the empty plate: no foreground paper, prop, person, text, hand, shadow, or collage element. In one locked straight-on shot, the modest school desk and child paper form settle in, then a dossier shadow crosses the family photo with tactile stepped stop-motion paper assembly. No redesign or replacement. At final exactly match Reference Image 2 and hold it motionless for at least 0.25 seconds. No zoom, pan, cuts, transition, morph, live action or hybrid overlay. Generate only paper rustle and room tone; no narration, music, or intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/ggg/users/5c06926c-feff-49b0-8be4-67c5b8353f15/generated/2643ec27-c531-4b25-b4d0-59a9a36dc7db/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 51,
+      "completeTime": 1788353863431,
+      "createTime": 1788353811897,
+      "creditsConsumed": 12.0
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-01/scenes/scene-06/kie_b73509472fbc6f5d3ec6ecfb8e3d7ef4_1.mp4"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "taskId": "13dec39468deac37fdcfa76c6b537925",
+  "model": "grok-imagine-video-1-5-preview",
+  "createResponse": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "13dec39468deac37fdcfa76c6b537925",
+      "recordId": "13dec39468deac37fdcfa76c6b537925"
+    }
+  },
+  "request": {
+    "model": "grok-imagine-video-1-5-preview",
+    "input": {
+      "aspect_ratio": "9:16",
+      "resolution": "480p",
+      "duration": 7,
+      "nsfw_checker": true,
+      "prompt": "Use Reference Image 1 as the literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as the literal FINAL FRAME and last frame. At 0.00, show only the empty plate: no foreground paper, prop, person, text, hand, shadow, or collage element. In one locked, straight-on shot, build the archival collage back to front: abstract hall, childhood-photo rectangle, then formal silhouette. Restrained stepped paper stop-motion. No redesign or replacement. At final, exactly match Reference Image 2 and hold it motionless for at least 0.25 seconds. No camera motion, cut, transition, morph, live action, or hybrid overlay. Generate only paper rustle and room tone; no narration, music, or intelligible voices.",
+      "generate_audio": false,
+      "image_urls": [
+        "https://tempfile.redpandaai.co/kieai/11445057/grok-imagine/empty_plate__sha256_b7eed79c549689e8b83b518f.png",
+        "https://tempfile.redpandaai.co/kieai/11445057/grok-imagine/final__sha256_b768c8ae649175bfb6da1c27.png"
+      ]
+    }
+  },
+  "finalStatus": {
+    "code": 200,
+    "msg": "success",
+    "data": {
+      "taskId": "13dec39468deac37fdcfa76c6b537925",
+      "model": "grok-imagine-video-1-5-preview",
+      "state": "success",
+      "param": "{\"input\":\"{\\\"duration\\\":7,\\\"aspect_ratio\\\":\\\"9:16\\\",\\\"image_urls\\\":[\\\"https://tempfile.redpandaai.co/kieai/11445057/grok-imagine/empty_plate__sha256_b7eed79c549689e8b83b518f.png\\\",\\\"https://tempfile.redpandaai.co/kieai/11445057/grok-imagine/final__sha256_b768c8ae649175bfb6da1c27.png\\\"],\\\"generate_audio\\\":false,\\\"resolution\\\":\\\"480p\\\",\\\"prompt\\\":\\\"Use Reference Image 1 as the literal EMPTY OPENING PLATE and first frame. Use Reference Image 2 as the literal FINAL FRAME and last frame. At 0.00, show only the empty plate: no foreground paper, prop, person, text, hand, shadow, or collage element. In one locked, straight-on shot, build the archival collage back to front: abstract hall, childhood-photo rectangle, then formal silhouette. Restrained stepped paper stop-motion. No redesign or replacement. At final, exactly match Reference Image 2 and hold it motionless for at least 0.25 seconds. No camera motion, cut, transition, morph, live action, or hybrid overlay. Generate only paper rustle and room tone; no narration, music, or intelligible voices.\\\",\\\"nsfw_checker\\\":true}\",\"model\":\"grok-imagine-video-1-5-preview\"}",
+      "resultJson": "{\"resultUrls\":[\"https://tempfile.aiquickdraw.com/g/users/ab46a32e-78ab-4e7e-88cf-8719f78dca23/generated/73e78e39-28fc-454e-b0a9-b41b9839d456/generated_video.mp4\"]}",
+      "failCode": null,
+      "failMsg": null,
+      "costTime": 46,
+      "completeTime": 1788353007162,
+      "createTime": 1788352960406,
+      "creditsConsumed": 16.8
+    },
+    "downloadedFiles": [
+      "jobs/2026-09-02_001_tap-can-binh-nhung-bai-hoc-khac-nghiet-xay-nen-m/output/vox-video-01/scenes/scene-02/kie_13dec39468deac37fdcfa76c6b537925_1.mp4"
+    ]
+  }
+}
